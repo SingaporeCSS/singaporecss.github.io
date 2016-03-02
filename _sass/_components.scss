@@ -1,0 +1,28 @@
+// ==========
+// Components
+// ==========
+// Site header styles
+.c-site-header {
+    border-top: .5rem solid color(main);
+    min-height: 4rem;
+    background-color: color(secondary);
+    color: color(bg);
+}
+.c-site__title {
+    @include responsive-text-size(giga);
+}
+// Content styles
+p {
+    a {
+        text-decoration: underline;
+        color: color(main);
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+// Logo
+.c-logo {
+    height: 8rem;
+    width: 8rem;
+}

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<ul class="c-event-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="c-event-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a class="c-event-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>
+
+<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+

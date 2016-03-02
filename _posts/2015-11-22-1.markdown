@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Talk.CSS #1"
+date:   2015-11-22 19:00:00 +0800
+location: Hackerspace.SG
+categories: meetup
+---
+The inaugural Talk.CSS

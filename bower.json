@@ -1,0 +1,23 @@
+{
+  "name": "singaporecss.github.io",
+  "homepage": "https://github.com/SingaporeCSS/singaporecss.github.io",
+  "authors": [
+    "huijing <kakyou_tensai@yahoo.com>"
+  ],
+  "description": "Website for Talk.CSS",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "susy": "^2.2.12"
+  }
+}

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Talk.CSS #2"
+date:   2016-01-28 19:00:00 +0800
+location: Paypal Singapore
+categories: meetup
+---
+First Talk.CSS of 2016
