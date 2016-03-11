@@ -1,9 +1,30 @@
 @font-face {
-  font-family: 'Ahamono';
-  src: url("../fonts/ahamono-regular.eot");
-  src: url("../fonts/ahamono-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/ahamono-regular.woff2") format("woff2"), url("../fonts/ahamono-regular.woff") format("woff"), url("../fonts/ahamono-regular.ttf") format("truetype");
+  font-family: 'Hack';
+  src: url("../fonts/hack-regular.eot");
+  src: url("../fonts/hack-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/hack-regular.woff2") format("woff2"), url("../fonts/hack-regular.woff") format("woff"), url("../fonts/hack-regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
+
+@font-face {
+  font-family: 'Hack';
+  src: url("../fonts/hack-bold.eot");
+  src: url("../fonts/hack-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/hack-bold.woff2") format("woff2"), url("../fonts/hack-bold.woff") format("woff"), url("../fonts/hack-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Hack';
+  src: url("../fonts/hack-italic.eot");
+  src: url("../fonts/hack-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/hack-italic.woff2") format("woff2"), url("../fonts/hack-italic.woff") format("woff"), url("../fonts/hack-italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Hack';
+  src: url("../fonts/hack-bolditalic.eot");
+  src: url("../fonts/hack-bolditalic.eot?#iefix") format("embedded-opentype"), url("../fonts/hack-bolditalic.woff2") format("woff2"), url("../fonts/hack-bolditalic.woff") format("woff"), url("../fonts/hack-bolditalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
 
 *,
 *::before,
@@ -98,12 +119,28 @@ body {
   line-height: 1.5;
   background-color: var(--bg-color);
   color: var(--text-color);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
   font: 16px/1 sans-serif;
-  font-family: "Ahamono", Arial, sans-serif;
+  font-family: "Hack", Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   height: 100%;
-  margin: 0; }
+  margin: 0;
+  min-height: 100vh; }
+
+main {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1; }
 
 h1 {
   font-size: 2.961rem;
@@ -135,6 +172,8 @@ small {
   line-height: 1.5; }
 
 p {
+  font-size: 0.938rem;
+  line-height: 1.5;
   margin-bottom: 1.5rem; }
 
 .highlight {
@@ -301,13 +340,64 @@ p {
 
 p a {
   color: var(--main-color);
-  text-decoration: underline; }
+  -webkit-transition: all .2s;
+  transition: all .2s; }
   p a:hover {
-    text-decoration: none; }
+    text-shadow: 0 0 0.35px var(--main-color), 0 0 0.35px var(--main-color); }
+
+.c-site-footer {
+  background: var(--main-color);
+  color: var(--bg-color);
+  padding: 1rem 0 2rem; }
+  .c-site-footer p a {
+    border-bottom: 1px solid var(--bg-color);
+    color: var(--bg-color); }
+    .c-site-footer p a:hover {
+      border-bottom: 0;
+      text-shadow: 0 0 0.35px var(--bg-color), 0 0 0.35px var(--bg-color); }
+
+.c-footer__about {
+  text-align: center; }
+  @media all and (min-width: 48em) {
+    .c-footer__about {
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex; }
+      .c-footer__about p {
+        text-align: left; } }
+
+@media all and (min-width: 48em) {
+  .c-footer__logo {
+    margin-right: 1rem; } }
 
 .c-logo {
+  background: var(--bg-color);
+  -webkit-border-radius: 1rem;
+          border-radius: 1rem;
   height: 8rem;
+  padding: .5rem;
   width: 8rem; }
+  @media all and (min-width: 80em) {
+    .c-logo {
+      text-align: center; } }
+
+.c-footer__links {
+  text-align: center; }
+  .c-footer__links li {
+    display: inline-block; }
+
+.c-footer__link {
+  border: 1px solid var(--bg-color);
+  -webkit-border-radius: .5rem;
+          border-radius: .5rem;
+  padding: .5rem; }
+  .c-footer__link span {
+    vertical-align: middle; }
 
 .u-flex {
   -webkit-box-align: center;

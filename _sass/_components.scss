@@ -17,16 +17,77 @@
 p {
   a {
     color: color(main);
-    text-decoration: underline;
+    transition: all .2s;
 
     &:hover {
-      text-decoration: none;
+      text-shadow: 0 0 .35px color(main), 0 0 .35px color(main);
     }
   }
 }
 
+
 // Logo
+.c-site-footer {
+  background: color(main);
+  color: color(bg);
+  padding: 1rem 0 2rem;
+
+  p a {
+    border-bottom: 1px solid color(bg);
+    color: color(bg);
+
+    &:hover {
+      border-bottom: 0;
+      text-shadow: 0 0 .35px color(bg), 0 0 .35px color(bg);
+    }
+  }
+}
+
+.c-footer__about {
+  text-align: center;
+
+  @include mappy-bp(medium) {
+    align-items: center;
+    display: flex;
+
+    p {
+      text-align: left;
+    }
+  }
+}
+
+.c-footer__logo {
+  @include mappy-bp(medium) {
+    margin-right: 1rem;
+  }
+}
+
 .c-logo {
+  background: color(bg);
+  border-radius: 1rem;
   height: 8rem;
+  padding: .5rem;
   width: 8rem;
+
+  @include mappy-bp(large) {
+    text-align: center;
+  }
+}
+
+.c-footer__links {
+  text-align: center;
+
+  li {
+    display: inline-block;
+  }
+}
+
+.c-footer__link {
+  border: 1px solid color(bg);
+  border-radius: .5rem;
+  padding: .5rem;
+
+  span {
+    vertical-align: middle;
+  }
 }

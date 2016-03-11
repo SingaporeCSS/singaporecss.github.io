@@ -31,5 +31,6 @@ small {
 }
 
 p {
+  @include responsive-text-size(base);
   margin-bottom: 1.5rem;
 }
