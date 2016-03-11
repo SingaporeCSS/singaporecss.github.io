@@ -1,22 +1,32 @@
 <footer class="c-site-footer">
-    <div class="o-site-wrapper">
-        <div class="c-footer__about">
-            {% include logo.svg %}
-            <h3>SingaporeCSS</h3>
-            <p>Talk.CSS is an event organised by SingaporeCSS, the meet-up group for all things CSS on this little red dot. Do you know your floats, flexbox and transitions or want to learn more? Join now! Get in touch if you'd like to present your work, sponsor or if you just want to say hi.</p>
-            <p>Join our <a href="https://gitter.im/SingaporeCSS/discussions">Gitter group</a> for some lively discussion and troubleshooting adventures. If you ever get stuck with any CSS issues, there's always someone who can help.</p>
-        </div>
-        <ul class="c-footer__links">
-            {% if site.github_username %}
-            <li>
-                {% include icon-github.html username=site.github_username %}
-            </li>
-            {% endif %}
-            {% if site.twitter_username %}
-            <li>
-                {% include icon-twitter.html username=site.twitter_username %}
-            </li>
-            {% endif %}
-        </ul>
+  <div class="o-site-wrapper">
+    <div class="c-footer__about">
+      {% include logo.svg %}
+      <h3>
+        SingaporeCSS
+      </h3>
+      <p>
+        Talk.CSS is an event organised by SingaporeCSS, the meet-up group for all things CSS on this little red dot. Do you know your floats, flexbox and transitions or want to learn more? Join now! Get in touch if you'd like to present your work, sponsor or if you just want to say hi.
+      </p>
+      <p>
+        Join our
+        <a href="https://gitter.im/SingaporeCSS/discussions">
+          Gitter group
+        </a>
+        for some lively discussion and troubleshooting adventures. If you ever get stuck with any CSS issues, there's always someone who can help.
+      </p>
     </div>
+    <ul class="c-footer__links">
+      {% if site.github_username %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+      {% endif %}
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
+    </ul>
+  </div>
 </footer>

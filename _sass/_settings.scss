@@ -3,36 +3,36 @@
 // ========
 
 // Susy settings
-@import "../bower_components/susy/sass/susy";
+@import '../bower_components/susy/sass/susy';
 $susy: (
-    global-box-sizing: border-box,
+  global-box-sizing: border-box,
 );
 
 // Breakpoints
 @import 'lib/mappy-bp';
 $breakpoints: (
-    small:    480px,
-    medium:   768px,
-    large:    1280px,
+  small: 480px,
+  medium: 768px,
+  large: 1280px,
 );
 
 $textpoints: (
-    small:      590px,
-    large:      768px,
+  small: 590px,
+  large: 768px,
 );
 
 // Fonts
-@charset "utf-8";
+@charset 'utf-8';
 
 @font-face {
-    font-family: 'Ahamono';
-    src: url('../fonts/ahamono-regular.eot');
-    src: url('../fonts/ahamono-regular.eot?#iefix') format('embedded-opentype'),
-             url('../fonts/ahamono-regular.woff2') format('woff2'),
-             url('../fonts/ahamono-regular.woff') format('woff'),
-             url('../fonts/ahamono-regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Ahamono';
+  src: url('../fonts/ahamono-regular.eot');
+  src: url('../fonts/ahamono-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/ahamono-regular.woff2') format('woff2'),
+       url('../fonts/ahamono-regular.woff') format('woff'),
+       url('../fonts/ahamono-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 // Base font stacks
@@ -40,81 +40,81 @@ $base-font: 'Ahamono', Arial, sans-serif;
 
 // Set typography sizes
 $text-sizing: (
-    deci: (
-        small: (
-            font-size: 0.938rem,
-            line-height: 1.5
-        )
+  deci: (
+    small: (
+      font-size: .938rem,
+      line-height: 1.5
+    )
+  ),
+  base: (
+    small: (
+      font-size: .938rem,
+      line-height: 1.5
     ),
-    base: (
-        small: (
-            font-size: 0.938rem,
-            line-height: 1.5
-        ),
-        medium: (
-            font-size: 1.25rem,
-            line-height: 1.5
-        )
+    medium: (
+      font-size: 1.25rem,
+      line-height: 1.5
+    )
+  ),
+  deca: (
+    small: (
+      font-size: 1.25rem,
+      line-height: 1.5
     ),
-    deca: (
-        small: (
-            font-size: 1.25rem,
-            line-height: 1.5
-        ),
-        medium: (
-            font-size: 1.666rem,
-            line-height: 1.5
-        )
+    medium: (
+      font-size: 1.666rem,
+      line-height: 1.5
+    )
+  ),
+  hecto: (
+    small: (
+      font-size: 1.666rem,
+      line-height: 1.5
     ),
-    hecto: (
-        small: (
-            font-size: 1.666rem,
-            line-height: 1.5
-        ),
-        medium: (
-            font-size: 2.221rem,
-            line-height: 1.5
-        ),
+    medium: (
+      font-size: 2.221rem,
+      line-height: 1.5
     ),
-    kilo: (
-        small: (
-            font-size: 2.221rem,
-            line-height: 1.5
-        ),
-        medium: (
-            font-size: 2.961rem,
-            line-height: 1.5
-        ),
+  ),
+  kilo: (
+    small: (
+      font-size: 2.221rem,
+      line-height: 1.5
     ),
-    mega: (
-        small: (
-            font-size: 2.961rem,
-            line-height: 1.5
-        ),
-        medium: (
-            font-size: 3.947rem,
-            line-height: 1.5
-        ),
+    medium: (
+      font-size: 2.961rem,
+      line-height: 1.5
     ),
-    giga: (
-        small: (
-            font-size: 3.947rem,
-            line-height: 1.5
-        ),
-        medium: (
-            font-size: 5.261rem,
-            line-height: 1.5
-        ),
-    ) 
+  ),
+  mega: (
+    small: (
+      font-size: 2.961rem,
+      line-height: 1.5
+    ),
+    medium: (
+      font-size: 3.947rem,
+      line-height: 1.5
+    ),
+  ),
+  giga: (
+    small: (
+      font-size: 3.947rem,
+      line-height: 1.5
+    ),
+    medium: (
+      font-size: 5.261rem,
+      line-height: 1.5
+    ),
+  )
 );
 
 // Colours
 $colors: (
-    main: #0A7FC0,
-    secondary: #35B3E2,
-    border: #E8E8E8,
-    text: #333,
-    bg: #FAFAFF
+  main: #0a7fc0,
+  secondary: #35b3e2,
+  border: #e8e8e8,
+  text: #333,
+  bg: #fafaff
 );
 
 // Z-index

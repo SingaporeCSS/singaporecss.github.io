@@ -2,10 +2,11 @@
 // Objects
 // =======
 .o-site-wrapper {
-    @include container(60em);
-    padding: 0 1rem;
+  @include container(60em);
+  padding: 0 1rem;
 }
+
 .o-svgicon {
-    height: 1rem;
-    width: 1rem;
+  height: 1rem;
+  width: 1rem;
 }

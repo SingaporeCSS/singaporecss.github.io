@@ -1,16 +1,16 @@
 <header class="c-site-header">
-    <div class="o-site-wrapper u-flex">
-        <a class="c-site__title" href="{{ site.baseurl }}/">
-            {{ site.title }}
-        </a>
-        <nav class="c-site__nav">
-            {% for page in site.pages %}
-            {% if page.title %}
-            <a class="c-site__link" href="{{ page.url | prepend: site.baseurl }}">
-                {{ page.title }}
-            </a>
-            {% endif %}
-            {% endfor %}
-        </nav>
-    </div>
+  <div class="o-site-wrapper u-flex">
+    <a class="c-site__title" href="{{ site.baseurl }}/">
+      {{ site.title }}
+    </a>
+    <nav class="c-site__nav">
+      {% for page in site.pages %}
+      {% if page.title %}
+      <a class="c-site__link" href="{{ page.url | prepend: site.baseurl }}">
+        {{ page.title }}
+      </a>
+      {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
 </header>

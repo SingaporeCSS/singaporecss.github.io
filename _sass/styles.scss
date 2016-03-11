@@ -1,29 +1,27 @@
-/*
- * CSS architecture for Talk.CSS website
- * Developed by Chen Hui Jing <kakyou_tensai@yahoo.com>
- * -----
- * Structure based on ITCSS by Harry Roberts
- * http://csswizardry.net/talks/2014/11/itcss-dafed.pdf
- * Rationale for class name-spacing can be found at
- * http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/
- */
+// CSS architecture for Talk.CSS website
+// Developed by Chen Hui Jing <kakyou_tensai@yahoo.com>
+// -----
+// Structure based on ITCSS by Harry Roberts
+// http://csswizardry.net/talks/2014/11/itcss-dafed.pdf
+// Rationale for class name-spacing can be found at
+// http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/
 
 // ==========
 // SETTINGS - Global variables, config switches
 // ==========
-@import "settings";
+@import 'settings';
 // ==========
 // TOOLS - Default mixins and functions
 // ==========
-@import "tools";
+@import 'tools';
 // ==========
 // GENERIC - Ground-zero styles (Normalize.css, resets, box-sizing)
 // ==========
-@import "generic";
+@import 'generic';
 // ==========
 // BASE - Unclassed HTML elements (type selectors)
 // ==========
-@import "base";
+@import 'base';
 // ==========
 // VENDOR LIBRARIES - External libraries and plugins
 // ==========
@@ -31,16 +29,16 @@
 // ==========
 // OBJECTS - Cosmetic-free design patterns
 // ==========
-@import "objects";
+@import 'objects';
 // ==========
 // COMPONENTS - Designed components, chunks of UI
 // ==========
-@import "components";
+@import 'components';
 // ==========
 // TRUMPS - Helpers and overrides
 // ==========
-@import "trumps";
+@import 'trumps';
 // ==========
-// SHAME - For ad-hoc debugging or testing. Should be empty by default. 
+// SHAME - For ad-hoc debugging or testing. Should be empty by default.
 // ==========
-@import "shame";
+@import 'shame';

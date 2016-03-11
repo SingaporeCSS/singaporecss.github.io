@@ -2,34 +2,34 @@
 // Base
 // ====
 h1 {
-    @include responsive-text-size(mega);
-    margin-bottom: 1rem;
+  @include responsive-text-size(mega);
+  margin-bottom: 1rem;
 }
 
 h2 {
-    @include responsive-text-size(kilo);
-    margin-bottom: 1rem;
+  @include responsive-text-size(kilo);
+  margin-bottom: 1rem;
 }
 
 h3 {
-    @include responsive-text-size(hecto);
-    margin-bottom: 1rem;
+  @include responsive-text-size(hecto);
+  margin-bottom: 1rem;
 }
 
 h4 {
-    @include responsive-text-size(deca);
-    margin-bottom: 1rem;
+  @include responsive-text-size(deca);
+  margin-bottom: 1rem;
 }
 
 h5 {
-    @include responsive-text-size(base);
-    margin-bottom: 1rem;
+  @include responsive-text-size(base);
+  margin-bottom: 1rem;
 }
 
 small {
-    @include responsive-text-size(deci);
+  @include responsive-text-size(deci);
 }
 
 p {
-    margin-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
