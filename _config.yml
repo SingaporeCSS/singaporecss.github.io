@@ -17,5 +17,4 @@ twitter_username: SingaporeCSS
 # Build settings
 gems:
   - jekyll-sitemap
-  - jemoji
   - jekyll-paginate
