@@ -6,42 +6,42 @@ location: Hackerspace.SG
 categories: meetup
 ---
 
-The very first Talk.CSS! Because this event and this entire group was slapped together so spontaneously (check out the [origin story here]({{ site.url }}/about)), we were tacked onto the tail-end of the festivities for [DevFestAsia 2015](http://2015.devfest.asia/). We weren't sure how many people would show up, but thankfully, show up they did. A big shout out to Chris's wife, who provided us three huge bowls of popcorn for the evening.
+The very first Talk.CSS! Because this event and this entire group was slapped together so spontaneously (check out the [origin story here](/about)), we were tacked onto the tail-end of the festivities for [DevFestAsia 2015](http://2015.devfest.asia/). We weren't sure how many people would show up, but thankfully, show up they did. A big shout out to Chris's wife, who provided us three huge bowls of popcorn for the evening.
 
 ## So this happened...
 
 <div class="c-videos">
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/fCYbIVEzFKs" target="_blank">
-      <img class="c-video__img" src="{{ site.url }}/img/talk-1/s101-opening-address.jpg" srcset="{{ site.url }}/img/talk-1/s101-opening-address@2x.jpg 2x" alt="Link to opening address video"/>
+      <img class="c-video__img" src="/img/talk-1/s101-opening-address.jpg" srcset="/img/talk-1/s101-opening-address@2x.jpg 2x" alt="Link to opening address video"/>
     </a>
     <p class="c-video__desc">Chris kicks things off by introducing Talk.CSS to the world. Basically just a short opening address about what we're about (CSS), and how we came about (very hapzardly).</p>
   </div>
 
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/z4s_UxLyA-c" target="_blank">
-      <img class="c-video__img" src="{{ site.url }}/img/talk-1/s102-css-shapes.jpg" srcset="{{ site.url }}/img/talk-1/s102-css-shapes@2x.jpg 2x" alt="Link to talk on CSS shapes"/>
+      <img class="c-video__img" src="/img/talk-1/s102-css-shapes.jpg" srcset="/img/talk-1/s102-css-shapes@2x.jpg 2x" alt="Link to talk on CSS shapes"/>
     </a>
     <p class="c-video__desc">Hui Jing talks about CSS shapes and why you should be excited about them.</p>
   </div>
 
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/1cb7OFJyZAw" target="_blank">
-      <img class="c-video__img" src="{{ site.url }}/img/talk-1/s103-animating-svg.jpg" srcset="{{ site.url }}/img/talk-1/s103-animating-svg@2x.jpg 2x" alt="Link to talk on Animating SVG"/>
+      <img class="c-video__img" src="/img/talk-1/s103-animating-svg.jpg" srcset="/img/talk-1/s103-animating-svg@2x.jpg 2x" alt="Link to talk on Animating SVG"/>
     </a>
     <p class="c-video__desc">Zell presents an abridged version of his CSSConf.Asia talk on animating SVG.</p>
   </div>
 
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/how93Wq_jQw" target="_blank">
-      <img class="c-video__img" src="{{ site.url }}/img/talk-1/s104-priority-plus.jpg" srcset="{{ site.url }}/img/talk-1/s104-priority-plus@2x.jpg 2x" alt="Link to talk on Priority plus"/>
+      <img class="c-video__img" src="/img/talk-1/s104-priority-plus.jpg" srcset="/img/talk-1/s104-priority-plus@2x.jpg 2x" alt="Link to talk on Priority plus"/>
     </a>
     <p class="c-video__desc">Chris shows us a better way to do responsive navigation menus with the priority plus concept.</p>
   </div>
 
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/8w4vPcQMjq0" target="_blank">
-      <img class="c-video__img" src="{{ site.url }}/img/talk-1/s105-closing-address.jpg" srcset="{{ site.url }}/img/talk-1/s105-closing-address@2x.jpg 2x" alt="Link to closing address video"/>
+      <img class="c-video__img" src="/img/talk-1/s105-closing-address.jpg" srcset="/img/talk-1/s105-closing-address@2x.jpg 2x" alt="Link to closing address video"/>
     </a>
     <p class="c-video__desc">A wrap-up of the evening's event, where we thank all who showed up, and hint for them to please show up at the next one.</p>
   </div>
@@ -52,7 +52,7 @@ The very first Talk.CSS! Because this event and this entire group was slapped to
 <div class="o-flex c-speakers">
   <div class="o-flex3__item c-speaker">
     <figure>
-      <img class="c-speaker__img" src="{{ site.url }}/img/talk-1/chj.jpg" srcset="{{ site.url }}/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
+      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Hui Jing played basketball for Malaysia for 6 years and before realising that CSS was better than all that physical activity. She somehow managed to find gainful employment as a front-end developer.</p>
@@ -60,7 +60,7 @@ The very first Talk.CSS! Because this event and this entire group was slapped to
 
   <div class="o-flex3__item c-speaker">
     <figure>
-      <img class="c-speaker__img" src="{{ site.url }}/img/talk-1/zell.jpg" srcset="{{ site.url }}/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
+      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
@@ -68,7 +68,7 @@ The very first Talk.CSS! Because this event and this entire group was slapped to
 
   <div class="o-flex3__item c-speaker">
     <figure>
-      <img class="c-speaker__img" src="{{ site.url }}/img/talk-1/chris.jpg" srcset="{{ site.url }}/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
+      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Chris also has the wrong qualifications and shouldn't be here. No one told him either and, despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's currently working for insurance broker JLT.</p>
