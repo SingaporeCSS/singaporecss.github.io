@@ -2,15 +2,38 @@
 // Objects
 // =======
 .o-site-wrapper {
-  @include container(60em);
+  @include container(60rem);
   padding: 0 1rem;
 }
 
 .o-svgicon {
-  height: 1rem;
-  width: 1rem;
+  height: 2rem;
+  width: 2rem;
+
+  @include mappy-bp(xsmall) {
+    height: 1rem;
+    width: 1rem;
+  }
 
   path {
     fill: color(bg);
+  }
+}
+
+.o-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.o-flex3__item {
+  flex: 0 0 100%;
+
+  @include mappy-bp(small medium) {
+    flex: 0 0 span(6 of 12);
+  }
+
+  @include mappy-bp(medium) {
+    flex: 0 0 span(4 of 12);
   }
 }

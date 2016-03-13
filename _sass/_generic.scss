@@ -14,7 +14,8 @@ h3,
 h4,
 p,
 ol,
-ul {
+ul,
+figure {
   margin: 0;
   padding: 0;
 }
@@ -110,6 +111,10 @@ body {
   -webkit-font-smoothing: antialiased;
   height: 100%;
   margin: 0;
+}
+
+hr {
+  margin-bottom: 1.5rem;
 }
 
 p a {

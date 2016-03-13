@@ -1,18 +1,21 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class="post-header">
-    <p class="post-meta">
+<article class="c-event" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="c-event__header">
+    <p class="c-event__meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: "%b %-d, %Y" }}
       </time>
     </p>
-    <h1 class="post-title" itemprop="name headline">
+    <h1 class="c-event__title" itemprop="name headline">
       {{ page.title }}
     </h1>
+    <p><strong>Event location:</strong> {{ page.location }}</p>
   </header>
-  <div class="post-content" itemprop="articleBody">
+  <div class="c-event__content" itemprop="articleBody">
     {{ content }}
   </div>
 </article>
+
+<p class="c-credits">All videos courtesy of <a href="https://engineers.sg/">Engineers.SG</a>.</p>

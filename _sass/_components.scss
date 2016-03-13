@@ -14,25 +14,14 @@
   font-family: $display-font;
 }
 
-// Content styles
-.c-past-events {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-between;
+.c-site__nav {
+  padding-bottom: 1.5rem;
 }
 
+// Events listing
 .c-past-event {
   box-shadow: 0 2px 5px 0 color(shadow);
-  flex: 0 0 100%;
-  margin-bottom: 1rem;
-
-  @include mappy-bp(small medium) {
-    flex: 0 0 span(6 of 12);
-  }
-
-  @include mappy-bp(medium) {
-    flex: 0 0 span(4 of 12);
-  }
+  margin-bottom: 1.5rem;
 }
 
 @for $i from 1 through length($highlights) {
@@ -41,9 +30,88 @@
   }
 }
 
-.c-past-event-link {
+.c-past-event__link {
   display: block;
   padding: 1rem;
+}
+
+// Meetup videos section
+.c-videos {
+  @include cf;
+  margin-bottom: 3rem;
+}
+
+.c-video {
+  box-shadow: 0 2px 5px 0 color(shadow);
+  margin-bottom: 1.5rem;
+
+  @include mappy-bp(small medium) {
+    @include span(6 of 12);
+
+    &:nth-child(2n) {
+      @include last;
+    }
+  }
+
+  @include mappy-bp(medium) {
+    @include span(12 of 12);
+  }
+}
+
+.c-video__link {
+  line-height: 0;
+}
+
+.c-video__img {
+  @include mappy-bp(medium) {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20rem;
+  }
+}
+
+.c-video__desc {
+  padding: 1rem;
+
+  @include mappy-bp(medium) {
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(100% - 21rem);
+  }
+}
+
+// Meetup speakers section
+.c-speaker {
+  text-align: center;
+}
+
+.c-speaker__img {
+  border-radius: 50%;
+  height: 8rem;
+  margin-bottom: 0.5rem;
+  width: 8rem;
+}
+
+.c-speaker__link {
+  @include responsive-text-size(deci);
+  color: color(main);
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.c-speaker__intro {
+  @include responsive-text-size(deci);
+  text-align: left;
+}
+
+// Misc items
+.c-content__fig {
+  margin-bottom: 1.5rem;
+}
+
+.c-credits {
+  @include responsive-text-size(deci);
+  font-style: italic;
 }
 
 // Site footer styles
@@ -107,12 +175,27 @@
 }
 
 .c-footer__link {
-  border: 1px solid color(bg);
-  border-radius: 0.5rem;
-  display: block;
-  padding: 0.5rem;
-
   span {
-    vertical-align: middle;
+    margin: 0 1rem;
+  }
+
+  span:last-child {
+    display: none;
+  }
+
+  @include mappy-bp(xsmall) {
+    border: 1px solid color(bg);
+    border-radius: 0.5rem;
+    display: block;
+    padding: 0.5rem;
+
+    span {
+      vertical-align: middle;
+      margin: 0;
+    }
+
+    span:last-child {
+      display: inline-block;
+    }
   }
 }

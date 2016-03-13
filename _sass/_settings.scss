@@ -11,6 +11,7 @@ $susy: (
 // Breakpoints
 @import 'lib/mappy-bp';
 $breakpoints: (
+  xsmall: 390px,
   small: 480px,
   medium: 768px,
   large: 1280px,
@@ -83,16 +84,16 @@ $display-font: 'Bixa', 'Hack', Arial, sans-serif;
 $text-sizing: (
   deci: (
     small: (
-      font-size: 0.938rem,
+      font-size: 0.868rem,
       line-height: 1.5
     )
   ),
   base: (
     small: (
-      font-size: 0.938rem,
+      font-size: 1.042rem,
       line-height: 1.5
     ),
-    medium: (
+    large: (
       font-size: 1.25rem,
       line-height: 1.5
     )
@@ -102,48 +103,48 @@ $text-sizing: (
       font-size: 1.25rem,
       line-height: 1.5
     ),
-    medium: (
-      font-size: 1.666rem,
+    large: (
+      font-size: 1.5rem,
       line-height: 1.5
     )
   ),
   hecto: (
     small: (
-      font-size: 1.666rem,
+      font-size: 1.5rem,
       line-height: 1.5
     ),
-    medium: (
-      font-size: 2.221rem,
+    large: (
+      font-size: 1.8rem,
       line-height: 1.5
     ),
   ),
   kilo: (
     small: (
-      font-size: 2.221rem,
+      font-size: 1.8rem,
       line-height: 1.5
     ),
-    medium: (
-      font-size: 2.961rem,
+    large: (
+      font-size: 2.16rem,
       line-height: 1.5
     ),
   ),
   mega: (
     small: (
-      font-size: 2.961rem,
+      font-size: 2.16rem,
       line-height: 1.5
     ),
-    medium: (
-      font-size: 3.947rem,
+    large: (
+      font-size: 2.592rem,
       line-height: 1.5
     ),
   ),
   giga: (
     small: (
-      font-size: 3.947rem,
+      font-size: 3.11rem,
       line-height: 1.5
     ),
-    medium: (
-      font-size: 5.261rem,
+    large: (
+      font-size: 3.732rem,
       line-height: 1.5
     ),
   )

@@ -2,22 +2,30 @@
 layout: default
 ---
 
+<article class="c-upcoming-event">
 {% for post in site.posts limit:1 %}
-  <h2>
-    <a class="c-event-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </h2>
-  <p>{{ post.content }}</p>
+  <header class="c-event__header">
+    <h2 class="c-event__title" itemprop="name headline">
+      {{ post.title }}
+    </h2>
+    <p><strong>Event location:</strong> {{ post.location }}</p>
+    <p><strong>Event date:</strong> {{ post.event-date | date: "%b %-d, %Y" }}</p>
+  </header>
+  <div class="c-event__content" itemprop="articleBody">
+    {{ post.content }}
+  </div>
   <a href="http://www.meetup.com/SingaporeCSS/events/229304320/" data-event="229304320" class="mu-rsvp-btn">RSVP</a>
 {% endfor %}
+</article>
 
 <hr>
 
 <h2>Past meetups</h2>
-<ul class="c-past-events">
+<ul class="o-flex c-past-events">
   {% for post in site.posts offset:1 %}
-    <li class="c-past-event">
-      <a class="c-past-event-link" href="{{ post.url | prepend: site.baseurl }}">
-        <span class="c-past-event-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <li class="o-flex3__item c-past-event">
+      <a class="c-past-event__link" href="{{ post.url | prepend: site.baseurl }}">
+        <span class="c-past-event__meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h3>{{ post.title }}</h3>
       </a>
     </li>
