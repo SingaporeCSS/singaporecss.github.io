@@ -10,7 +10,7 @@ Talk.CSS came into being on October 26, 2015. It all started from a random conve
 
 <figure class="c-content__fig">
     <figcaption>It all started here...</figcaption>
-    <img src="{{ site.url }}/img/about-origin.jpeg" srcset="{{ site.url }}/img/about-origin@2x.jpg 2x" alt="Original slack chat"/>
+    <img src="/img/about-origin.jpeg" srcset="/img/about-origin@2x.jpg 2x" alt="Original slack chat"/>
 </figure>
 
 We can't talk about tech meet-ups in Singapore without mentioning [webuild.sg](https://webuild.sg/), *THE* hub for all things tech on this little red dot. If you're interested to attend any other tech meet-ups, definitely check it out. For data buffs, there is [https://data.webuild.sg/](https://data.webuild.sg/), which has information on tech meet-ups in Singapore dating back to December 2014.
