@@ -2,14 +2,23 @@
 layout: default
 ---
 
-<ul class="c-event-list">
-  {% for post in site.posts %}
-    <li>
-      <span class="c-event-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+{% for post in site.posts limit:1 %}
+  <h2>
+    <a class="c-event-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
+  <p>{{ post.content }}</p>
+{% endfor %}
 
-      <h2>
-        <a class="c-event-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+<hr>
+
+<h2>Past meetups</h2>
+<ul class="c-past-events">
+  {% for post in site.posts offset:1 %}
+    <li class="c-past-event">
+      <a class="c-past-event-link" href="{{ post.url | prepend: site.baseurl }}">
+        <span class="c-past-event-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h3>{{ post.title }}</h3>
+      </a>
     </li>
   {% endfor %}
 </ul>

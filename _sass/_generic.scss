@@ -111,3 +111,12 @@ body {
   height: 100%;
   margin: 0;
 }
+
+p a {
+  color: color(main);
+  transition: all 0.2s;
+
+  &:hover {
+    text-shadow: 0 0 0.35px color(main), 0 0 0.35px color(main);
+  }
+}

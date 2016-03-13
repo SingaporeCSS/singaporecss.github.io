@@ -5,6 +5,7 @@
 .c-site-header {
   background-color: color(secondary);
   border-top: 0.5rem solid color(main);
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
@@ -14,19 +15,38 @@
 }
 
 // Content styles
-p {
-  a {
-    color: color(main);
-    transition: all 0.2s;
+.c-past-events {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
 
-    &:hover {
-      text-shadow: 0 0 0.35px color(main), 0 0 0.35px color(main);
-    }
+.c-past-event {
+  box-shadow: 0 2px 5px 0 color(shadow);
+  flex: 0 0 100%;
+  margin-bottom: 1rem;
+
+  @include mappy-bp(small medium) {
+    flex: 0 0 span(6 of 12);
+  }
+
+  @include mappy-bp(medium) {
+    flex: 0 0 span(4 of 12);
   }
 }
 
+@for $i from 1 through length($highlights) {
+  .c-past-event:nth-child(#{length($highlights)}n+#{$i}) {
+    border-top: 5px solid nth($highlights, $i);
+  }
+}
 
-// Logo
+.c-past-event-link {
+  display: block;
+  padding: 1rem;
+}
+
+// Site footer styles
 .c-site-footer {
   background: color(main);
   color: color(bg);

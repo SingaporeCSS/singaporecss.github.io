@@ -112,6 +112,7 @@ img {
   --main-color: #1572b6;
   --secondary-color: #33a9dc;
   --border-color: #e8e8e8;
+  --shadow-color: rgba(0, 0, 0, 0.3);
   --text-color: #110;
   --bg-color: #fafaff; }
 
@@ -132,6 +133,13 @@ body {
   -webkit-font-smoothing: antialiased;
   height: 100%;
   margin: 0; }
+
+p a {
+  color: var(--main-color);
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s; }
+  p a:hover {
+    text-shadow: 0 0 0.35px var(--main-color), 0 0 0.35px var(--main-color); }
 
 h1 {
   font-size: 2.961rem;
@@ -336,6 +344,7 @@ figure img {
 .c-site-header {
   background-color: var(--secondary-color);
   border-top: 0.5rem solid var(--main-color);
+  margin-bottom: 1.5rem;
   text-align: center; }
 
 .c-site__title {
@@ -343,12 +352,55 @@ figure img {
   line-height: 1.5;
   font-family: "Bixa", "Hack", Arial, sans-serif; }
 
-p a {
-  color: var(--main-color);
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s; }
-  p a:hover {
-    text-shadow: 0 0 0.35px var(--main-color), 0 0 0.35px var(--main-color); }
+.c-past-events {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
+.c-past-event {
+  -webkit-box-shadow: 0 2px 5px 0 var(--shadow-color);
+          box-shadow: 0 2px 5px 0 var(--shadow-color);
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 100%;
+      -ms-flex: 0 0 100%;
+          flex: 0 0 100%;
+  margin-bottom: 1rem; }
+  @media all and (min-width: 30em) and (max-width: 47.9375em) {
+    .c-past-event {
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 49.15254%;
+          -ms-flex: 0 0 49.15254%;
+              flex: 0 0 49.15254%; } }
+  @media all and (min-width: 48em) {
+    .c-past-event {
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 32.20339%;
+          -ms-flex: 0 0 32.20339%;
+              flex: 0 0 32.20339%; } }
+
+.c-past-event:nth-child(4n+1) {
+  border-top: 5px solid #a93a16; }
+
+.c-past-event:nth-child(4n+2) {
+  border-top: 5px solid #e09a6c; }
+
+.c-past-event:nth-child(4n+3) {
+  border-top: 5px solid #1572b6; }
+
+.c-past-event:nth-child(4n+4) {
+  border-top: 5px solid #33a9dc; }
+
+.c-past-event-link {
+  display: block;
+  padding: 1rem; }
 
 .c-site-footer {
   background: var(--main-color);

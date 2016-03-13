@@ -154,8 +154,16 @@ $colors: (
   main: #1572b6,
   secondary: #33a9dc,
   border: #e8e8e8,
+  shadow: rgba(0, 0, 0, 0.3),
   text: #110,
-  bg: #fafaff
+  bg: #fafaff,
+);
+
+$highlights: (
+  #a93a16,
+  #e09a6c,
+  #1572b6,
+  #33a9dc,
 );
 
 // Z-index
