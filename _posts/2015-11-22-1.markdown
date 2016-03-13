@@ -5,4 +5,9 @@ date:   2015-11-22 19:00:00 +0800
 location: Hackerspace.SG
 categories: meetup
 ---
-The inaugural Talk.CSS
+## The inaugural Talk.CSS
+
+The very first Talk.CSS! Because this event, and this entire group was slapped together so spontaneously (check out the [origin story here]()), we were tacked onto the tail-end of the festivities for [DevFestAsia 2015](http://2015.devfest.asia/). We weren't sure how many people would show up, but thankfully, show up they did. 
+
+<div class="c-meetup-info">
+</div>

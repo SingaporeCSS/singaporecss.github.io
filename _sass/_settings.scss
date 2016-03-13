@@ -25,6 +25,13 @@ $textpoints: (
 @charset 'utf-8';
 
 @font-face {
+  font-family: 'Bixa';
+  src: url('../fonts/NTBixa-Color.woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Hack';
   src: url('../fonts/hack-regular.eot');
   src: url('../fonts/hack-regular.eot?#iefix') format('embedded-opentype'),
@@ -70,18 +77,19 @@ $textpoints: (
 
 // Base font stacks
 $base-font: 'Hack', Arial, sans-serif;
+$display-font: 'Bixa', 'Hack', Arial, sans-serif;
 
 // Set typography sizes
 $text-sizing: (
   deci: (
     small: (
-      font-size: .938rem,
+      font-size: 0.938rem,
       line-height: 1.5
     )
   ),
   base: (
     small: (
-      font-size: .938rem,
+      font-size: 0.938rem,
       line-height: 1.5
     ),
     medium: (
@@ -143,10 +151,10 @@ $text-sizing: (
 
 // Colours
 $colors: (
-  main: #0a7fc0,
-  secondary: #35b3e2,
+  main: #1572b6,
+  secondary: #33a9dc,
   border: #e8e8e8,
-  text: #333,
+  text: #110,
   bg: #fafaff
 );
 

@@ -9,4 +9,8 @@
 .o-svgicon {
   height: 1rem;
   width: 1rem;
+
+  path {
+    fill: color(bg);
+  }
 }

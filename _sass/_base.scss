@@ -34,3 +34,16 @@ p {
   @include responsive-text-size(base);
   margin-bottom: 1.5rem;
 }
+
+figcaption {
+  @include responsive-text-size(deci);
+  font-style: italic;
+  text-align: center;
+}
+
+figure {
+  img {
+    @include center;
+    display: block;
+  }
+}

@@ -39,7 +39,7 @@ a,
 button {
   color: inherit;
   cursor: pointer;
-  transition: background .3s;
+  transition: background 0.3s;
 }
 
 a {
@@ -97,23 +97,17 @@ img {
 html {
   box-sizing: border-box;
   height: 100%;
+  min-width: 320px;
 }
 
 body {
   @include responsive-text-size(base);
   background-color: color(bg);
   color: color(text);
-  display: flex;
-  flex-direction: column;
   font: 16px/1 sans-serif;
   font-family: $base-font;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   height: 100%;
   margin: 0;
-  min-height: 100vh;
-}
-
-main {
-  flex: 1;
 }
