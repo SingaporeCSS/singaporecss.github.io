@@ -61,7 +61,7 @@
 
 // Functions
 @function color($color-name) {
-  @return var(--#{$color-name}-color);
+  @return var(--#{$color-name}-color, map-get($colors, $color-name));
 }
 
 @function layer-index($layer) {

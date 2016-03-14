@@ -16,6 +16,7 @@
   }
 
   path {
+    fill: map-get($colors, bg);
     fill: color(bg);
   }
 }

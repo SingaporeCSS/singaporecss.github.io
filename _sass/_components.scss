@@ -3,7 +3,9 @@
 // ==========
 // Site header styles
 .c-site-header {
+  background-color: map-get($colors, secondary);
   background-color: color(secondary);
+  border-top: 0.5rem solid map-get($colors, main);
   border-top: 0.5rem solid color(main);
   margin-bottom: 1.5rem;
   text-align: center;
@@ -20,12 +22,13 @@
 
 // Events listing
 .c-past-event {
+  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
   margin-bottom: 1.5rem;
 }
 
 @for $i from 1 through length($highlights) {
-  .c-past-event:nth-child(#{length($highlights)}n+#{$i}) {
+  .c-past-event:nth-child(#{length($highlights)}n + #{$i}) {
     border-top: 5px solid nth($highlights, $i);
   }
 }
@@ -42,6 +45,7 @@
 }
 
 .c-video {
+  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
   margin-bottom: 1.5rem;
 
@@ -94,6 +98,7 @@
 
 .c-speaker__link {
   @include responsive-text-size(deci);
+  color: map-get($colors, main);
   color: color(main);
   display: inline-block;
   margin-bottom: 0.5rem;
@@ -116,7 +121,9 @@
 
 // Site footer styles
 .c-site-footer {
+  background: map-get($colors, main);
   background: color(main);
+  color: map-get($colors, bg);
   color: color(bg);
   padding: 1rem 0;
 
@@ -125,11 +132,14 @@
   }
 
   p a {
+    border-bottom: 1px solid map-get($colors, bg);
     border-bottom: 1px solid color(bg);
+    color: map-get($colors, bg);
     color: color(bg);
 
     &:hover {
       border-bottom: 0;
+      text-shadow: 0 0 0.35px map-get($colors, bg), 0 0 0.35px map-get($colors, bg);
       text-shadow: 0 0 0.35px color(bg), 0 0 0.35px color(bg);
     }
   }
@@ -151,10 +161,12 @@
 .c-footer__logo {
   @include mappy-bp(medium) {
     margin-right: 1rem;
+    flex: 1 1 25%;
   }
 }
 
 .c-logo {
+  background: map-get($colors, bg);
   background: color(bg);
   border-radius: 1rem;
   height: 8rem;
@@ -163,6 +175,12 @@
 
   @include mappy-bp(large) {
     text-align: center;
+  }
+}
+
+.c-footer__desc {
+  @include mappy-bp(medium) {
+    flex: 1 1 75%;
   }
 }
 
@@ -184,6 +202,7 @@
   }
 
   @include mappy-bp(xsmall) {
+    border: 1px solid map-get($colors, bg);
     border: 1px solid color(bg);
     border-radius: 0.5rem;
     display: block;

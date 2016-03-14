@@ -103,7 +103,9 @@ html {
 
 body {
   @include responsive-text-size(base);
+  background-color: map-get($colors, bg);
   background-color: color(bg);
+  color: map-get($colors, text);
   color: color(text);
   font: 16px/1 sans-serif;
   font-family: $base-font;
@@ -118,10 +120,12 @@ hr {
 }
 
 p a {
+  color: map-get($colors,main);
   color: color(main);
   transition: all 0.2s;
 
   &:hover {
+    text-shadow: 0 0 0.35px map-get($colors, main), 0 0 0.35px map-get($colors, main);
     text-shadow: 0 0 0.35px color(main), 0 0 0.35px color(main);
   }
 }
