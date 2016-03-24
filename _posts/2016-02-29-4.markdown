@@ -7,8 +7,15 @@ event-date: 2016-03-31 19:00:00 +0800
 categories: meetup
 ---
 
-Our next meet-up will be on 31 March at Tinkerbox Studios. 
+Our next meet-up will be on 31 March at [Tinkerbox Studios](https://www.tinkerbox.com.sg/). 
 
-Speakers TBA.
+**Intro to Terminal (real title pending speaker)** by **Sahil Bajaj**   
+Love it or hate it, if you're doing web development you will have to use the terminal at some point. There is no escape, might as well learn more about it. 
+
+**Latest CSS news** by **Talk.CSS**  
+Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**CSS Panel: On name-spacing and CSS architecture**  
+A bunch of front-end developers discussing their preferences on how they architect their CSS. More details to come.
 
 As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
