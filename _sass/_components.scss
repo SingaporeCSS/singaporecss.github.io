@@ -67,6 +67,8 @@
 }
 
 .c-video__img {
+  display: block;
+  line-height: 1.5;
   min-height: 9em;
   position: relative;
   width: 100%;
@@ -77,24 +79,21 @@
   }
 
   &::before {
-    background-color: map-get($colors, secondary);
-    background-color: color(secondary);
-    border: 2px dashed map-get($colors, main);
-    border: 2px dashed color(main);
     content: '';
     display: block;
-    height: 9em;
-    position: absolute;
-    top: 0;
-    width: 100%;
+    min-height: 9em;
   }
 
   &::after {
     content: attr(alt)', image WIP, click to watch video';
     display: block;
-    line-height: 1.5;
-    padding: 0 1em;
+    padding: 0.5em 1em;
     position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
   }
 }
 
