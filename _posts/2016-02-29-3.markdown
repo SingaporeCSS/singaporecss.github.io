@@ -5,4 +5,60 @@ date:   2016-02-29 19:00:00 +0800
 location: Microsoft Singapore
 categories: meetup
 ---
-Leap day Talk.CSS
+In a bid to be consistent, we were lucky that 2016 was a leap year that allowed us to squeeze our third Talk.CSS into the last day of the February. <a href="https://www.microsoft.com/en-sg/">Microsoft Singapore</a> graciously hosted us this time, and although there were some minor technical issues with the video setup, the spectacular talk line-up more than made up for it.
+
+## So this happened...
+
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/96nWNLXbqPg">
+      <img class="c-video__img" src="/img/talk-1/s301-css-comm.jpg" srcset="/img/talk-1/s301-css-comm@2x.jpg 2x" alt="Link to talk on Data Visualisation with CSS and SVG"/>
+    </a>
+    <p class="c-video__desc">Sayanee presents her brilliant project, <a href="https://data.webuild.sg/">data.webuild.sg</a>, on visualising data on the SG CSS and Developer community.</p>
+  </div>
+
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/gHPjYeI3Xr0">
+      <img class="c-video__img" src="/img/talk-1/s302-animations.jpg" srcset="/img/talk-1/s302-animations@2x.jpg 2x" alt="Link to talk on Transitions, Animations and Transforms"/>
+    </a>
+    <p class="c-video__desc">Not all animations are created equal. Yong Jun explains more, with tips, tricks and cool demos.</p>
+  </div>
+
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/7Nyi3Iwa4s4">
+      <img class="c-video__img" src="/img/talk-1/s303-whack-a-mole.jpg" srcset="/img/talk-1/s303-whack-a-mole@2x.jpg 2x" alt="Link to talk on CSS whack-a-mole"/>
+    </a>
+    <p class="c-video__desc">Creating a game in pure CSS? Shiaw Uen schools us in the dark arts of the CSS checkbox hack.</p>
+  </div>
+
+</div>
+
+## About the speakers...
+
+<div class="o-flex c-speakers">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-3/sb.jpg" srcset="/img/talk-3/sb@2x.jpg 2x" alt="Sayanee Basu"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/sayanee_">@sayanee_</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Sayanee is an engineer dabbling with web technologies and electronic sensors. She shares her learnings through screencasts on <a href="http://build-podcast.com/">Build Podcast</a>.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-3/tyj.jpg" srcset="/img/talk-3/tyj@2x.jpg 2x" alt="Thong Yong Jun"/>
+      <figcaption><a class="c-speaker__link" href="https://github.com/yongjun21">@yongjun21</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Yong Jun is still writing his bio, or will be once we ask him for it.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-3/tsu.jpg" srcset="/img/talk-3/tsu@2x.jpg 2x" alt="Tan Shiaw Uen"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/shiawuen">@shiawuen</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Shiaw Uen is a developer. He occasionally plants vegetables and makes soap.</p>
+  </div>
+
+</div>
+

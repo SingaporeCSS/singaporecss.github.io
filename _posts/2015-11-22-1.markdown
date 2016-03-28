@@ -5,42 +5,41 @@ date:   2015-11-22 19:00:00 +0800
 location: Hackerspace.SG
 categories: meetup
 ---
-
-The very first Talk.CSS! Because this event and this entire group was slapped together so spontaneously (check out the [origin story here](/about)), we were tacked onto the tail-end of the festivities for [DevFestAsia 2015](http://2015.devfest.asia/). We weren't sure how many people would show up, but thankfully, show up they did. A big shout out to Chris's wife, who provided us three huge bowls of popcorn for the evening.
+The very first Talk.CSS! Because this event and this entire group was slapped together so spontaneously (check out the [origin story here](/about)), we were tacked onto the tail-end of the festivities for [DevFestAsia 2015](http://2015.devfest.asia/). We weren't sure how many people would show up, but thankfully, show up they did, filling up <a href="https://hackerspace.sg/">Hackerspace.SG</a>. A big shout out to Chris's wife, who provided us three huge bowls of popcorn for the evening.
 
 ## So this happened...
 
 <div class="c-videos">
   <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/fCYbIVEzFKs" target="_blank">
+    <a class="c-video__link" href="https://youtu.be/fCYbIVEzFKs">
       <img class="c-video__img" src="/img/talk-1/s101-opening-address.jpg" srcset="/img/talk-1/s101-opening-address@2x.jpg 2x" alt="Link to opening address video"/>
     </a>
-    <p class="c-video__desc">Chris kicks things off by introducing Talk.CSS to the world. Basically just a short opening address about what we're about (CSS), and how we came about (very hapzardly).</p>
+    <p class="c-video__desc">Chris kicks things off by introducing Talk.CSS to the world.</p>
   </div>
 
   <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/z4s_UxLyA-c" target="_blank">
+    <a class="c-video__link" href="https://youtu.be/z4s_UxLyA-c">
       <img class="c-video__img" src="/img/talk-1/s102-css-shapes.jpg" srcset="/img/talk-1/s102-css-shapes@2x.jpg 2x" alt="Link to talk on CSS shapes"/>
     </a>
     <p class="c-video__desc">Hui Jing talks about CSS shapes and why you should be excited about them.</p>
   </div>
 
   <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/1cb7OFJyZAw" target="_blank">
+    <a class="c-video__link" href="https://youtu.be/1cb7OFJyZAw">
       <img class="c-video__img" src="/img/talk-1/s103-animating-svg.jpg" srcset="/img/talk-1/s103-animating-svg@2x.jpg 2x" alt="Link to talk on Animating SVG"/>
     </a>
     <p class="c-video__desc">Zell presents an abridged version of his CSSConf.Asia talk on animating SVG.</p>
   </div>
 
   <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/how93Wq_jQw" target="_blank">
+    <a class="c-video__link" href="https://youtu.be/how93Wq_jQw">
       <img class="c-video__img" src="/img/talk-1/s104-priority-plus.jpg" srcset="/img/talk-1/s104-priority-plus@2x.jpg 2x" alt="Link to talk on Priority plus"/>
     </a>
     <p class="c-video__desc">Chris shows us a better way to do responsive navigation menus with the priority plus concept.</p>
   </div>
 
   <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/8w4vPcQMjq0" target="_blank">
+    <a class="c-video__link" href="https://youtu.be/8w4vPcQMjq0">
       <img class="c-video__img" src="/img/talk-1/s105-closing-address.jpg" srcset="/img/talk-1/s105-closing-address@2x.jpg 2x" alt="Link to closing address video"/>
     </a>
     <p class="c-video__desc">A wrap-up of the evening's event, where we thank all who showed up, and hint for them to please show up at the next one.</p>

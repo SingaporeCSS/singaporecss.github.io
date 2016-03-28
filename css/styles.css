@@ -136,7 +136,7 @@ body {
   -webkit-font-smoothing: antialiased;
   height: 100%;
   margin: 0; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     body {
       font-size: 1.25rem;
       line-height: 1.5; } }
@@ -157,7 +157,7 @@ h1 {
   font-size: 2.16rem;
   line-height: 1.5;
   margin-bottom: 1rem; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     h1 {
       font-size: 2.592rem;
       line-height: 1.5; } }
@@ -166,7 +166,7 @@ h2 {
   font-size: 1.8rem;
   line-height: 1.5;
   margin-bottom: 1rem; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     h2 {
       font-size: 2.16rem;
       line-height: 1.5; } }
@@ -175,7 +175,7 @@ h3 {
   font-size: 1.5rem;
   line-height: 1.5;
   margin-bottom: 1rem; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     h3 {
       font-size: 1.8rem;
       line-height: 1.5; } }
@@ -184,7 +184,7 @@ h4 {
   font-size: 1.25rem;
   line-height: 1.5;
   margin-bottom: 1rem; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     h4 {
       font-size: 1.5rem;
       line-height: 1.5; } }
@@ -193,7 +193,7 @@ h5 {
   font-size: 1.042rem;
   line-height: 1.5;
   margin-bottom: 1rem; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     h5 {
       font-size: 1.25rem;
       line-height: 1.5; } }
@@ -206,7 +206,7 @@ p {
   font-size: 1.042rem;
   line-height: 1.5;
   margin-bottom: 1.5rem; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     p {
       font-size: 1.25rem;
       line-height: 1.5; } }
@@ -361,6 +361,10 @@ figure img {
   .highlight .il {
     color: #099; }
 
+.o-emoji {
+  display: inline-block;
+  vertical-align: middle; }
+
 .o-site-wrapper {
   max-width: 60rem;
   margin-left: auto;
@@ -425,7 +429,7 @@ figure img {
   font-size: 3.11rem;
   line-height: 1.5;
   font-family: "Bixa", "Hack", Arial, sans-serif; }
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 48em) {
     .c-site__title {
       font-size: 3.732rem;
       line-height: 1.5; } }
@@ -487,18 +491,38 @@ figure img {
 .c-video__link {
   line-height: 0; }
 
-@media all and (min-width: 48em) {
-  .c-video__img {
-    display: inline-block;
-    vertical-align: middle;
-    width: 20rem; } }
+.c-video__img {
+  min-height: 9em;
+  position: relative;
+  width: 100%; }
+  @media all and (min-width: 48em) {
+    .c-video__img {
+      display: inline-block;
+      vertical-align: top;
+      width: 16em; } }
+  .c-video__img::before {
+    background-color: #33a9dc;
+    background-color: var(--secondary-color, #33a9dc);
+    border: 2px dashed #1572b6;
+    border: 2px dashed var(--main-color, #1572b6);
+    content: '';
+    display: block;
+    height: 9em;
+    position: absolute;
+    top: 0;
+    width: 100%; }
+  .c-video__img::after {
+    content: attr(alt) ", image WIP, click to watch video";
+    display: block;
+    line-height: 1.5;
+    padding: 0 1em;
+    position: absolute; }
 
 .c-video__desc {
   padding: 1rem; }
   @media all and (min-width: 48em) {
     .c-video__desc {
       display: inline-block;
-      vertical-align: middle;
       width: -webkit-calc(100% - 21rem);
       width: calc(100% - 21rem); } }
 

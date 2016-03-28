@@ -1,6 +1,11 @@
 // =======
 // Objects
 // =======
+.o-emoji {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 .o-site-wrapper {
   @include container(60rem);
   padding: 0 1rem;

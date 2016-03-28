@@ -67,10 +67,34 @@
 }
 
 .c-video__img {
+  min-height: 9em;
+  position: relative;
+  width: 100%;
   @include mappy-bp(medium) {
     display: inline-block;
-    vertical-align: middle;
-    width: 20rem;
+    vertical-align: top;
+    width: 16em;
+  }
+
+  &::before {
+    background-color: map-get($colors, secondary);
+    background-color: color(secondary);
+    border: 2px dashed map-get($colors, main);
+    border: 2px dashed color(main);
+    content: '';
+    display: block;
+    height: 9em;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  &::after {
+    content: attr(alt)', image WIP, click to watch video';
+    display: block;
+    line-height: 1.5;
+    padding: 0 1em;
+    position: absolute;
   }
 }
 
@@ -79,7 +103,6 @@
 
   @include mappy-bp(medium) {
     display: inline-block;
-    vertical-align: middle;
     width: calc(100% - 21rem);
   }
 }
