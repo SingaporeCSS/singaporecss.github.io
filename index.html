@@ -5,13 +5,13 @@ layout: default
 <article class="c-upcoming-event">
 {% for post in site.posts limit:1 %}
   <header class="c-event__header">
-    <h2 class="c-event__title" itemprop="name headline">
+    <h2 class="c-event__title">
       {{ post.title }}
     </h2>
     <p><strong>Event location:</strong> {{ post.location }}</p>
     <p><strong>Event date:</strong> {{ post.event-date | date: "%b %-d, %Y" }}</p>
   </header>
-  <div class="c-event__content" itemprop="articleBody">
+  <div class="c-event__content">
     {{ post.content }}
   </div>
   <a href="http://www.meetup.com/SingaporeCSS/events/229304320/" data-event="229304320" class="mu-rsvp-btn">RSVP</a>
