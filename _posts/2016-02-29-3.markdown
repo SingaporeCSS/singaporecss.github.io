@@ -49,7 +49,7 @@ In a bid to be consistent, we were lucky that 2016 was a leap year that allowed 
       <img class="c-speaker__img" src="/img/talk-3/tyj.jpg" srcset="/img/talk-3/tyj@2x.jpg 2x" alt="Thong Yong Jun"/>
       <figcaption><a class="c-speaker__link" href="https://github.com/yongjun21">@yongjun21</a></figcaption>
     </figure>
-    <p class="c-speaker__intro">Yong Jun is still writing his bio, or will be once we ask him for it.</p>
+    <p class="c-speaker__intro">Yong Jun became a web developer so he could work from a beach on a sunny tropical island. At this moment, he is writing and coding...in an office.</p>
   </div>
 
   <div class="o-flex3__item c-speaker">
