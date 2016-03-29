@@ -29,7 +29,7 @@ Also, if you want to do a lightning talk, please let us know before the event st
       <img class="c-speaker__img" src="/img/talk-4/sb.jpg" srcset="/img/talk-4/sb@2x.jpg 2x" alt="Sahil Bajaj"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/spinningarrow_">@spinningarrow_</a></figcaption>
     </figure>
-    <p class="c-speaker__intro">Sahil is still writing his bio. Or at least will be once that we've asked him for it.</p>
+    <p class="c-speaker__intro">Sahil is a web developer who occasionally misses the old days of marquee text and hit counters on websites. DynamicDrive.com, anyone?</p>
   </div>
 
   <div class="o-flex3__item c-speaker">
