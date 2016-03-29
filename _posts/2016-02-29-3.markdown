@@ -12,21 +12,21 @@ In a bid to be consistent, we were lucky that 2016 was a leap year that allowed 
 <div class="c-videos">
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/96nWNLXbqPg">
-      <img class="c-video__img" src="/img/talk-1/s301-css-comm.jpg" srcset="/img/talk-1/s301-css-comm@2x.jpg 2x" alt="Link to talk on Data Visualisation with CSS and SVG"/>
+      <img class="c-video__img" src="/img/talk-3/s301-css-comm.jpg" srcset="/img/talk-3/s301-css-comm@2x.jpg 2x" alt="Link to talk on Data Visualisation with CSS and SVG"/>
     </a>
     <p class="c-video__desc">Sayanee presents her brilliant project, <a href="https://data.webuild.sg/">data.webuild.sg</a>, on visualising data on the SG CSS and Developer community.</p>
   </div>
 
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/gHPjYeI3Xr0">
-      <img class="c-video__img" src="/img/talk-1/s302-animations.jpg" srcset="/img/talk-1/s302-animations@2x.jpg 2x" alt="Link to talk on Transitions, Animations and Transforms"/>
+      <img class="c-video__img" src="/img/talk-3/s302-animations.jpg" srcset="/img/talk-3/s302-animations@2x.jpg 2x" alt="Link to talk on Transitions, Animations and Transforms"/>
     </a>
     <p class="c-video__desc">Not all animations are created equal. Yong Jun explains more, with tips, tricks and cool demos.</p>
   </div>
 
   <div class="c-video">
     <a class="c-video__link" href="https://youtu.be/7Nyi3Iwa4s4">
-      <img class="c-video__img" src="/img/talk-1/s303-whack-a-mole.jpg" srcset="/img/talk-1/s303-whack-a-mole@2x.jpg 2x" alt="Link to talk on CSS whack-a-mole"/>
+      <img class="c-video__img" src="/img/talk-3/s303-whack-a-mole.jpg" srcset="/img/talk-3/s303-whack-a-mole@2x.jpg 2x" alt="Link to talk on CSS whack-a-mole"/>
     </a>
     <p class="c-video__desc">Creating a game in pure CSS? Shiaw Uen schools us in the dark arts of the CSS checkbox hack.</p>
   </div>
@@ -49,7 +49,7 @@ In a bid to be consistent, we were lucky that 2016 was a leap year that allowed 
       <img class="c-speaker__img" src="/img/talk-3/tyj.jpg" srcset="/img/talk-3/tyj@2x.jpg 2x" alt="Thong Yong Jun"/>
       <figcaption><a class="c-speaker__link" href="https://github.com/yongjun21">@yongjun21</a></figcaption>
     </figure>
-    <p class="c-speaker__intro">Yong Jun became a web developer so he could work from a beach on a sunny tropical island. At this moment, he is writing and coding...in an office.</p>
+    <p class="c-speaker__intro">Yong Jun became a web developer so he could be away from the office, working from a sunny beach. At this moment, he is writing and coding...in an office.</p>
   </div>
 
   <div class="o-flex3__item c-speaker">
