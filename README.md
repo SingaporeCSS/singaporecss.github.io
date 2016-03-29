@@ -1,5 +1,7 @@
 # This be the source code for the Talk.CSS website
 
+The site will be updated after every meet-up, with a short recap and links to videos of the talks.
+
 ## v1.0.0
 ---
 
@@ -33,4 +35,5 @@ You'll need to have the following installed:
     -  compiling Sass, 
     -  serving the Jekyll site, 
     -  watch for changes to relevant folders and reload the browser accordingly.
+
 - There is also a `gulp build` task, which will also minify the stylesheet. Only used when deploying site to production.
