@@ -21,16 +21,16 @@
 
 You'll need to have the following installed:
 
-1. [NodeJS](http://nodejs.org) - You can use the installer, but I personally like using [Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac)
-2. [Bower](http://bower.io) - `npm install -g bower`
-3. [GulpJS](http://gulpjs.com) - `npm install -g gulp`
-4. [Jekyll](http://jekyllrb.com/) - `gem install jekyll`
+1. [NodeJS](http://nodejs.org) - You can use the installer, but if you're on a Mac, I highly suggest using [Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+2. [GulpJS](http://gulpjs.com) - `npm install -g gulp`
+3. [Bundler](http://bundler.io) - `gem install bundler`
 
 - Clone this repository into your working directory.
 - Navigate to the directory and run `npm install`. This will install the required node modules for the project.
-- Also run `bower install`. This will install Susy for this project.
+- Run `bundle install`. This will install the [GitHub Pages gem](https://github.com/github/pages-gem) and [SCSS-Lint gem](https://github.com/brigade/scss-lint).
 
 - Run `gulp`. This will run the Gulp tasks needed for:
     -  compiling Sass, 
     -  serving the Jekyll site, 
     -  watch for changes to relevant folders and reload the browser accordingly.
+- There is also a `gulp build` task, which will also minify the stylesheet. Only used when deploying site to production.
