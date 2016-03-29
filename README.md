@@ -1,12 +1,17 @@
-# This be the Talk.CSS website
+# This be the source code for the Talk.CSS website
 
-*Note: This site is currently very much work-in-progress. It will be progressively be worked on, because life. When this message disappears, it means the site has reached v1.0 status.*
+## v1.0.0
+---
+
+- Updated recaps for past meetups
+- Updated speaker bios for each meetup
+- Added styling for broken images
 
 ## v0.0.1
 ---
 
 - Created initial styling
-- Set current site font to
+- Set current site font to [Hack](http://sourcefoundry.org/hack/)
 - Added pages for first 3 meet-ups
 - Added About page
 - Wrote copy for site footer
