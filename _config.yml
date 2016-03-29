@@ -3,8 +3,8 @@ title: Talk.CSS
 email: singaporecss@outlook.com
 description: The first CSS-centric meetup in Singapore. For anyone who's interested in wrapping their heads around this easy to pick up but hard to master aspect of web development.
 baseurl: ""
-url: "https://singaporecss@github.io" 
-enforce_ssl: singaporecss@github.io   # without any protocol
+url: "https://singaporecss.github.io" 
+enforce_ssl: singaporecss.github.io   # without any protocol
 
 relative_permalinks: false
 permalink: /:title/
