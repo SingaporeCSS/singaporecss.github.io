@@ -6,6 +6,10 @@
   vertical-align: middle;
 }
 
+.o-kaomoji {
+  white-space: nowrap;
+}
+
 .o-site-wrapper {
   @include container(60rem);
   padding: 0 1rem;
