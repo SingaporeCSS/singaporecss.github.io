@@ -65,5 +65,4 @@ The more exciting thing was, we had our very first panel discussion! Yes, it mig
     <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
   </div>
 
-
 </div>
