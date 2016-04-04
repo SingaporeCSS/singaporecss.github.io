@@ -15,21 +15,21 @@ The more exciting thing was, we had our very first panel discussion! Yes, it mig
 
 <div class="c-videos">
   <div class="c-video">
-    <a class="c-video__link" href="javascript:void(0)">
+    <a class="c-video__link" href="https://youtu.be/YXJL4cY8VCE">
       <img class="c-video__img" src="/img/talk-4/s401-command-line.jpg" srcset="/img/talk-4/s401-command-line@2x.jpg 2x" alt="Link to talk on the Command Line"/>
     </a>
     <p class="c-video__desc">Have command-line phobia? Sahil teaches us cool tips and tricks to overcome your fear of the terminal.</p>
   </div>
 
   <div class="c-video">
-    <a class="c-video__link" href="javascript:void(0)">
+    <a class="c-video__link" href="https://youtu.be/Djh1QnIPDkk">
       <img class="c-video__img" src="/img/talk-4/s402-css-news.jpg" srcset="/img/talk-4/s402-css-news@2x.jpg 2x" alt="Link to CSS updates for March 2016"/>
     </a>
     <p class="c-video__desc">Updates and news in the world of CSS for March 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-4.md">here</a>.</p>
   </div>
 
   <div class="c-video">
-    <a class="c-video__link" href="javascript:void(0)">
+    <a class="c-video__link" href="https://youtu.be/4tfYwrjQXG4">
       <img class="c-video__img" src="/img/talk-4/s403-css-architecture.jpg" srcset="/img/talk-4/s403-css-architecture@2x.jpg 2x" alt="Link to panel discussion on CSS architecture"/>
     </a>
     <p class="c-video__desc">Our first panel discussion about CSS name-spacing and architecture, featuring Chris Lienert, Zell Liew, Aysha Anggraini and Chen Hui Jing.</p>
