@@ -3,14 +3,12 @@
 The site will be updated after every meet-up, with a short recap and links to videos of the talks.
 
 ## v1.0.0
----
 
 - Updated recaps for past meetups
 - Updated speaker bios for each meetup
 - Added styling for broken images
 
 ## v0.0.1
----
 
 - Created initial styling
 - Set current site font to [Hack](http://sourcefoundry.org/hack/)
@@ -19,7 +17,6 @@ The site will be updated after every meet-up, with a short recap and links to vi
 - Wrote copy for site footer
 
 ## If you want to clone the site...
----
 
 You'll need to have the following installed:
 
