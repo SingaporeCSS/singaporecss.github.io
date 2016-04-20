@@ -142,6 +142,10 @@
   font-style: italic;
 }
 
+.mu-widget {
+  margin-bottom: 1.5rem;
+}
+
 // Site footer styles
 .c-site-footer {
   background: map-get($colors, main);

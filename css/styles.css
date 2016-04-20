@@ -560,6 +560,9 @@ figure img {
   line-height: 1.5;
   font-style: italic; }
 
+.mu-widget {
+  margin-bottom: 1.5rem; }
+
 .c-site-footer {
   background: #1572b6;
   background: var(--main-color, #1572b6);
