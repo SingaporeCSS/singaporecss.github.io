@@ -12,11 +12,11 @@ Our next meet-up is on 26 April at [Viki Singapore](https://www.viki.com/). And 
 **Latest CSS news** by **Talk.CSS**  
 Our new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**CSS structure and organisation**
+**Structuring and Organising SCSS Files** by **Joel Pan**  
+The more you learn and use SCSS, the larger your SCSS files get. How do you organise your definitions to make everything more manageable?
 
-
-**No Fear**  
-
+**No Fear** by **Chris Lienert**  
+It's a UX talk, but aimed at designers and developers. <span class="o-kaomoji">¯\\\_(ツ)\_/¯</span>
 
 Also, if you want to do a lightning talk, please let us know before the event starts. We're more than happy to slot you in. Any CSS-related topics at ANY level are welcome because we're all here to learn and share. :)
 
@@ -29,7 +29,7 @@ Also, if you want to do a lightning talk, please let us know before the event st
       <img class="c-speaker__img" src="/img/talk-5/joel.jpg" srcset="/img/talk-5/joel@2x.jpg 2x" alt="Joel Pan"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/ketsugi">@ketsugi</a></figcaption>
     </figure>
-    <p class="c-speaker__intro">Joel is still writing his bio, or at least he will be once we ask him for it.</p>
+    <p class="c-speaker__intro">Joel is an inexperienced web developer who’s here to tell you how to do your job.</p>
   </div>
 
   <div class="o-flex3__item c-speaker">
