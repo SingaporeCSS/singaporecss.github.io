@@ -7,18 +7,28 @@ event-date: 2016-04-26 19:00:00 +0800
 categories: meetup
 ---
 
-Our next meet-up is on 26 April at [Viki Singapore](https://www.viki.com/). And they'll be feeding us that evening. So give [Aysha](https://twitter.com/RenettaRenula) a hug when you see her!
+We were graciously hosted by [Viki Singapore](https://www.viki.com/), and they also provided us food, so big kudos to [Aysha](https://twitter.com/RenettaRenula) and everyone at Viki who helped us out. 
 
-**Latest CSS news** by **Talk.CSS**  
-Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+## So this happened...
 
-**Structuring and Organising SCSS Files** by **Joel Pan**  
-The more you learn and use SCSS, the larger your SCSS files get. How do you organise your definitions to make everything more manageable?
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/VVsQts4pgF0">
+      <img class="c-video__img" src="/img/talk-5/s501-structure-css.jpg" srcset="/img/talk-5/s501-structure-css@2x.jpg 2x" alt="Link to talk on Structuring CSS"/>
+    </a>
+    <p class="c-video__desc">Joel shares his tips for organising styles and leads a discussion with the floor.</p>
+  </div>
 
-**No Fear** by **Chris Lienert**  
-It's a UX talk, but aimed at designers and developers. <span class="o-kaomoji">¯\\\_(ツ)\_/¯</span>
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/KIxJIyJ-RVc">
+      <img class="c-video__img" src="/img/talk-5/s502-no-fear.jpg" srcset="/img/talk-5/s502-no-fear@2x.jpg 2x" alt="Link to talk on No Fear"/>
+    </a>
+    <p class="c-video__desc">Chris gives an inspirational talk on the topic of fear and how to conquer it.</p>
+  </div>
 
-Also, if you want to do a lightning talk, please let us know before the event starts. We're more than happy to slot you in. Any CSS-related topics at ANY level are welcome because we're all here to learn and share. :)
+  <strong>CSS News (April 2016)</strong><br>
+  <p>Updates and news in the world of CSS for April 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-5.md">here</a>.</p>
+</div>
 
 ## About the speakers...
 
