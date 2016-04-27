@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Talk.CSS #6"
+date:   2016-04-03 19:00:00 +0800
+location: TBC
+event-date: TBC
+categories: meetup
+---
+
+Our next meet-up should happen on the last week of May, actual date TBA.
+
+Speakers TBA.
+
+As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+
