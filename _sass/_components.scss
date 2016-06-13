@@ -20,6 +20,27 @@
   padding-bottom: 1.5rem;
 }
 
+.c-site__link {
+  &:hover {
+    text-shadow: 0 0 0.35px map-get($colors, text), 0 0 0.35px map-get($colors, text);
+    text-shadow: 0 0 0.35px color(text), 0 0 0.35px color(text);
+
+    &::after {
+      text-shadow: none;
+    }
+  }
+
+  &::after {
+    content: '|';
+    display: inline-block;
+
+  }
+
+  &:last-child::after {
+    content: '';
+  }
+}
+
 // Events listing
 .c-past-event {
   box-shadow: 0 2px 5px 0 map-get($colors, shadow);
@@ -144,6 +165,46 @@
 
 .mu-widget {
   margin-bottom: 1.5rem;
+}
+
+// PLatform status page
+.c-platform {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.c-platform__link {
+  display: block;
+  flex: 1 0 calc(50% - 2rem);
+  border: 1px solid map-get($colors, secondary);
+  border: 1px solid color(secondary);
+  padding: 1.5rem 1rem 0;
+  margin: 1rem;
+  transition: border 0.3s;
+
+  p {
+    transition: color 0.3s;
+  }
+
+  &:hover {
+    border: 1px solid map-get($colors, main);
+    border: 1px solid color(main);
+
+    p {
+      color: map-get($colors, main);
+      color: color(main);
+    }
+  }
+}
+
+.c-platform__icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 100%;
+  height: 2em;
+  margin-bottom: 1rem;
 }
 
 // Site footer styles
