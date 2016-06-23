@@ -1,15 +1,19 @@
 ---
 layout: post
 title:  "Talk.CSS #7"
-date:   2016-06-01 19:00:00 +0800
-location: TBC
-event-date: TBC
+date:   2016-06-28 19:00:00 +0800
+location: Microsoft Singapore
+event-date: 2016-06-28 19:00:00 +0800
 categories: meetup
 ---
 
-Our next meet-up should happen on the last week of June, actual date TBA.
+It's a shorter notice this month, but we managed to get [Microsoft Singapore](https://www.google.com.sg/maps/place/Microsoft+Operations/@1.281675,103.8518118,18z/data=!4m18!1m12!4m11!1m3!2m2!1d103.8524394!2d1.2823952!1m6!1m2!1s0x31da190ef72075ef:0x1108ee8915a8eacc!2smicrosoft+singapore!2m2!1d103.852437!2d1.282387!3m4!1s0x31da190ef72075ef:0x1108ee8915a8eacc!8m2!3d1.282387!4d103.852437) to host us. Come join the CSS nerd out! 
 
-Speakers TBA.
+
+**Latest CSS news** by **Talk.CSS**  
+Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+More speakers on the way...
 
 As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
 
