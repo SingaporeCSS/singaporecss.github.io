@@ -16,6 +16,9 @@ Our new regular segment which will cover latest updates in the realm of CSS and 
 **React and CSS Modules** by **Thomas Gorissen**  
 Scoped CSS is one of those things on many developers' wishlists. CSS modules could potentially fulfil that wish. Never heard of CSS modules? Join us and hear all about it.
 
+**So your designer wants a masthead** by **Chen Hui Jing**  
+What do you do when you get a design that requires a masthead? Turns out there's more than one way to build a masthead.
+
 Also, if you want to do a lightning talk, please let us know before the event starts. We're more than happy to slot you in. Any CSS-related topics at ANY level are welcome because we're all here to learn and share. :)
 
 ## About the speakers...
@@ -28,6 +31,14 @@ Also, if you want to do a lightning talk, please let us know before the event st
       <figcaption><a class="c-speaker__link" href="https://twitter.com/serrynaimo">@serrynaimo</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Thomas likes to work with curious people on ambitious tech projects and hosts CSSConf.Asia, a little big yearly gathering of South-east Asia's web designers and front-end developers.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Hui Jing played basketball for Malaysia for 6 years and before realising that CSS was better than all that physical activity. She somehow managed to find gainful employment as a front-end developer.</p>
   </div>
 
 </div>
