@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Talk.CSS #8"
+date:   2016-06-23 19:00:00 +0800
+location: TBC
+event-date: TBC
+categories: meetup
+---
+
+Our next meet-up should happen on the last week of July, actual date and location TBA.
+
+**Latest CSS news** by **Talk.CSS**  
+Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
+
+Speakers TBA.
+
+As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
