@@ -2,6 +2,11 @@
 
 The site will be updated after every meet-up, with a short recap and links to videos of the talks.
 
+## v1.1.0
+
+- Fixed issue with Facebook metatags
+- Added Platform status page
+
 ## v1.0.0
 
 - Updated recaps for past meetups
