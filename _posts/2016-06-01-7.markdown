@@ -19,7 +19,7 @@ Scoped CSS is one of those things on many developers' wishlists. CSS modules cou
 **So your designer wants a masthead** by **Chen Hui Jing**  
 What do you do when you get a design that requires a masthead? Turns out there's more than one way to build a masthead.
 
-Also, if you want to do a lightning talk, please let us know before the event starts. We're more than happy to slot you in. Any CSS-related topics at ANY level are welcome because we're all here to learn and share. :)
+*PSA: Unfortunately, we messed up the video recordings, and so super extra effort is required to sync the audio with the video, and our Grand Master Poobah, Michael, is simply too swamped to do it. Eventually the videos will be up, but not any time soon. Apologies to everyone, especially to Michael.*
 
 ## About the speakers...
 

@@ -1,17 +1,26 @@
 ---
 layout: post
-title:  "Talk.CSS #8"
-date:   2016-06-23 19:00:00 +0800
-location: TBC
-event-date: TBC
+title:  "talk.js + talk.css = Special Edition!"
+date:   2016-07-27 19:00:00 +0800
+location: PayPal Singapore
+event-date: 2016-07-27 19:00:00 +0800
 categories: meetup
 ---
 
-Our next meet-up should happen on the last week of July, actual date and location TBA.
+So we have a sister meet-up group called Talk.JS, that as the name implies, covers all things Javascript. And, as siblings often can attest to, we clash from time to time (actually no, we've never clashed before, I just screwed up the meet-up scheduling this time). BUT, because we love each other so much, we're turning a timing clash into something different with a super special edition front-end extravaganza!
 
-**Latest CSS news** by **Talk.CSS**  
-Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
+**More than a donation** by **Joanne Lo, Catherine He, Gabrielle Ong Hui Min and Tay Yang Shun**
 
-Speakers TBA.
+**Telegram Bot** by **Jonathan Phoon, Stefanie Seah, Lee Zhen Jie and CX Chua**
 
-As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+**The Promise of HTTP/2 Server Push** by **David Tan**
+
+**Carparks SG** by **Sebastiaan Deckers**
+
+**CSS Panel: Debugging CSS**  
+What do you do when everything goes bad? We'll hear from several developers about what to do without losing too much hair.
+
+<div class="u-clear">
+    <strong>CSS News (July 2016)</strong><br>
+    <p>Updates and news in the world of CSS for July 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-8.md">here</a>.</p>
+</div>
