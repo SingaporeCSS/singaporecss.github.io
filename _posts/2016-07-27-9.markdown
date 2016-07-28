@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Talk.CSS #9"
+date:   2016-07-27 19:00:00 +0800
+location: Pivotal Labs Singapore
+event-date: 2016-08-30 19:00:00 +0800
+categories: meetup
+---
+As a result of the last meetup's timing clash, we rescheduled our original venue for the August meetup instead. Silver linings, people. We'll be at [Pivotal Labs Singapore](http://pivotal.io/locations/singapore) this time. Come join the CSS nerd out!
+ 
+**Latest CSS news** by **Talk.CSS**  
+Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
+
+**Speakers TBA.**
+
+As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+
