@@ -11,7 +11,11 @@ As a result of the last meetup's timing clash, we rescheduled our original venue
 **Latest CSS news** by **Talk.CSS**  
 Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
 
-**Speakers TBA.**
+**Repokémon** by **Lim Chee Aun**  
+Showcase of GitHub repos with Pokémon names. 
+
+**How did they do that? New York Times** with **Weiman Kow**  
+Open analysis of a NYT infographic and article. 
 
 As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
 
