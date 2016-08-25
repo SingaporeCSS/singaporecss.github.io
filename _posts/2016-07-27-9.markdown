@@ -19,3 +19,25 @@ Open analysis of a NYT infographic and article.
 
 As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
 
+## About the speakers...
+
+<div class="o-flex c-speakers">
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-9/cheeaun.jpg" srcset="/img/talk-9/cheeaun@2x.jpg 2x" alt="Lim Chee Aun"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/cheeaun">@cheeaun</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Head Honcho of <a href="https://kopijs.org/">KopiJS</a>. Maker of products. Purveyor of stickers. (This is what happens when you let me write your bio for you)</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-9/weiman.jpg" srcset="/img/talk-9/weiman@2x.jpg 2x" alt="Weiman Kow"/>
+      <figcaption><a class="c-speaker__link" href="http://weimankow.com/">weimankow.com</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Weiman is an user experience designer who is happiest surrounded by robots, graphic novels, and a nice cup of tea. Occasionally she tries to make sense of the world with visuals and is trying her hand at coding to express herself.</p>
+  </div>
+
+</div>
+
