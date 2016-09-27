@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Talk.CSS #10"
+date:   2016-09-27 19:00:00 +0800
+location: PayPal Singapore
+event-date: 2016-09-28 19:00:00 +0800
+categories: meetup
+---
+Time for another special edition! This time we're hosting the first ever CodePen Talk.CSS mash-up session. And that means SWAG for people who show up early. We also have a bunch of great talks lined-up so come over to PayPal Singapore and join us nerd out on CSS and CodePen :)
+ 
+**Latest CSS news** by **Talk.CSS**  
+Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
+
+**Favourite CodePen features (title TBC)** by **Ren Aysha**  
+Aysha is going to share with us her favourite CodePen features.
+
+**Title TBC** by **Claudio Mettler**  
+Details as soon as I get them :p
+
+**Title TBC** by **Kenzo**  
+Details as soon as I get them :p
+
+As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers">
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-10/claudio.jpg" srcset="/img/talk-10/claudio@2x.jpg 2x" alt="Claudio Mettler"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/ponyfleisch">@ponyfleisch</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Claudio will give me his bio once he realises I just asked him for one.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-10/ken.jpg" srcset="/img/talk-10/ken@2x.jpg 2x" alt="Ken Chua"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/kerion7">@kerion7</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Ken is healthily obsessed with colours and gradients, css-inspecting buttons and backgrounds whenever he chances on good ones. Otherwise he spends time reading CSS Tricks and listening to Rick Astley while coding.</p>
+  </div>
+
+</div>
