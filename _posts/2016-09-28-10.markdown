@@ -11,8 +11,8 @@ Time for another special edition! This time we're hosting the first ever CodePen
 **Latest CSS news** by **Talk.CSS**  
 Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
 
-**Favourite CodePen features (title TBC)** by **Ren Aysha**  
-Aysha is going to share with us her favourite CodePen features.
+**Exploring CSS features with CodePen** by **Ren Aysha**  
+Exploring CSS features and presenting your ideas on CodePen does not have to be boring. Aysha's going to talk about how to unleash your creativity while exploring CSS features on CodePen.
 
 **CSS structures** by **Claudio Mettler**  
 Details as soon as I get them :p
