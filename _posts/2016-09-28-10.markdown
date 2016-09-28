@@ -14,8 +14,8 @@ Our regular segment which will cover latest updates in the realm of CSS and HTML
 **Fishing for Loves on CodePen** by **Ren Aysha**  
 "You know how some people like to fish for compliments when they were younger? Well, I like to fish for loves on CodePen when I was younger. And I am going to talk about just that! How to fish for loves on your pen! I have had several successful pens with more than a hundred loves so if you are curious to know the art, the trickery, and the sorcery on getting loves, come and join us!"
 
-**CSS structures** by **Claudio Mettler**  
-Details as soon as I get them :p
+**My probably controversial golden rules for structured CSS that makes nobody mad** by **Claudio Mettler**  
+Self explanatory.
 
 **How I use codepen, at work and at play** by **Ken Chua**  
 Ken shows us how CodePen is s fixture in his life.
@@ -39,7 +39,7 @@ As you can see, we are planning ahead this time around. Please let us know if yo
       <img class="c-speaker__img" src="/img/talk-10/claudio.jpg" srcset="/img/talk-10/claudio@2x.jpg 2x" alt="Claudio Mettler"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/ponyfleisch">@ponyfleisch</a></figcaption>
     </figure>
-    <p class="c-speaker__intro">Claudio will give me his bio once he realises I just asked him for one.</p>
+    <p class="c-speaker__intro">Claudio doesn't like CSS.</p>
   </div>
 
   <div class="o-flex3__item c-speaker">
