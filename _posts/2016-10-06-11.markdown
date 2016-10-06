@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Talk.CSS #11"
+date:   2016-10-06 19:00:00 +0800
+location: TBC
+event-date: TBC
+categories: meetup
+---
+Our next meet-up potentially could be on 26 October at [PALO IT](http://sg.palo-it.com/) \*fingers-crossed*\.
+ 
+**Latest CSS news** by **Talk.CSS**  
+Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
+
+As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
