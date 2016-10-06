@@ -7,24 +7,49 @@ event-date: 2016-09-28 19:00:00 +0800
 categories: meetup
 ---
 Time for another special edition! This time we're hosting the first ever CodePen Talk.CSS mash-up session. And that means SWAG for people who show up early. We also have a bunch of great talks lined-up so come over to PayPal Singapore and join us nerd out on CSS and CodePen :)
- 
-**Latest CSS news** by **Talk.CSS**  
-Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
 
-**Fishing for Loves on CodePen** by **Ren Aysha**  
-"You know how some people like to fish for compliments when they were younger? Well, I like to fish for loves on CodePen when I was younger. And I am going to talk about just that! How to fish for loves on your pen! I have had several successful pens with more than a hundred loves so if you are curious to know the art, the trickery, and the sorcery on getting loves, come and join us!"
+## So this happened...
 
-**My probably controversial golden rules for structured CSS that makes nobody mad** by **Claudio Mettler**  
-Self explanatory.
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/AqdetuiCmLY">
+      <img class="c-video__img" src="/img/talk-10/s1001.jpg" srcset="/img/talk-10/s1001@2x.jpg 2x" alt="Link to talk on using CodePen"/>
+    </a>
+    <p class="c-video__desc">Ken shares how CodePen features in all aspects of his life.</p>
+  </div>
 
-**How I use codepen, at work and at play** by **Ken Chua**  
-Ken shows us how CodePen is s fixture in his life.
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/J1gTNEpAvWY">
+      <img class="c-video__img" src="/img/talk-10/s1002.jpg" srcset="/img/talk-10/s1002@2x.jpg 2x" alt="Link to talk on Fishing for Loves on CodePen"/>
+    </a>
+    <p class="c-video__desc">Aysha teaches us the art, the trickery, and the sorcery on getting loves on CodePen.</p>
+  </div>
 
-As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/o68A1yDSYcE">
+      <img class="c-video__img" src="/img/talk-10/s1003.jpg" srcset="/img/talk-10/s1003@2x.jpg 2x" alt="Link to talk on structuring CSS"/>
+    </a>
+    <p class="c-video__desc">Claudio is frustrated by CSS and came up with some rules to make it less so.</p>
+  </div>
+
+  <div class="u-clear">
+    <strong>CSS News (September 2016)</strong><br>
+    <p>Updates and news in the world of CSS for Sep 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-10.md">here</a>.</p>
+  </div>
+
+</div>
 
 ## About the speakers...
 
 <div class="o-flex c-speakers">
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-10/ken.jpg" srcset="/img/talk-10/ken@2x.jpg 2x" alt="Ken Chua"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/kerion7">@kerion7</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Ken is healthily obsessed with colours and gradients, css-inspecting buttons and backgrounds whenever he chances on good ones. Otherwise he spends time reading CSS Tricks and listening to Rick Astley while coding.</p>
+  </div>
 
   <div class="o-flex3__item c-speaker">
     <figure>
@@ -40,14 +65,6 @@ As you can see, we are planning ahead this time around. Please let us know if yo
       <figcaption><a class="c-speaker__link" href="https://twitter.com/ponyfleisch">@ponyfleisch</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Claudio doesn't like CSS.</p>
-  </div>
-
-  <div class="o-flex3__item c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-10/ken.jpg" srcset="/img/talk-10/ken@2x.jpg 2x" alt="Ken Chua"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/kerion7">@kerion7</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Ken is healthily obsessed with colours and gradients, css-inspecting buttons and backgrounds whenever he chances on good ones. Otherwise he spends time reading CSS Tricks and listening to Rick Astley while coding.</p>
   </div>
 
 </div>
