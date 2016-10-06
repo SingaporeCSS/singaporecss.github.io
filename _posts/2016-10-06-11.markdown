@@ -6,7 +6,8 @@ location: TBC
 event-date: TBC
 categories: meetup
 ---
-Our next meet-up potentially could be on 26 October at [PALO IT](http://sg.palo-it.com/) \*fingers-crossed*\.
+In the double digits now and still chugging along. Help us keep this going by continuing to join us geek out on CSS! :)
+Also, our next meet-up potentially could be on 26 October at [PALO IT](http://sg.palo-it.com/). \*fingers-crossed\*
  
 **Latest CSS news** by **Talk.CSS**  
 Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
