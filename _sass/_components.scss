@@ -163,8 +163,40 @@
   font-style: italic;
 }
 
-.mu-widget {
+.c-rsvp {
+  position: relative;
+}
+
+.c-rsvp span:first-child {
+  display: inline-block;
+  z-index: 2;
+  background: map-get($colors, secondary);
+  background: color(secondary);
+  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 color(shadow);
+  color: map-get($colors, bg);
+  color: color(bg);
+  padding: 0.25em 0.5em;
+  border-radius: 0.5em;
+  margin-right: 0.25em;
   margin-bottom: 1.5rem;
+}
+
+.c-rsvp span:last-child {
+  z-index: 1;
+  display: inline-block;
+  color: rgba(0,0,0,0.8);
+  font-style: italic;
+  font-size: 0.75em;
+  opacity: 0;
+  transition: transform 0.3s, opacity 0.3s;
+  transform: translateX(-50%);
+}
+
+.c-rsvp:hover span:last-child,
+.c-rsvp:focus span:last-child {
+  opacity: 1;
+  transform: translateX(0%);
 }
 
 // PLatform status page
