@@ -2,14 +2,16 @@
 layout: post
 title:  "Talk.CSS #11"
 date:   2016-10-06 19:00:00 +0800
-location: TBC
-event-date: TBC
+location: PALO IT
+event-date: 2016-10-25 19:00:00 +0800
 categories: meetup
 ---
-In the double digits now and still chugging along. Help us keep this going by continuing to join us geek out on CSS! :)
-Also, our next meet-up potentially could be on 26 October at [PALO IT](http://sg.palo-it.com/). \*fingers-crossed\*
- 
+In the double digits now and still chugging along. [PALO IT](http://sg.palo-it.com/) is hosting us this month. Help us keep this going by continuing to join us geek out on CSS! :)
+
 **Latest CSS news** by **Talk.CSS**  
 Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
+
+**Panel on Communication**
+Communication between designers and developers has been an issue for a long time. We're holding a panel discussion all about this, as we share experiences, tips and strategies for improving communication and processes for the benefit of everyone's sanity.
 
 As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
