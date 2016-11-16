@@ -22,3 +22,23 @@ We're all on our own developer journeys, but Zell has had a pretty awesome run t
 More speakers TBA.
 
 Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Hui Jing played basketball for Malaysia for 6 years and before realising that CSS was better than all that physical activity. She somehow managed to find gainful employment as a front-end developer.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
+  </div>
+</div>

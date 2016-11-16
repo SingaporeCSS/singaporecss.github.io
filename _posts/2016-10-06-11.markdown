@@ -8,10 +8,32 @@ categories: meetup
 ---
 In the double digits now and still chugging along. [PALO IT](http://sg.palo-it.com/) is hosting us this month. Help us keep this going by continuing to join us geek out on CSS! :)
 
-**Latest CSS news** by **Talk.CSS**  
-Our regular segment which will cover latest updates in the realm of CSS and HTML. All past news and links can be on our [Github account](https://github.com/SingaporeCSS/slides/tree/gh-pages/notes).
+## So this happened...
 
-**Panel on Communication**
-Communication between designers and developers has been an issue for a long time. We're holding a panel discussion all about this, as we share experiences, tips and strategies for improving communication and processes for the benefit of everyone's sanity.
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/6HXRiSo2LX0">
+      <img class="c-video__img" src="/img/talk-11/s1101.jpg" srcset="/img/talk-11/s1101@2x.jpg 2x" alt="Link to talk on what I learnt as a DJ"/>
+    </a>
+    <p class="c-video__desc">Chris talks about his past life as a DJ and the lessons he learnt from that experience.</p>
+  </div>
 
-As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+  <div class="u-clear">
+    <strong>CSS News (October 2016)</strong><br>
+    <p>Updates and news in the world of CSS for Oct 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-11.md">here</a>.</p>
+  </div>
+</div>
+
+## About the speakers...
+
+<div class="o-flex c-speakers">
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Chris also has the wrong qualifications and shouldn't be here. No one told him either and, despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's currently working for insurance broker JLT.</p>
+  </div>
+</div>
+
