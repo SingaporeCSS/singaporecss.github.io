@@ -44,6 +44,6 @@ Please let us know if you want to speak. We welcome any CSS-related topics at AN
       <img class="c-speaker__img" src="/img/talk-12/rachel.jpg" srcset="/img/talk-12/rachel@2x.jpg 2x" alt="Rachel Andrew"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/rachelandrew">@rachelandrew</a></figcaption>
     </figure>
-    <p class="c-speaker__intro">Rachel Andrew is the founder of edgeofmyseat.com, the company behind the CMS Perch. She regularly writes and speaks about the work she does, and can be found via <a href="http://rachelandrew.co.uk/"">her blog and personal site</a> and on Twitter.</p>
+    <p class="c-speaker__intro">Rachel Andrew is the founder of edgeofmyseat.com, the company behind <a href="https://grabaperch.com/">the CMS Perch</a>. She regularly writes and speaks about the work she does, and can be found via <a href="http://rachelandrew.co.uk/">her blog and personal site</a> and on Twitter.</p>
   </div>
 </div>
