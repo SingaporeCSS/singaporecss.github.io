@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Talk.CSS #9"
-date:   2016-07-27 19:00:00 +0800
+date:   2016-08-30 19:00:00 +0800
 location: Pivotal Labs Singapore
 event-date: 2016-08-30 19:00:00 +0800
 categories: meetup
