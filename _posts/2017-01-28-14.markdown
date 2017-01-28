@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Talk.CSS #14"
+date:   2017-01-28 19:00:00 +0800
+location: Exabytes
+event-date: 2017-02-28 19:00:00 +0800
+categories: meetup
+---
+
+Our next meet-up should happen on the last week of February, possibly the 28th, at [Exabytes](https://www.exabytes.sg/) (their office is next to MacPherson MRT, here's a [map](https://www.google.com/maps/place/Exabytes+Network+(Singapore)+Pte+Ltd/@1.3273715,103.8885453,17z/data=!4m8!1m2!2m1!1s140+Paya+Lebar+Road,+%2308-02+AZ+@+Paya+Lebar,+Singapore+409015.!3m4!1s0x0:0x6719f834651b5491!8m2!3d1.3274232!4d103.8907582)) 
+
+**Latest CSS news** by **Talk.CSS**  
+Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Speakers TBA**
+
+As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)

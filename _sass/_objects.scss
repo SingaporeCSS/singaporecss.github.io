@@ -2,8 +2,48 @@
 // Objects
 // =======
 .o-emoji {
+  font-size: 1.294rem;
   display: inline-block;
   vertical-align: middle;
+  font-family: 'Segoe UI Emoji';
+
+  @include mappy-bp(large) {
+    font-size: 1.618rem;
+  }
+}
+
+span[role=img][aria-label],
+span[role=img][aria-label] {
+  position: relative;
+}
+
+span[role=img][aria-label]:focus::after,
+span[role=img][aria-label]:hover::after {
+  font-size: 50%;
+  font-family: $base-font;
+  font-weight: 400;
+  position: absolute;
+  display: block;
+  line-height: 1.2;
+  content: attr(aria-label);
+  z-index: 1;
+  bottom: 2.5em;
+  left: 0;
+  background-color: map-get($colors, main);
+  background-color: color(main);
+  color: map-get($colors, bg);
+  color: color(bg);
+  padding: 0.25em;
+  border: 1px solid map-get($colors, border);
+  border: 1px solid color(border);
+  box-shadow: 2px 2px 4px map-get($colors, shadow);
+  box-shadow: 2px 2px 4px color(shadow);
+}
+
+@media print {
+  span[role=img][aria-label]::after {
+    content: " (" attr(aria-label) ") ";
+  }
 }
 
 .o-kaomoji {
