@@ -2,16 +2,41 @@
 layout: post
 title:  "Talk.CSS #14"
 date:   2017-01-28 19:00:00 +0800
-location: Exabytes
-event-date: 2017-02-28 19:00:00 +0800
+location: Exabytes Network (Singapore) Pte. Ltd.
+event-date: 2017-02-27 19:00:00 +0800
 categories: meetup
 ---
-
-Our next meet-up should happen on the last week of February, possibly the 28th, at [Exabytes](https://www.exabytes.sg/) (their office is next to MacPherson MRT, here's a [map](https://www.google.com/maps/place/Exabytes+Network+(Singapore)+Pte+Ltd/@1.3273715,103.8885453,17z/data=!4m8!1m2!2m1!1s140+Paya+Lebar+Road,+%2308-02+AZ+@+Paya+Lebar,+Singapore+409015.!3m4!1s0x0:0x6719f834651b5491!8m2!3d1.3274232!4d103.8907582)) 
+Our next meet-up should happen on the last week of February, possibly the 28th, at [Exabytes Network (Singapore) Pte. Ltd.](https://www.exabytes.sg/) (their office is next to MacPherson MRT, here's a [map](https://www.google.com/maps/place/Exabytes+Network+(Singapore)+Pte+Ltd/@1.3273715,103.8885453,17z/data=!4m8!1m2!2m1!1s140+Paya+Lebar+Road,+%2308-02+AZ+@+Paya+Lebar,+Singapore+409015.!3m4!1s0x0:0x6719f834651b5491!8m2!3d1.3274232!4d103.8907582)) 
 
 **Latest CSS news** by **Talk.CSS**  
 Our new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**Speakers TBA**
+**Design principles and typography** by **Zell Liew**
 
-As you can see, we are planning ahead this time around. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+**Deciphering the CSS property syntax in Specifications** by **Chen Hui Jing**
+
+If you're a regular at Talk.CSS, you would have heard Hui Jing go on and on about reading CSS specifications (if you're new here, you'll hear about it soon enough). Maybe you felt compelled to read one, but took one look and went <span class="kaomoji">(╯°□°）╯︵ ┻━┻</span> because all those <code>&![]?*+||</code> just didn't make sense to you. Let's make sense of all that together.
+
+**More Speakers TBA**
+
+Lightning talks welcome. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers u-align-start">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Hui Jing played basketball for Malaysia for 6 years and before realising that CSS was better than all that physical activity. She somehow managed to find gainful employment as a front-end developer.</p>
+  </div>
+</div>
