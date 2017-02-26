@@ -34,7 +34,7 @@ We were graciously hosted by [Viki Singapore](https://www.viki.com/), and they a
 
 ## About the speakers...
 
-<div class="o-flex c-speakers">
+<div class="o-flex c-speakers u-align-start">
 
   <div class="o-flex3__item c-speaker">
     <figure>

@@ -23,7 +23,7 @@ What do you do when you get a design that requires a masthead? Turns out there's
 
 ## About the speakers...
 
-<div class="o-flex c-speakers">
+<div class="o-flex c-speakers u-align-start">
 
   <div class="o-flex3__item c-speaker">
     <figure>

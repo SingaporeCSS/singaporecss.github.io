@@ -34,7 +34,7 @@ For this iteration, we went all the way west to [BASH](http://www.infocomminvest
 
 ## About the speakers...
 
-<div class="o-flex c-speakers">
+<div class="o-flex c-speakers u-align-start">
 
   <div class="o-flex3__item c-speaker">
     <figure>

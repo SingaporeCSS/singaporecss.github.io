@@ -11,13 +11,14 @@ Our next meet-up should happen on the last week of February, possibly the 28th, 
 **Latest CSS news** by **Talk.CSS**  
 Our new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**Design principles and typography** by **Zell Liew**
-
-**Deciphering the CSS property syntax in Specifications** by **Chen Hui Jing**
-
+**Deciphering the CSS property syntax in Specifications** by **Chen Hui Jing**  
 If you're a regular at Talk.CSS, you would have heard Hui Jing go on and on about reading CSS specifications (if you're new here, you'll hear about it soon enough). Maybe you felt compelled to read one, but took one look and went <span class="kaomoji">(╯°□°）╯︵ ┻━┻</span> because all those <code>&![]?*+||</code> just didn't make sense to you. Let's make sense of all that together.
 
-**More Speakers TBA**
+**Design principles and typography** by **Zell Liew**  
+CSS is a design tool. THE design tool of the web. The web is a predominantly visual medium. Understanding design principles and how they relate a fluid medium, i.e. the browser, will improve our “compositions” and make for a better user experience. 
+
+**CSS Grid is the New Black** by **Talk.CSS**  
+CSS Grid will be in Firefox 52 on 7 March, followed by Chrome 57 on 14 March, then Safari 10.1 and eventually Edge. Grid was created specifically for 2-dimensional layouts. Together with Flexbox, it is the ultimate 1-2 punch. It is something new, and may take some time for people to adopt, so we're doing our part to spread the word.
 
 Lightning talks welcome. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
 
