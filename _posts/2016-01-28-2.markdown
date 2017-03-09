@@ -3,6 +3,7 @@ layout: post
 title:  "Talk.CSS #2"
 date:   2016-01-28 19:00:00 +0800
 location: Paypal Singapore
+event-date:   2016-01-28 19:00:00 +0800
 categories: meetup
 ---
 The first Talk.CSS of 2016. A new year, a new meetup. We managed to get <a href="https://www.paypal.com/sg/home">PayPal Singapore</a> to host us. Unsure of how many people would turn out without the momentum of [DevFestAsia 2015](http://2015.devfest.asia/), we kept our fingers crossed and hoped people would show up anyway.

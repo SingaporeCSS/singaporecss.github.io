@@ -12,7 +12,7 @@ layout: default
     <p><strong>Event date:</strong> {{ post.event-date | date: "%b %-d, %Y" }}</p>
   </header>
 
-  <a href="https://www.meetup.com/SingaporeCSS/events/237265958/" class="c-rsvp"><span>RSVP</span><span>at meetup.com</span></a>
+  <a href="https://www.meetup.com/SingaporeCSS/events/{{ post.event-id }}/" class="c-rsvp"><span>RSVP</span><span>at meetup.com</span></a>
 
   <div class="c-event__content">
     {{ post.content }}
@@ -27,7 +27,7 @@ layout: default
   {% for post in site.posts offset:1 %}
     <li class="o-flex3__item c-past-event">
       <a class="c-past-event__link" href="{{ post.url | prepend: site.baseurl }}">
-        <span class="c-past-event__meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="c-past-event__meta">{{ post.event-date | date: "%b %-d, %Y" }}</span>
         <h3>{{ post.title }}</h3>
       </a>
     </li>

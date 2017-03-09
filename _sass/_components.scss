@@ -59,6 +59,29 @@
   padding: 1rem;
 }
 
+// Colour swatch section
+.c-colour {
+  text-align: center;
+}
+
+.c-swatch {
+  @include center;
+  height: 10em;
+  width: 10em;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 color(shadow);
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  p {
+    margin-bottom: 0;
+    font-size: 75%;
+  }
+}
+
 // Meetup videos section
 .c-videos {
   @include cf;

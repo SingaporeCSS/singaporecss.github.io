@@ -3,6 +3,7 @@ layout: post
 title:  "Talk.CSS #1"
 date:   2015-11-22 19:00:00 +0800
 location: Hackerspace.SG
+event-date:   2015-11-22 19:00:00 +0800
 categories: meetup
 ---
 The very first Talk.CSS! Because this event and this entire group was slapped together so spontaneously (check out the [origin story here](/about)), we were tacked onto the tail-end of the festivities for [DevFestAsia 2015](http://2015.devfest.asia/). We weren't sure how many people would show up, but thankfully, show up they did, filling up <a href="https://hackerspace.sg/">Hackerspace.SG</a>. A big shout out to Chris's wife, who provided us three huge bowls of popcorn for the evening.

@@ -3,6 +3,7 @@ layout: post
 title:  "Talk.CSS #3"
 date:   2016-02-29 19:00:00 +0800
 location: Microsoft Singapore
+event-date:   2016-02-29 19:00:00 +0800
 categories: meetup
 ---
 In a bid to be consistent, we were lucky that 2016 was a leap year that allowed us to squeeze our third Talk.CSS into the last day of the February. <a href="https://www.microsoft.com/en-sg/">Microsoft Singapore</a> graciously hosted us this time, and although there were some minor technical issues with the video setup, the spectacular talk line-up more than made up for it.

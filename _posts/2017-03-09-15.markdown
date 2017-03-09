@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Talk.CSS #15"
+date:   2017-01-28 19:00:00 +0800
+location: TBC
+event-date: 2017-03-29 19:00:00 +0800
+categories: meetup
+event-id: 237720105
+---
+Our next meet-up will happen on the last week of March, on the 29th, somewhere in Singapore.
+
+**Latest CSS news** by **Talk.CSS**  
+Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Gender inequality in the workplace** by **Chris Lienert**
+
+**Building Geekpath.com** by **Sayanee Basu** & **Lim Chee Aun**
+
+**How to choose and pair typefaces** by **Zell Liew**
+
+*Potential speakers TBC. Oh, the suspense...*
+
+Lightning talks welcome. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-9/cheeaun.jpg" srcset="/img/talk-9/cheeaun@2x.jpg 2x" alt="Lim Chee Aun"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/cheeaun">@cheeaun</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Head Honcho of <a href="https://kopijs.org/">KopiJS</a>. Maker of products. Purveyor of stickers. (This is what happens when you let me write your bio for you)</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-3/sb.jpg" srcset="/img/talk-3/sb@2x.jpg 2x" alt="Sayanee Basu"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/sayanee_">@sayanee_</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Sayanee is an engineer dabbling with web technologies and electronic sensors. She shares her learnings through screencasts on <a href="http://build-podcast.com/">Build Podcast</a>.</p>
+  </div>
+</div>
+
+<div class="o-flex c-speakers u-align-start">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
+  </div>
+</div>

@@ -1,26 +1,53 @@
 ---
 layout: post
 title:  "Talk.CSS #14"
-date:   2017-01-28 19:00:00 +0800
+date: 2017-01-28 19:00:00 +0800
 location: Exabytes Network (Singapore) Pte. Ltd.
 event-date: 2017-02-27 19:00:00 +0800
 categories: meetup
 ---
-Our next meet-up should happen on the last week of February, possibly the 28th, at [Exabytes Network (Singapore) Pte. Ltd.](https://www.exabytes.sg/) (their office is next to MacPherson MRT, here's a [map](https://www.google.com/maps/place/Exabytes+Network+(Singapore)+Pte+Ltd/@1.3273715,103.8885453,17z/data=!4m8!1m2!2m1!1s140+Paya+Lebar+Road,+%2308-02+AZ+@+Paya+Lebar,+Singapore+409015.!3m4!1s0x0:0x6719f834651b5491!8m2!3d1.3274232!4d103.8907582)) 
+Although this month's meet-up was announced on short notice due to logistical mishaps, we still had an audience! [Exabytes](https://www.exabytes.sg/) were awesome hosts! We also have a sponsor for the first time in our short existence, [Tribehired](https://tribehired.com/splash/user).
 
-**Latest CSS news** by **Talk.CSS**  
-Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+We introduced some new regular segments starting this month. CSS named colour of the month and awesome CSS grid demos. There are (currently) 147 named CSS colours, which is enough to cover us for more than 12 years worth of Talk.CSS, so that's that. 
 
-**Deciphering the CSS property syntax in Specifications** by **Chen Hui Jing**  
-If you're a regular at Talk.CSS, you would have heard Hui Jing go on and on about reading CSS specifications (if you're new here, you'll hear about it soon enough). Maybe you felt compelled to read one, but took one look and went <span class="kaomoji">(╯°□°）╯︵ ┻━┻</span> because all those <code>&![]?*+||</code> just didn't make sense to you. Let's make sense of all that together.
+Also, we are doing our part to spread awareness of CSS grid as the best option for building layouts on the web by showing cool demos of what CSS grid can do. Hopefully, these will inspire you to learn about and use CSS grid in your projects.
 
-**Design principles and typography** by **Zell Liew**  
-CSS is a design tool. THE design tool of the web. The web is a predominantly visual medium. Understanding design principles and how they relate a fluid medium, i.e. the browser, will improve our “compositions” and make for a better user experience. 
+## So this happened...
 
-**CSS Grid is the New Black** by **Talk.CSS**  
-CSS Grid will be in Firefox 52 on 7 March, followed by Chrome 57 on 14 March, then Safari 10.1 and eventually Edge. Grid was created specifically for 2-dimensional layouts. Together with Flexbox, it is the ultimate 1-2 punch. It is something new, and may take some time for people to adopt, so we're doing our part to spread the word.
+<div class="c-colour">
+  <div class="c-swatch" style="background-color:#fffacd">
+    <div class="c-swatch__txt">
+      <p>lemonchiffon</p>
+      <p>#fffacd</p>
+      <p>rgba(255,250,205,1)</p>
+    </div>
+  </div>
+<h4>CSS colour of the month</h4>
+</div>
 
-Lightning talks welcome. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/0e8seW4cpcc">
+      <img class="c-video__img" src="/img/talk-14/s1401.jpg" srcset="/img/talk-14/s1401@2x.png 2x" alt="Link to talk on CSS syntax"/>
+    </a>
+    <p class="c-video__desc">Hui Jing's geek was showing as she explained how to read the CSS property value syntax in the spec.</p>
+  </div>
+
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/uejN5WA9yL0">
+      <img class="c-video__img" src="/img/talk-14/s1402.jpg" srcset="/img/talk-14/s1402@2x.png 2x" alt="Link to talk on Design Principles and Typography"/>
+    </a>
+    <p class="c-video__desc">Zell went back to basic principles so we can understand why we do typography in certain ways.</p>
+  </div>
+
+  <div class="u-clear">
+    <strong>CSS News (February 2017)</strong><br>
+    <p>Updates and news in the world of CSS for Feb 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-14.md">here</a>.</p>
+  </div>
+
+  <strong>CSS grid demo</strong><br>
+  <p data-height="300" data-theme-id="9162" data-slug-hash="gmOpEq" data-default-tab="css,result" data-user="huijing" data-embed-version="2" data-pen-title="Uneven grid layout with the Cicada Principle" class="codepen">See the Pen <a href="http://codepen.io/huijing/pen/gmOpEq/">Uneven grid layout with the Cicada Principle</a> by Chen Hui Jing (<a href="http://codepen.io/huijing">@huijing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+</div>
 
 ## About the speakers...
 
@@ -41,3 +68,5 @@ Lightning talks welcome. Please let us know if you want to speak. We welcome any
     <p class="c-speaker__intro">Hui Jing played basketball for Malaysia for 6 years and before realising that CSS was better than all that physical activity. She somehow managed to find gainful employment as a front-end developer.</p>
   </div>
 </div>
+
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
