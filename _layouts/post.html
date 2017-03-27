@@ -4,8 +4,8 @@ layout: default
 <article class="c-event" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="c-event__header">
     <p class="c-event__meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: "%b %-d, %Y" }}
+      <time datetime="{{ page.event-date | date_to_xmlschema }}" itemprop="eventDate">
+        {{ page.event-date | date: "%b %-d, %Y" }}
       </time>
     </p>
     <h1 class="c-event__title" itemprop="name headline">
