@@ -7,7 +7,7 @@ event-date: 2017-03-29 19:00:00 +0800
 categories: meetup
 event-id: 237720105
 ---
-Our next meet-up will happen on the last week of March, on the 29th, at Hackerspace.
+Our next meet-up will happen on the last week of March, on the 29th, at [HackerspaceSG](https://hackerspace.sg/location/).
 
 **Latest CSS news** by **Talk.CSS**  
 Our new regular segment which will cover latest updates in the realm of CSS and HTML.
