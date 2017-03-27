@@ -2,12 +2,12 @@
 layout: post
 title:  "Talk.CSS #15"
 date:   2017-01-28 19:00:00 +0800
-location: Paypal Singapore (TBC)
+location: Hackerspace
 event-date: 2017-03-29 19:00:00 +0800
 categories: meetup
 event-id: 237720105
 ---
-Our next meet-up will happen on the last week of March, on the 29th, at Paypal Singapore (venue confirmation in progress).
+Our next meet-up will happen on the last week of March, on the 29th, at Hackerspace.
 
 **Latest CSS news** by **Talk.CSS**  
 Our new regular segment which will cover latest updates in the realm of CSS and HTML.
@@ -17,6 +17,8 @@ Our new regular segment which will cover latest updates in the realm of CSS and 
 **Building Geekpath.com** by **Sayanee Basu** & **Lim Chee Aun**
 
 **How to choose and pair typefaces** by **Zell Liew**
+
+**Chrome DevTools @supports extension** by **Ash Belmokadem** and **Joshua Foo**
 
 *Potential speakers TBC. Oh, the suspense...*
 
