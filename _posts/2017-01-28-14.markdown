@@ -45,7 +45,7 @@ Also, we are doing our part to spread awareness of CSS grid as the best option f
     <p>Updates and news in the world of CSS for Feb 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-14.md">here</a>.</p>
   </div>
 
-  <strong>CSS grid demo</strong><br>
+  <strong>CSS grid demo of the month</strong><br>
   <p data-height="300" data-theme-id="9162" data-slug-hash="gmOpEq" data-default-tab="css,result" data-user="huijing" data-embed-version="2" data-pen-title="Uneven grid layout with the Cicada Principle" class="codepen">See the Pen <a href="http://codepen.io/huijing/pen/gmOpEq/">Uneven grid layout with the Cicada Principle</a> by Chen Hui Jing (<a href="http://codepen.io/huijing">@huijing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 </div>
 

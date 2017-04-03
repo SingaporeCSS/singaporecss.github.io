@@ -7,22 +7,59 @@ event-date: 2017-03-29 19:00:00 +0800
 categories: meetup
 event-id: 237720105
 ---
-Our next meet-up will happen on the last week of March, on the 29th, at Hackerspace, here's a [map](https://hackerspace.sg/location/).
+This month's turn-out was much better than last month, because planning! But the best laid plans don't turn out as expected either, as we ended up having to shift location to Hackerspace a couple days before the meetup. But it all worked out well, and the talks were great as well!
 
-**Latest CSS news** by **Talk.CSS**  
-Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+## So this happened...
 
-**Gender inequality in the workplace** by **Chris Lienert**
+<div class="c-colour">
+  <div class="c-swatch" style="background-color:#7fff00">
+    <div class="c-swatch__txt">
+      <p>chartreuse</p>
+      <p>#7fff00</p>
+      <p>rgba(127,255,0,1)</p>
+    </div>
+  </div>
+<h4>CSS colour of the month</h4>
+</div>
 
-**Building Geekpath.com** by **Sayanee Basu** & **Lim Chee Aun**
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/tTh9zST36js">
+      <img class="c-video__img" src="/img/talk-15/s1501.jpg" srcset="/img/talk-15/s1501@2x.jpg 2x" alt="Link to talk on Building Geekpath.com"/>
+    </a>
+    <p class="c-video__desc">Sayanee and Chee Aun talk about how they built Geekpath.com, with some very interesting features.</p>
+  </div>
 
-**How to choose and pair typefaces** by **Zell Liew**
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/xMr6EMfC0SM">
+      <img class="c-video__img" src="/img/talk-15/s1502.jpg" srcset="/img/talk-15/s1502@2x.jpg 2x" alt="Link to talk on Gender inequality in the workplace"/>
+    </a>
+    <p class="c-video__desc">Chris discusses the critical yet somewhat underrated issue of gender inequality in the workplace.</p>
+  </div>
 
-**Chrome DevTools @supports extension** by **Ash Belmokadem** and **Joshua Foo**
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/CXvJpeL9afI">
+      <img class="c-video__img" src="/img/talk-15/s1503.jpg" srcset="/img/talk-15/s1503@2x.jpg 2x" alt="Link to talk on How to choose and pair typefaces"/>
+    </a>
+    <p class="c-video__desc">Zell gives us a few tips on how to pair typefaces with his unique 3x3 matrix.</p>
+  </div>
 
-*Potential speakers TBC. Oh, the suspense...*
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/jiNZwqYtdrY">
+      <img class="c-video__img" src="/img/talk-15/s1504.jpg" srcset="/img/talk-15/s1504@2x.jpg 2x" alt="Link to talk on Websites vs Web apps"/>
+    </a>
+    <p class="c-video__desc">Thomas explains the difference between web apps and websites, while sharing some best practices for building web apps.</p>
+  </div>
 
-Lightning talks welcome. Please let us know if you want to speak. We welcome any CSS-related topics at ANY level because we're all here to learn and share. :)
+  <div class="u-clear">
+    <strong>CSS News (March 2017)</strong><br>
+    <p>Updates and news in the world of CSS for Mar 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-15.md">here</a>.</p>
+  </div>
+
+  <strong>CSS grid demo of the month</strong><br>
+  <p>This particular demo by <a href="http://jensimmons.com/">Jen Simmons</a> is best viewed if you open it in another browser and resize to your heart's content. <a href="http://labs.jensimmons.com/2016/examples/mondrian-2.html">View it full page.</a></p>
+  <p data-height="500" data-theme-id="9162" data-slug-hash="mrNvPZ" data-default-tab="html,result" data-user="jensimmons" data-embed-version="2" data-pen-title="Responsive Mondrian" class="codepen">See the Pen <a href="https://codepen.io/jensimmons/pen/mrNvPZ/">Responsive Mondrian</a> by Jen Simmons (<a href="http://codepen.io/jensimmons">@jensimmons</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+</div>
 
 ## About the speakers...
 
@@ -60,4 +97,14 @@ Lightning talks welcome. Please let us know if you want to speak. We welcome any
     </figure>
     <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
   </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-7/thomas.jpg" srcset="/img/talk-7/thomas@2x.jpg 2x" alt="Thomas Gorissen"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/serrynaimo">@serrynaimo</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Thomas likes to work with curious people on ambitious tech projects and hosts CSSConf.Asia, a little big yearly gathering of South-east Asia's web designers and front-end developers.</p>
+  </div>
 </div>
+
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
