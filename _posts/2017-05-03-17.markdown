@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Talk.CSS #17"
+date:   2017-05-03 19:00:00 +0800
+location: CXA Group
+event-date: 2017-05-31 19:00:00 +0800
+categories: meetup
+event-id: 238915046
+---
+Our next meet-up will happen on the last week of May, on the 31st, that's a Wednesday, FYI. And we'll be at ConneXions Asia (CXA Group) once again!
+
+**Latest CSS news** by **Talk.CSS**  
+Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**The CSS doctor is in**
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+
+Speakers TBC. Have something you want to share? Let us know!
+
+Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
