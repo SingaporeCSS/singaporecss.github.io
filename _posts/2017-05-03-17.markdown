@@ -12,9 +12,36 @@ Our next meet-up will happen on the last week of May, on the 31st, that's a Wedn
 **Latest CSS news** by **Talk.CSS**  
 Our new regular segment which will cover latest updates in the realm of CSS and HTML.
 
+**Can I please write inline styles?** by **See Yishu**
+
+**The anatomy of a website redesign** by **Zell Liew**
+
+**Beyond Bootstrap**
+Bootstrap is frequently criticized for being the monolithic nightmare that it is. But what are the alternatives? We'll look at a range of different CSS libraries in an open discussion.
+
 **The CSS doctor is in**
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
 Speakers TBC. Have something you want to share? Let us know!
 
 Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers u-align-start">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-17/yishu.jpg" srcset="/img/talk-17/yishu@2x.jpg 2x" alt="See Yishu"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/yishusee">@yishusee</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Yishu is an engineer who learned everything about the web from books, like literally, bound printed paper. Other times she tries to sneak in the designers‘ table and hope no one notices.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
+  </div>
+</div>
