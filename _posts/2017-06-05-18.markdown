@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Talk.CSS #18"
+date:   2017-06-05 19:00:00 +0800
+location: CXA Group
+event-date: 2017-06-28 19:00:00 +0800
+categories: meetup
+event-id: 240519499
+---
+Our next meet-up will happen on the last week of June, on the 28th, that's a Wednesday, FYI. And we'll be at Singapore Power for the first time. Here's a [map](https://www.google.com/maps/place/Keppel+Towers+2/@1.2743674,103.8407372,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196b6f3cc2fd:0xfbf6cd3e40c77443!8m2!3d1.2743674!4d103.8429259?hl=en) in case you need directions.
+
+**Latest CSS news** by **Talk.CSS**  
+Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Can I please write inline styles?** by **See Yishu**
+
+**The CSS doctor is in**
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+
+Speakers TBC. Have something you want to share? Let us know!
+
+Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers u-align-start">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-17/yishu.jpg" srcset="/img/talk-17/yishu@2x.jpg 2x" alt="See Yishu"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/yishusee">@yishusee</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Yishu is an engineer who learned everything about the web from books, like literally, bound printed paper. Other times she tries to sneak in the designers‘ table and hope no one notices.</p>
+  </div>
+</div>
