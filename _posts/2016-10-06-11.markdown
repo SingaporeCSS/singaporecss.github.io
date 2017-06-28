@@ -6,7 +6,7 @@ location: PALO IT
 event-date: 2016-10-25 19:00:00 +0800
 categories: meetup
 ---
-In the double digits now and still chugging along. [PALO IT](http://sg.palo-it.com/) is hosting us this month. Help us keep this going by continuing to join us geek out on CSS! :)
+In the double digits now and still chugging along. [PALO IT](http://sg.palo-it.com/) is hosting us this month. Help us keep this going by continuing to join us geek out on CSS! <span class="o-emoji" role="img" tabindex="0" aria-label="grinning face with smiling eyes">&#x1F601;</span>
 
 ## So this happened...
 

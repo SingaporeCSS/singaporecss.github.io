@@ -6,7 +6,7 @@ location: PayPal Singapore
 event-date: 2016-09-28 19:00:00 +0800
 categories: meetup
 ---
-Time for another special edition! This time we're hosting the first ever CodePen Talk.CSS mash-up session. And that means SWAG for people who show up early. We also have a bunch of great talks lined-up so come over to PayPal Singapore and join us nerd out on CSS and CodePen :)
+Time for another special edition! This time we're hosting the first ever CodePen Talk.CSS mash-up session. And that means SWAG for people who show up early. We also have a bunch of great talks lined-up so come over to PayPal Singapore and join us nerd out on CSS and CodePen! <span class="o-emoji" role="img" tabindex="0" aria-label="grinning face with smiling eyes">&#x1F601;</span>
 
 ## So this happened...
 

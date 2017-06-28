@@ -7,22 +7,41 @@ event-date: 2017-05-31 19:00:00 +0800
 categories: meetup
 event-id: 239689378
 ---
-Our next meet-up will happen on the last week of May, on the 31st, that's a Wednesday, FYI. And we'll be at ConneXions Asia (CXA Group) once again!
+It was a dark and stormy night, but you all still showed up, and we are so appreciative of your support and enthusiasm for CSS. This time we also had wine, courtesy of [The French Cellar](http://www.thefrenchcellar.sg/) (if you missed it, the wine was <span class="o-emoji" role="img" tabindex="0" aria-label="OK hand">&#x1F44C;</span>).
 
-**Latest CSS news** by **Talk.CSS**  
-Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+## So this happened...
 
-**The anatomy of a website redesign** by **Zell Liew**
+<div class="c-colour">
+  <div class="c-swatch" style="background-color:#B22222;color:#fff;">
+    <div class="c-swatch__txt">
+      <p>firebrick</p>
+      <p>#B22222</p>
+      <p>rgba(178,34,34,1)</p>
+    </div>
+  </div>
+<h4>CSS colour of the month</h4>
+</div>
 
-**Beyond Bootstrap**
-Bootstrap is frequently criticized for being the monolithic nightmare that it is. But what are the alternatives? We'll look at a range of different CSS libraries in an open discussion.
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="javascript:void(0)">
+      <img class="c-video__img" src="/img/talk-17/s1701.jpg" srcset="/img/talk-17/s1701@2x.jpg 2x" alt="Link to slides on Zell's website revamp"/>
+    </a>
+    <p class="c-video__desc">Zell walks us through his process for revamping <a href="https://www.zellwk.com">his website</a>.</p>
+  </div>
 
-**The CSS doctor is in**
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/dtiOMIAkBNA">
+      <img class="c-video__img" src="/img/talk-17/s1702.jpg" srcset="/img/talk-17/s1702@2x.jpg 2x" alt="Link to talk on Beyond Bootstrap"/>
+    </a>
+    <p class="c-video__desc">Chris does an assessment of popular CSS frameworks and where they fall short.</p>
+  </div>
 
-Speakers TBC. Have something you want to share? Let us know!
-
-Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+  <div class="u-clear">
+    <strong>CSS News (May 2017)</strong><br>
+    <p>Updates and news in the world of CSS for May 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-17.md">here</a>.</p>
+  </div>
+</div>
 
 ## About the speakers...
 
