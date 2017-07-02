@@ -27,6 +27,8 @@ defaults:
     values:
       is_post: true # automatically set is_post=true for all posts
 
+include: ["_pages"]
+
 # Exclude files and folder
 exclude:
   - node_modules

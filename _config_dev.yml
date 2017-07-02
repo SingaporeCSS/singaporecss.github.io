@@ -26,6 +26,8 @@ exclude:
   - bower.json
   - bower_components
 
+include: ["_pages"]
+
 defaults:
   -
     scope:
