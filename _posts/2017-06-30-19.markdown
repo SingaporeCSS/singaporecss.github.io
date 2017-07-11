@@ -12,9 +12,34 @@ It's time for another CodePen edition of Talk.CSS! If you missed last year's eve
 **Latest CSS news** by **Talk.CSS**  
 Our new regular segment which will cover latest updates in the realm of CSS and HTML.
 
+**Can I please write inline styles?** by **See Yishu**
+
+**Chinese lyric translation** by **William Lim**
+
+
 **The CSS doctor is in**
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
-Speakers TBC. Have something you want to share? Let us know!
+More speakers TBC. Have something you want to share? Let us know!
 
 Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers u-align-start">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-19/yishu.jpg" srcset="/img/talk-19/yishu@2x.jpg 2x" alt="Ghis Bakour"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/yishusee">@yishusee</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Yishu is an engineer who learned everything about the web from books, like literally, bound printed paper. Other times she tries to sneak in the designers‘ table and hope no one notices.</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-6/william.jpg" srcset="/img/talk-6/william@2x.jpg 2x" alt="William Lim"/>
+      <figcaption><a class="c-speaker__link" href="https://github.com/wlwl2">@wlwl2</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">William is a web developer who believes that 🎶 we are the world, we are the children, we are the ones who make a brighter day, so lets start giving.</p>
+  </div>
+</div>
