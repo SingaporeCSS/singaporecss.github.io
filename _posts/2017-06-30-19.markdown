@@ -40,6 +40,6 @@ Lightning talks welcome, just poke Chris or Huijing when you get there. We welco
       <img class="c-speaker__img" src="/img/talk-6/william.jpg" srcset="/img/talk-6/william@2x.jpg 2x" alt="William Lim"/>
       <figcaption><a class="c-speaker__link" href="https://github.com/wlwl2">@wlwl2</a></figcaption>
     </figure>
-    <p class="c-speaker__intro">William is a web developer who believes that 🎶 we are the world, we are the children, we are the ones who make a brighter day, so lets start giving.</p>
+    <p class="c-speaker__intro">William develops websites, games, and other applications mainly using Javascript. He is also currently learning other programming languages such as Swift.</p>
   </div>
 </div>
