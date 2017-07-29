@@ -7,22 +7,41 @@ event-date: 2017-07-26 19:00:00 +0800
 categories: meetup
 event-id: 240519505
 ---
-It's time for another CodePen edition of Talk.CSS! If you missed last year's event and all the swag that came with it, well, you're in luck. We'll be hosted by the wonderful folks from Viki, who are official friends of this meetup. Here's [a map](https://www.google.com/maps/place/138+Market+St,+Singapore/@1.281803,103.850125,16z/data=!4m5!3m4!1s0x31da190dd3c99bc3:0xb5aadd93afc0e205!8m2!3d1.2818026!4d103.8501248?hl=en) so you don't get lost.
+We had a great turnout this time. Probably in large part because it was the Codepen edition. Might make this an annual thing. But more importantly, Viki was a wonderful host, as usual, and the food was FANTASTIC! Much love to team Viki <span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span><span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span><span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span>.
 
-**Latest CSS news** by **Talk.CSS**  
-Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+## So this happened...
 
-**Can I please write inline styles?** by **See Yishu**
+<div class="c-colour">
+  <div class="c-swatch" style="background-color:#00BFFF;color:#fff;">
+    <div class="c-swatch__txt">
+      <p>deepskyblue</p>
+      <p>#00BFFF</p>
+      <p>rgba(0,191,255,1)</p>
+    </div>
+  </div>
+<h4>CSS colour of the month</h4>
+</div>
 
-**Chinese lyric translation** by **William Lim**
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/YMyiz2I3jDk">
+      <img class="c-video__img" src="/img/talk-19/s1901.jpg" srcset="/img/talk-19/s1901@2x.jpg 2x" alt="Link to talk on can I use inline styles"/>
+    </a>
+    <p class="c-video__desc">Yishu walks us through her journey of exploring various strategies to handle CSS.</p>
+  </div>
 
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/8T87M95zCpw">
+      <img class="c-video__img" src="/img/talk-19/s1902.jpg" srcset="/img/talk-19/s1902@2x.jpg 2x" alt="Link to talk on lyric translation app"/>
+    </a>
+    <p class="c-video__desc">William shows us his lyric translations web application, which utilise HTML ruby.</p>
+  </div>
 
-**The CSS doctor is in**
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-More speakers TBC. Have something you want to share? Let us know!
-
-Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+  <div class="u-clear">
+    <strong>CSS News (July 2017)</strong><br>
+    <p>Updates and news in the world of CSS for July 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-19.md">here</a>.</p>
+  </div>
+</div>
 
 ## About the speakers...
 

@@ -95,15 +95,11 @@
   margin-bottom: 1.5rem;
 
   @include mappy-bp(small medium) {
-    @include span(6 of 12);
-
-    &:nth-child(2n) {
-      @include last;
-    }
+    
   }
 
   @include mappy-bp(medium) {
-    @include span(12 of 12);
+    
   }
 }
 

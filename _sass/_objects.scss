@@ -52,7 +52,8 @@ span[role=img][aria-label]:hover::after {
 }
 
 .o-site-wrapper {
-  @include container(60rem);
+  max-width: 60rem;
+  margin: 0 auto;
   padding: 0 1rem;
 }
 
@@ -81,10 +82,10 @@ span[role=img][aria-label]:hover::after {
   flex: 0 0 100%;
 
   @include mappy-bp(small medium) {
-    flex: 0 0 span(6 of 12);
+    flex: 0 0 calc(50% - 0.5em);
   }
 
   @include mappy-bp(medium) {
-    flex: 0 0 span(4 of 12);
+    flex: 0 0 calc((100% / 3) - 0.5em);
   }
 }
