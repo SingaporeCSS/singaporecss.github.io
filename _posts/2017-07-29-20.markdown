@@ -3,7 +3,7 @@ layout: post
 title:  "Talk.CSS #20"
 date:   2017-06-05 19:00:00 +0800
 location: TBC
-event-date: 2017-07-26 19:00:00 +0800
+event-date: 2017-08-30 19:00:00 +0800
 categories: meetup
 event-id: 241969862
 ---
