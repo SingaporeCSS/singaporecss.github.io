@@ -14,7 +14,7 @@ github_username: SingaporeCSS
 twitter_username: SingaporeCSS
 
 # Build settings
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 

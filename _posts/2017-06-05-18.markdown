@@ -39,7 +39,7 @@ We had a good turnout this time, guess planning ahead counts for something. Of c
 
   <div class="u-clear">
     <strong>CSS News (June 2017)</strong><br>
-    <p>Updates and news in the world of CSS for June 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-18.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for June 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-18.md">here</a>.</p>
   </div>
 </div>
 

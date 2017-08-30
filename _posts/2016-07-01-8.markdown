@@ -49,7 +49,7 @@ So we have a sister meet-up group called Talk.JS, that as the name implies, cove
 
   <div class="u-clear">
     <strong>CSS News (July 2016)</strong><br>
-    <p>Updates and news in the world of CSS for July 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-8.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for July 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-8.md">here</a>.</p>
   </div>
 </div>
 

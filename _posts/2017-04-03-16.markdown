@@ -32,7 +32,7 @@ Although our hosts were way less than 100% (with one in hospital and the other u
 
   <div class="u-clear">
     <strong>CSS News (April 2017)</strong><br>
-    <p>Updates and news in the world of CSS for Apr 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-16.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for Apr 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-16.md">here</a>.</p>
   </div>
 </div>
 

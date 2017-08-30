@@ -2,19 +2,67 @@
 layout: post
 title:  "Talk.CSS #20"
 date:   2017-06-05 19:00:00 +0800
-location: TBC
+location: PayPal Singapore
 event-date: 2017-08-30 19:00:00 +0800
 categories: meetup
 event-id: 241969862
 ---
-We're still looking for speakers and a location for the next Talk.CSS, which will happen on 30 August, 2017. It's a Wednesday.
+Today we learnt that most people don't turn up for Talk.CSS twice in a row. Either that or you people just don't like raising your hands. But we absolutely love that you show up anyway. Thank you to PayPal for sponsoring really nice pizza, and as usual, a great venue.
 
-**Latest CSS news** by **Talk.CSS**  
-Our new regular segment which will cover latest updates in the realm of CSS and HTML.
+## So this happened...
 
-**The CSS doctor is in**
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+<div class="c-colour">
+  <div class="c-swatch" style="background-color:#F8F8FF;">
+    <div class="c-swatch__txt">
+      <p>ghostwhite</p>
+      <p>#F8F8FF</p>
+      <p>rgba(248,248,255,1)</p>
+    </div>
+  </div>
+<h4>CSS colour of the month</h4>
+</div>
 
-Speakers TBC. Have something you want to share? Let us know!
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/gBH8Y7vqQrU">
+      <img class="c-video__img" src="/img/talk-20/s2001.jpg" srcset="/img/talk-20/s2001@2x.jpg 2x" alt="Link to Aug 2017 CSS updates"/>
+    </a>
+    <p class="c-video__desc">Updates and news in the world of CSS for August 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-20.md">here</a>.</p>
+  </div>
 
-Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/zksuOZm195Q">
+      <img class="c-video__img" src="/img/talk-20/s2002.jpg" srcset="/img/talk-20/s2002@2x.jpg 2x" alt="Link to talk on speeding up your animations with CSS"/>
+    </a>
+    <p class="c-video__desc">Murray shares some great tips and techniques for speeding up your animations to hit that sweet 60fps.</p>
+  </div>
+
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/gBH8Y7vqQrU">
+      <img class="c-video__img" src="/img/talk-20/s2003.jpg" srcset="/img/talk-20/s2003@2x.jpg 2x" alt="Link to talk on CSS fonts trivia"/>
+    </a>
+    <p class="c-video__desc">Hui Jing talks about CSS fonts, and some random things you may not have known about them.</p>
+  </div>
+</div>
+
+## About the speakers...
+
+<div class="o-flex c-speakers u-align-start">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-20/murray.jpg" srcset="/img/talk-20/murray@2x.jpg 2x" alt="Murray Bourne"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/intmath">@intmath</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Murray is a learner, trainer and math enthusiast, who was born on a blue day...</p>
+  </div>
+
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Hui Jing played basketball for more than half her life and it indirectly led her to web development. Ask her about that.</p>
+  </div>
+</div>
+
+

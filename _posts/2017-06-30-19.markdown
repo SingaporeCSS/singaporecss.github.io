@@ -39,7 +39,7 @@ We had a great turnout this time. Probably in large part because it was the Code
 
   <div class="u-clear">
     <strong>CSS News (July 2017)</strong><br>
-    <p>Updates and news in the world of CSS for July 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-19.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for July 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-19.md">here</a>.</p>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ We had a great turnout this time. Probably in large part because it was the Code
 <div class="o-flex c-speakers u-align-start">
   <div class="o-flex3__item c-speaker">
     <figure>
-      <img class="c-speaker__img" src="/img/talk-19/yishu.jpg" srcset="/img/talk-19/yishu@2x.jpg 2x" alt="Ghis Bakour"/>
+      <img class="c-speaker__img" src="/img/talk-19/yishu.jpg" srcset="/img/talk-19/yishu@2x.jpg 2x" alt="See Yishu"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/yishusee">@yishusee</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Yishu is an engineer who learned everything about the web from books, like literally, bound printed paper. Other times she tries to sneak in the designers‘ table and hope no one notices.</p>

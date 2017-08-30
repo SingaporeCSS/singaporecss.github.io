@@ -20,7 +20,7 @@ In the double digits now and still chugging along. [PALO IT](http://sg.palo-it.c
 
   <div class="u-clear">
     <strong>CSS News (October 2016)</strong><br>
-    <p>Updates and news in the world of CSS for Oct 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-11.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for Oct 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-11.md">here</a>.</p>
   </div>
 </div>
 

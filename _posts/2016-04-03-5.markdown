@@ -28,7 +28,7 @@ We were graciously hosted by [Viki Singapore](https://www.viki.com/), and they a
 
   <div class="u-clear">
     <strong>CSS News (April 2016)</strong><br>
-    <p>Updates and news in the world of CSS for April 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-5.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for April 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-5.md">here</a>.</p>
   </div>
 </div>
 

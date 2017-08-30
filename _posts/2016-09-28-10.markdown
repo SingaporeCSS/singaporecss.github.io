@@ -34,7 +34,7 @@ Time for another special edition! This time we're hosting the first ever CodePen
 
   <div class="u-clear">
     <strong>CSS News (September 2016)</strong><br>
-    <p>Updates and news in the world of CSS for Sep 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-10.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for Sep 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-10.md">here</a>.</p>
   </div>
 
 </div>

@@ -15,7 +15,7 @@ As a result of the last meetup's timing clash, we rescheduled our original venue
     <a class="c-video__link" href="https://youtu.be/CQ2iTWFKkmU">
       <img class="c-video__img" src="/img/talk-9/s901.jpg" srcset="/img/talk-9/s901@2x.jpg 2x" alt="Link to CSS updates for August 2016"/>
     </a>
-    <p class="c-video__desc">Updates and news in the world of CSS for August 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-9.md">here</a>.</p>
+    <p class="c-video__desc">Updates and news in the world of CSS for August 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-9.md">here</a>.</p>
   </div>
 
   <div class="c-video">

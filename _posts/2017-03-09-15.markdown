@@ -53,7 +53,7 @@ This month's turn-out was much better than last month, because planning! But the
 
   <div class="u-clear">
     <strong>CSS News (March 2017)</strong><br>
-    <p>Updates and news in the world of CSS for Mar 2017. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-15.md">here</a>.</p>
+    <p>Updates and news in the world of CSS for Mar 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-15.md">here</a>.</p>
   </div>
 
   <strong>CSS grid demo of the month</strong><br>
