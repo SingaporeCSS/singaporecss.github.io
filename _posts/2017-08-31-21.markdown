@@ -9,12 +9,27 @@ event-id: 242950199
 ---
 We're still looking for speakers and a location for the next Talk.CSS, which will happen on 27 September, 2017. It's a Wednesday.
 
+**Introduction to FLOCSS** by **Ayaka Sasaki**  
+Ayaka will be talking about FLOCSS and a little side project she made. 
+
+More speakers TBC. Have something you want to share? Let us know!
+
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
 **The CSS doctor is in**
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
-Speakers TBC. Have something you want to share? Let us know!
-
 Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+
+## About the speakers...
+
+<div class="o-flex c-speakers u-align-start">
+  <div class="o-flex3__item c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-21/ayaka.jpg" srcset="/img/talk-21/ayaka@2x.jpg 2x" alt="Ayaka Sasaki"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/ayausaspirit">@ayausaspirit</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Ayaka is a web designer and developer who likes to try out new things but then forgets about it after two weeks. She loves to eat cheese and see objects placed in a symmetry.</p>
+  </div>
+</div>
