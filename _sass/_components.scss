@@ -46,7 +46,6 @@
 .c-past-event {
   box-shadow: 0 2px 5px 0 map-get($colors, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
-  margin-bottom: 1.5rem;
 }
 
 @for $i from 1 through length($highlights) {

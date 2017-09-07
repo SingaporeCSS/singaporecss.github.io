@@ -23,9 +23,9 @@ What do you do when you get a design that requires a masthead? Turns out there's
 
 ## About the speakers...
 
-<div class="o-flex c-speakers u-align-start">
+<div class="l-speakers c-speakers u-align-start">
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-7/thomas.jpg" srcset="/img/talk-7/thomas@2x.jpg 2x" alt="Thomas Gorissen"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/serrynaimo">@serrynaimo</a></figcaption>
@@ -33,7 +33,7 @@ What do you do when you get a design that requires a masthead? Turns out there's
     <p class="c-speaker__intro">Thomas likes to work with curious people on ambitious tech projects and hosts CSSConf.Asia, a little big yearly gathering of South-east Asia's web designers and front-end developers.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>

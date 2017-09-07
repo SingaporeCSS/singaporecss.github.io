@@ -45,8 +45,8 @@ It was a dark and stormy night, but you all still showed up, and we are so appre
 
 ## About the speakers...
 
-<div class="o-flex c-speakers u-align-start">
-  <div class="o-flex3__item c-speaker">
+<div class="l-speakers c-speakers u-align-start">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
@@ -54,7 +54,7 @@ It was a dark and stormy night, but you all still showed up, and we are so appre
     <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>

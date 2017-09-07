@@ -41,9 +41,9 @@ Time for another special edition! This time we're hosting the first ever CodePen
 
 ## About the speakers...
 
-<div class="o-flex c-speakers">
+<div class="l-speakers c-speakers">
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-10/ken.jpg" srcset="/img/talk-10/ken@2x.jpg 2x" alt="Ken Chua"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/kerion7">@kerion7</a></figcaption>
@@ -51,7 +51,7 @@ Time for another special edition! This time we're hosting the first ever CodePen
     <p class="c-speaker__intro">Ken is healthily obsessed with colours and gradients, css-inspecting buttons and backgrounds whenever he chances on good ones. Otherwise he spends time reading CSS Tricks and listening to Rick Astley while coding.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>
@@ -59,7 +59,7 @@ Time for another special edition! This time we're hosting the first ever CodePen
     <p class="c-speaker__intro">Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-10/claudio.jpg" srcset="/img/talk-10/claudio@2x.jpg 2x" alt="Claudio Mettler"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/ponyfleisch">@ponyfleisch</a></figcaption>

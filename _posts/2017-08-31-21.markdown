@@ -24,8 +24,8 @@ Lightning talks welcome, just poke Chris or Huijing when you get there. We welco
 
 ## About the speakers...
 
-<div class="o-flex c-speakers u-align-start">
-  <div class="o-flex3__item c-speaker">
+<div class="l-speakers c-speakers u-align-start">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-21/ayaka.jpg" srcset="/img/talk-21/ayaka@2x.jpg 2x" alt="Ayaka Sasaki"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/ayausaspirit">@ayausaspirit</a></figcaption>

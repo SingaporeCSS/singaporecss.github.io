@@ -51,8 +51,8 @@ Also, we are doing our part to spread awareness of CSS grid as the best option f
 
 ## About the speakers...
 
-<div class="o-flex c-speakers u-align-start">
-  <div class="o-flex3__item c-speaker">
+<div class="l-speakers c-speakers u-align-start">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
@@ -60,7 +60,7 @@ Also, we are doing our part to spread awareness of CSS grid as the best option f
     <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>

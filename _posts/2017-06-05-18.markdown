@@ -45,8 +45,8 @@ We had a good turnout this time, guess planning ahead counts for something. Of c
 
 ## About the speakers...
 
-<div class="o-flex c-speakers u-align-start">
-  <div class="o-flex3__item c-speaker">
+<div class="l-speakers c-speakers u-align-start">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-18/ghis.jpg" srcset="/img/talk-18/ghis@2x.jpg 2x" alt="Ghis Bakour"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/fatasuir9">@fatasuir9</a></figcaption>
@@ -54,7 +54,7 @@ We had a good turnout this time, guess planning ahead counts for something. Of c
     <p class="c-speaker__intro">Ghis will be writing his one-liner as soon as he knows he has to.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>

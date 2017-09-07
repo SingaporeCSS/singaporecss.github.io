@@ -33,8 +33,8 @@ Oh my god, we've made it to 1 year! Back to where it all began: at DevFest Asia.
 
 ## About the speakers...
 
-<div class="o-flex c-speakers">
-  <div class="o-flex3__item c-speaker">
+<div class="l-speakers c-speakers">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
@@ -42,7 +42,7 @@ Oh my god, we've made it to 1 year! Back to where it all began: at DevFest Asia.
     <p class="c-speaker__intro">Hui Jing played basketball for more than half her life and it indirectly led her to web development. Ask her about that.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
@@ -50,7 +50,7 @@ Oh my god, we've made it to 1 year! Back to where it all began: at DevFest Asia.
     <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-12/rachel.jpg" srcset="/img/talk-12/rachel@2x.jpg 2x" alt="Rachel Andrew"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/rachelandrew">@rachelandrew</a></figcaption>

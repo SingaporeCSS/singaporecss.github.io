@@ -71,21 +71,3 @@ span[role=img][aria-label]:hover::after {
     fill: color(bg);
   }
 }
-
-.o-flex {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.o-flex3__item {
-  flex: 0 0 100%;
-
-  @include mappy-bp(small medium) {
-    flex: 0 0 calc(50% - 0.5em);
-  }
-
-  @include mappy-bp(medium) {
-    flex: 0 0 calc((100% / 3) - 0.5em);
-  }
-}

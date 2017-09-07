@@ -39,9 +39,9 @@ The more exciting thing was, we had our very first panel discussion! Yes, it mig
 
 ## About the speakers...
 
-<div class="o-flex c-speakers">
+<div class="l-speakers c-speakers">
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-4/sb.jpg" srcset="/img/talk-4/sb@2x.jpg 2x" alt="Sahil Bajaj"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/spinningarrow_">@spinningarrow_</a></figcaption>
@@ -49,7 +49,7 @@ The more exciting thing was, we had our very first panel discussion! Yes, it mig
     <p class="c-speaker__intro">Sahil is a web developer who occasionally misses the old days of marquee text and hit counters on websites. DynamicDrive.com, anyone?</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>
@@ -57,7 +57,7 @@ The more exciting thing was, we had our very first panel discussion! Yes, it mig
     <p class="c-speaker__intro">Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>

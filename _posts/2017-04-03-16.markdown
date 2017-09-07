@@ -38,8 +38,8 @@ Although our hosts were way less than 100% (with one in hospital and the other u
 
 ## About the speaker...
 
-<div class="o-flex c-speakers">
-  <div class="o-flex3__item c-speaker">
+<div class="l-speakers c-speakers">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>

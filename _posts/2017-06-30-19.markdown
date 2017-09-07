@@ -45,8 +45,8 @@ We had a great turnout this time. Probably in large part because it was the Code
 
 ## About the speakers...
 
-<div class="o-flex c-speakers u-align-start">
-  <div class="o-flex3__item c-speaker">
+<div class="l-speakers c-speakers u-align-start">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-19/yishu.jpg" srcset="/img/talk-19/yishu@2x.jpg 2x" alt="See Yishu"/>
       <figcaption><a class="c-speaker__link" href="https://twitter.com/yishusee">@yishusee</a></figcaption>
@@ -54,7 +54,7 @@ We had a great turnout this time. Probably in large part because it was the Code
     <p class="c-speaker__intro">Yishu is an engineer who learned everything about the web from books, like literally, bound printed paper. Other times she tries to sneak in the designers‘ table and hope no one notices.</p>
   </div>
 
-  <div class="o-flex3__item c-speaker">
+  <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="/img/talk-6/william.jpg" srcset="/img/talk-6/william@2x.jpg 2x" alt="William Lim"/>
       <figcaption><a class="c-speaker__link" href="https://github.com/wlwl2">@wlwl2</a></figcaption>
