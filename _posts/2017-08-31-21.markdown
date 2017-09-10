@@ -7,7 +7,7 @@ event-date: 2017-09-27 19:00:00 +0800
 categories: meetup
 event-id: 242950199
 ---
-We're still looking for speakers and a location for the next Talk.CSS, which will happen on 27 September, 2017. It's a Wednesday.
+We're still looking for speakers and a location for the next Talk.CSS, which will happen on 27 September, 2017. It's a Wednesday. :)
 
 **Introduction to FLOCSS** by **Ayaka Sasaki**  
 Ayaka will be talking about FLOCSS and a little side project she made. 
