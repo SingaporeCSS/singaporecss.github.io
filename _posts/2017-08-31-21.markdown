@@ -2,17 +2,18 @@
 layout: post
 title:  "Talk.CSS #21"
 date:   2017-08-31 19:00:00 +0800
-location: TBC
+location: Hackerspace
 event-date: 2017-09-27 19:00:00 +0800
 categories: meetup
 event-id: 242950199
 ---
-We're still looking for speakers and a location for the next Talk.CSS, which will happen on 27 September, 2017. It's a Wednesday. :)
+We'll be at Hackerspace on 27 September, 2017. It's a Wednesday. :)
 
 **Introduction to FLOCSS** by **Ayaka Sasaki**  
 Ayaka will be talking about FLOCSS and a little side project she made. 
 
-More speakers TBC. Have something you want to share? Let us know!
+**Web accessibility: The user's experience** by **Poh Kok Hong**  
+Ever wondered how users who have disabilities experience the web? How do they interact with a website that's accessible, and one that's not? This little show-and-tell will take you through web accessibility from the perspective of users, with a special focus on the specialised software and hardware that they use.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
@@ -31,5 +32,13 @@ Lightning talks welcome, just poke Chris or Huijing when you get there. We welco
       <figcaption><a class="c-speaker__link" href="https://twitter.com/ayausaspirit">@ayausaspirit</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Ayaka is a web designer and developer who likes to try out new things but then forgets about it after two weeks. She loves to eat cheese and see objects placed in a symmetry.</p>
+  </div>
+
+  <div class="l-speaker c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-21/kokhong.jpg" srcset="/img/talk-21/kokhong@2x.jpg 2x" alt="Poh Kok Hong"/>
+      <figcaption><a class="c-speaker__link" href="https://www.facebook.com/pohkokhong">@pohkokhong</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Kok Hong is a copywriter, not a coder. The last program he wrote was in Pascal for MS-DOS. For some reason, however, he has worked on several websites (MOM website, eCitizen, Enabling Village) over the years, with a focus on accessibility, so hopefully you can learn something from his experience.</p>
   </div>
 </div>
