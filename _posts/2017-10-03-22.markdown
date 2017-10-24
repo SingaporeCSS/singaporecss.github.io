@@ -2,17 +2,43 @@
 layout: post
 title:  "Talk.CSS #22"
 date:   2017-10-03 19:00:00 +0800
-location: TBC
-event-date: 2017-10-25 19:00:00 +0800
+location: Spacemob Ascent
+event-date: 2017-10-26 19:00:00 +0800
 categories: meetup
 event-id: 243672479
 ---
-We're trying to do better by planning early. So we've already decided that the next Talk.CSS will be on October 25. It's a Wednesday! Location will be announced once we find one :)
+Our 22nd edition will be at Spacemob Ascent. Here's a [map](https://www.google.com.sg/maps/place/Spacemob+Ascent/@1.2906655,103.7827615,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a52e9bfd76f:0x7537975f7d5da267!8m2!3d1.2906655!4d103.7849502), don't get lost!
+
+**Form Autofill Violation** by **Tan Shiaw Uen**  
+Breaking all that is good and right about autofill to make it work properly.
+
+**Vintage CSS** by **Chris Lienert**  
+I found a site using early 2000's era CSS. We'll go through some of the techniques that we're lucky not to use any more.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**The CSS doctor is in**
+**The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
 Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+
+## About the speakers...
+
+<div class="l-speakers c-speakers u-align-start">
+  <div class="l-speaker c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-3/tsu.jpg" srcset="/img/talk-3/tsu@2x.jpg 2x" alt="Tan Shiaw Uen"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/shiawuen">@shiawuen</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Shiaw Uen is a developer. He occasionally plants vegetables and makes soap.</p>
+  </div>
+
+  <div class="l-speaker c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia.</p>
+  </div>
+</div>
