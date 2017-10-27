@@ -7,21 +7,38 @@ event-date: 2017-10-26 19:00:00 +0800
 categories: meetup
 event-id: 243672479
 ---
-Our 22nd edition will be at Spacemob Ascent. Here's a [map](https://www.google.com.sg/maps/place/Spacemob+Ascent/@1.2906655,103.7827615,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a52e9bfd76f:0x7537975f7d5da267!8m2!3d1.2906655!4d103.7849502), don't get lost!
+We were at Spacemob Ascent this time around, and it was...interesting to say the least. Turn-out was understandably small, due to the westerly location, but the food, kindly sponsored by [Wantedly](https://sg.wantedly.com/) was excellent.
 
-**Form Autofill Violation** by **Tan Shiaw Uen**  
-Breaking all that is good and right about autofill to make it work properly.
+Talks covered horror stories, which was coincidentally perfect for October, being Halloween month and all <span class="emoji" role="img" tabindex="0" aria-label="jack-o-lantern">&#x1F383;</span>.
 
-**Vintage CSS** by **Chris Lienert**  
-I found a site using early 2000's era CSS. We'll go through some of the techniques that we're lucky not to use any more.
+## So this happened...
 
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+<div class="c-colour">
+  <div class="c-swatch" style="background-color:#FF6347;">
+    <div class="c-swatch__txt">
+      <p>tomato</p>
+      <p>#FF6347</p>
+      <p>rgba(255,99,71,1)</p>
+    </div>
+  </div>
+<h4>CSS colour of the month</h4>
+</div>
 
-**The CSS doctor is in**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/3ShLqkRM42c">
+      <img class="c-video__img" src="/img/talk-22/s2201.jpg" srcset="/img/talk-22/s2201@2x.jpg 2x" alt="Link to Introduction to FLOCSS"/>
+    </a>
+    <p class="c-video__desc">Shiaw Uen talks about the perils of his day job which involves overriding the default behaviour of form auto-fill.</p>
+  </div>
 
-Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/mOKG2bUkDJ8">
+      <img class="c-video__img" src="/img/talk-22/s2202.jpg" srcset="/img/talk-22/s2202@2x.jpg 2x" alt="Link to Vintage CSS"/>
+    </a>
+    <p class="c-video__desc">Chris dissects a current website that was seemingly built with yesterday's technologies and never updated since. Perfect for Halloween.</p>
+  </div>
+</div>
 
 ## About the speakers...
 
