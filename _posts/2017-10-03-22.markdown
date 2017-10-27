@@ -7,7 +7,9 @@ event-date: 2017-10-26 19:00:00 +0800
 categories: meetup
 event-id: 243672479
 ---
-We were at Spacemob Ascent this time around, and it was...interesting to say the least. Turn-out was understandably small, due to the westerly location, but the food, kindly sponsored by [Wantedly](https://sg.wantedly.com/) was excellent.
+We were at Spacemob Ascent this time around, and it was...interesting to say the least. Turn-out was understandably small, due to the westerly location, but we do want to thank [Wantedly](https://sg.wantedly.com/) for arranging the venue.
+
+Food was kindly sponsored by [Chris](https://twitter.com/cliener) and the wonderful [Sarah Lienert](https://twitter.com/sazzarj) baked us cookies! <span class="emoji" role="img" tabindex="0" aria-label="smiling face with heart-eyes">&#x1F60D;</span>
 
 Talks covered horror stories, which was coincidentally perfect for October, being Halloween month and all <span class="emoji" role="img" tabindex="0" aria-label="jack-o-lantern">&#x1F383;</span>.
 
