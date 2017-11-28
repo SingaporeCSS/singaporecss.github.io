@@ -20,8 +20,15 @@ $textpoints: (
 
 @font-face {
   font-family: 'Bixa';
-  src: url('../fonts/NTBixa-Color.woff');
+  src: url('../fonts/NTBixa-Color.woff') format('woff');
   font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilbert';
+  src: url('../fonts/gilbert-bold.otf')  format('opentype');
+  font-weight: 700;
   font-style: normal;
 }
 
@@ -30,8 +37,7 @@ $textpoints: (
   src: url('../fonts/hack-regular.eot');
   src: url('../fonts/hack-regular.eot?#iefix') format('embedded-opentype'),
        url('../fonts/hack-regular.woff2') format('woff2'),
-       url('../fonts/hack-regular.woff') format('woff'),
-       url('../fonts/hack-regular.ttf') format('truetype');
+       url('../fonts/hack-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -41,8 +47,7 @@ $textpoints: (
   src: url('../fonts/hack-bold.eot');
   src: url('../fonts/hack-bold.eot?#iefix') format('embedded-opentype'),
        url('../fonts/hack-bold.woff2') format('woff2'),
-       url('../fonts/hack-bold.woff') format('woff'),
-       url('../fonts/hack-bold.ttf') format('truetype');
+       url('../fonts/hack-bold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
@@ -52,8 +57,7 @@ $textpoints: (
   src: url('../fonts/hack-italic.eot');
   src: url('../fonts/hack-italic.eot?#iefix') format('embedded-opentype'),
        url('../fonts/hack-italic.woff2') format('woff2'),
-       url('../fonts/hack-italic.woff') format('woff'),
-       url('../fonts/hack-italic.ttf') format('truetype');
+       url('../fonts/hack-italic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
 }

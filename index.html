@@ -1,9 +1,10 @@
 ---
 layout: default
+css: maxcontent
 ---
-
-<article class="c-upcoming-event">
 {% for post in site.posts limit:1 %}
+<article class="c-upcoming-event {{ post.css }}">
+  {% unless post.special %}
   <header class="c-event__header">
     <h2 class="c-event__title">
       {{ post.title }}
@@ -17,14 +18,20 @@ layout: default
   <div class="c-event__content">
     {{ post.content }}
   </div>
-{% endfor %}
+  {% endunless %}
+
+  {% if post.special %}
+  {{ post.content }}
+  {% endif %}
+
 </article>
+{% endfor %}
 
 <hr>
 
 <h2>Past meetups</h2>
 <ul class="l-past-events c-past-events">
-  {% for post in site.posts offset:1 %}
+  {% for post in site.posts offset:1 limit:3 %}
     <li class="l-past-event c-past-event">
       <a class="c-past-event__link" href="{{ post.url | prepend: site.baseurl }}">
         <span class="c-past-event__meta">{{ post.event-date | date: "%b %-d, %Y" }}</span>
@@ -33,6 +40,7 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+<a class="l-archive__link c-archive__link" href="{{ "/archives" | prepend: site.baseurl }}">View full list</a>
 
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<p class="c-rss">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

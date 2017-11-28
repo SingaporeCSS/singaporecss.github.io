@@ -2,6 +2,7 @@
 layout: page
 title: About us
 permalink: /about/
+navigation: true
 ---
 
 Developers love meet-ups. Almost every programming language has its own local meet-up. Almost. There wasn't a CSS-specific meet-up in Singapore at the time, and usually talks related to CSS latched onto other meet-ups like [Talk.JS](http://www.meetup.com/Singapore-JS/) or [Front End Developers Singapore](http://feds.strikingly.com/).

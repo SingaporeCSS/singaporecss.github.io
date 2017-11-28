@@ -2,6 +2,7 @@
 layout: page
 title: Platform status
 permalink: /platform-status/
+navigation: true
 ---
 All the major browser vendors publish the list of web platform features and their implementation status on every major browser. The information on each site is more or less the same, but each site has a different design and presentation, so take your pick.
 

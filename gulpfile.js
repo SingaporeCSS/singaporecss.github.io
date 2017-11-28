@@ -17,7 +17,7 @@ var messages = {
  */
 gulp.task('jekyll-dev', function (done) {
   browserSync.notify(messages.jekyllDev);
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--future', '--config', '_config.yml,_config_dev.yml'], {stdio: 'inherit'})
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--drafts', '--future', '--config', '_config.yml,_config_dev.yml'], {stdio: 'inherit'})
     .on('close', done);
 });
 
@@ -42,7 +42,8 @@ gulp.task('browser-sync', ['sass', 'jekyll-dev'], function() {
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds)
  */
 gulp.task('sass', function () {
-  return gulp.src('_sass/styles.scss')
+  return gulp.src(['_sass/styles.scss',
+                   '_sass/special.scss'])
     .pipe(sass({
       includePaths: ['scss'],
       onError: browserSync.notify
@@ -59,7 +60,7 @@ gulp.task('sass', function () {
  */
 gulp.task('watch', function () {
   gulp.watch(['_sass/**/*.scss','_sass/*.scss'], ['sass']);
-  gulp.watch(['index.html', '_layouts/*.html', '_posts/*', '_includes/*.html', '*.md'], ['jekyll-rebuild']);
+  gulp.watch(['index.html', '_layouts/*.html', '_drafts/*', '_posts/*', '_includes/*.html', '*.md'], ['jekyll-rebuild']);
 });
 
 
@@ -76,7 +77,8 @@ gulp.task('jekyll-prod', function (done) {
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds)
  */
 gulp.task('sass-prod', function () {
-  return gulp.src('_sass/styles.scss')
+  return gulp.src(['_sass/styles.scss',
+                   '_sass/special.scss'])
     .pipe(sass({
       includePaths: ['scss'],
       onError: browserSync.notify

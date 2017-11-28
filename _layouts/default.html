@@ -4,7 +4,13 @@
   <body>
     {% include header.html %}
     <main class="o-site-wrapper">
+      {% if page.special %}
+      <article class="{{ page.css }}">
       {{ content }}
+      </article>
+      {% else %}
+      {{ content }}
+      {% endif %}
     </main>
     {% include footer.html %}
   </body>

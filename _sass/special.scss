@@ -1,0 +1,107 @@
+// ==========
+// SETTINGS - Global variables, config switches
+// ==========
+@import 'settings';
+
+// ==========
+// Special one-off event styles
+// ==========
+.maxcontent {
+  h2 {
+    line-height: calc(1em + 2vmin);
+  }
+
+  h4 {
+    margin-bottom: 0.125em;
+
+    a {
+      color: map-get($colors,main);
+      color: color(main);
+      transition: transform 0.2s ease-out;
+
+      &:hover {
+        display:block;
+        transform: rotate(5deg);
+      }
+    }
+  }
+
+  header {
+    text-align: center;
+
+    h2 {
+      font-size: calc(1.5em + 1.75vw);
+    }
+
+    p {
+      margin: 0;
+      font-weight: bold;
+      font-size: 125%;
+    }
+  }
+
+  table {
+    width: 100%;
+    border-spacing: 0;
+    border-top: 2px solid map-get($colors, border);
+    border-top: 2px solid color(border);
+    margin-bottom: 2em;
+
+    p:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+
+  th,
+  td {
+    vertical-align: top;
+    padding: 0.75em;
+    border-bottom: 2px solid map-get($colors, border);
+    border-bottom: 2px solid color(border);
+  }
+
+  .map {
+    margin-bottom: 2em;
+  }
+
+  .address span {
+    display: block;
+  }
+
+  .talk-speaker {
+    h4 {
+      text-align: center;
+    }
+  }
+
+  @include mappy-bp(medium) {
+    .map {
+      display: flex;
+    }
+
+    .address {
+      margin-left: 1em;
+    }
+
+    .talk {
+      display: flex;
+    }
+
+    .talk-session {
+      flex: 1 0 65%;
+    }
+
+    .talk-speaker {
+      flex: 1 0 35%;
+    }
+  }
+
+  .emoji {
+    font-size: 125%;
+  }
+}
+
+.gilbert {
+  font-family: 'Gilbert';
+  font-size: 125%;
+}

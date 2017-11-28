@@ -2,6 +2,7 @@
 layout: page
 title: Developer voice
 permalink: /dev-voice/
+navigation: true
 ---
 Those of us who build for the web make use of web technologies all the time. Just like our users give us feedback to improve our websites and applications, we too can provide feedback to browser vendors and the CSS working group.
 

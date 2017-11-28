@@ -59,6 +59,23 @@
   padding: 1rem;
 }
 
+.c-archive__link {
+  display: inline-block;
+  background: map-get($colors, main);
+  background: color(main);
+  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 color(shadow);
+  color: map-get($colors, bg);
+  color: color(bg);
+  padding: 0.5em 1em;
+  margin: 0 auto 1em;
+
+  &:hover {
+    background: map-get($colors, secondary);
+    background: color(secondary);
+  }
+}
+
 // Colour swatch section
 .c-colour {
   text-align: center;
@@ -217,6 +234,10 @@
 .c-rsvp:focus span:last-child {
   opacity: 1;
   transform: translateX(0%);
+}
+
+.c-rss {
+  text-align: right;
 }
 
 // PLatform status page
