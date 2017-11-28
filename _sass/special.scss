@@ -99,6 +99,28 @@
   .emoji {
     font-size: 125%;
   }
+
+  .cta {
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+    margin: 1.5em 0;
+    
+    a {
+      background-color: map-get($colors, main);
+      background-color: color(main);
+      color: map-get($colors, bg);
+      color: color(bg);
+      transition: box-shadow 0.3s ease-out;
+      transform: perspective(1px) translateZ(0);
+      box-shadow: 0 0 1px transparent;
+      padding: 0.5em 1em;
+
+      &:hover {
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+      }
+    }
+  }
 }
 
 .gilbert {

@@ -114,6 +114,30 @@
 .maxcontent .emoji {
   font-size: 125%; }
 
+.maxcontent .cta {
+  text-align: center;
+  font-size: 125%;
+  font-weight: bold;
+  margin: 1.5em 0; }
+  .maxcontent .cta a {
+    background-color: #1572b6;
+    background-color: color(main);
+    color: #fafaff;
+    color: color(bg);
+    -webkit-transition: -webkit-box-shadow 0.3s ease-out;
+    transition: -webkit-box-shadow 0.3s ease-out;
+    -o-transition: box-shadow 0.3s ease-out;
+    transition: box-shadow 0.3s ease-out;
+    transition: box-shadow 0.3s ease-out, -webkit-box-shadow 0.3s ease-out;
+    -webkit-transform: perspective(1px) translateZ(0);
+            transform: perspective(1px) translateZ(0);
+    -webkit-box-shadow: 0 0 1px transparent;
+            box-shadow: 0 0 1px transparent;
+    padding: 0.5em 1em; }
+    .maxcontent .cta a:hover {
+      -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+              box-shadow: 0 0 8px rgba(0, 0, 0, 0.6); }
+
 .gilbert {
   font-family: 'Gilbert';
   font-size: 125%; }
