@@ -40,6 +40,11 @@ Talks covered horror stories, which was coincidentally perfect for October, bein
     </a>
     <p class="c-video__desc">Chris dissects a current website that was seemingly built with yesterday's technologies and never updated since. Perfect for Halloween.</p>
   </div>
+
+  <div class="u-clear">
+    <strong>CSS News (October 2017)</strong><br>
+    <p>Updates and news in the world of CSS for October 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-22.md">here</a>.</p>
+  </div>
 </div>
 
 ## About the speakers...

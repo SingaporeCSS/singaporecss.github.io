@@ -7,31 +7,58 @@ event-date: 2017-11-29 19:00:00 +0800
 categories: meetup
 event-id: 244532281
 ---
-Talk.CSS is 2 years old! <span class="emoji" role="img" tabindex="0" aria-label="person dancing">&#x1F483;</span> We made it to the terrible twos without missing a month, and it wouldn't have been possible without all your support. We cannot say enough to express how appreciative we are of all you kind folks who show up for our little meetup every month.
+Talk.CSS turned 2! <span class="emoji" role="img" tabindex="0" aria-label="person dancing">&#x1F483;</span> We made it to the terrible twos without missing a month, and it wouldn't have been possible without all your support. We cannot say enough to express how appreciative we are of all you kind folks who show up for our little meetup every month.
 
-As with most birthday celebrations, there will be cake <span class="emoji" role="img" tabindex="0" aria-label="birthday cake">&#x1F382;</span>! Courtesy of Chris and his wonderful wife, [Sarah](https://twitter.com/sazzarj), who is officially friend-for-life <span class="emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span> of Talk.CSS. So come join this tiny milestone event and nerd out on CSS with us!
+As with most birthday celebrations, there was cake <span class="emoji" role="img" tabindex="0" aria-label="birthday cake">&#x1F382;</span>! Courtesy of Chris and his wonderful wife, [Sarah](https://twitter.com/sazzarj), who is officially friend-for-life <span class="emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span> of Talk.CSS.
 
-We'll be at Autodesk Asia. [Here's a map](https://www.google.com.sg/maps/place/Autodesk+Singapore+Research+%26+Development+Centre/@1.2981512,103.7901703,15z/data=!4m5!3m4!1s0x0:0x12b2e47347949a7a!8m2!3d1.2981512!4d103.7901703) so you don't get lost, nearest MRT is One North.
 
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+## So this happened...
 
-**CSS-ing the Super Silly Hackathon website** by **Lim Chee Aun**  
-What do you mean simi si Super Silly Hackathon?! It's only the most awesome hackathon in the world, organised by the most awesome people on the planet! [Tickets are available now](https://supersillyhackathon.sg/). Anyway, Chee Aun built [the site](https://supersillyhackathon.sg/) with some cool CSS which he will share with us.
+<div class="c-colour">
+  <div class="c-swatch" style="background-color:#DC143C;color:white;">
+    <div class="c-swatch__txt">
+      <p>crimson</p>
+      <p>#DC143C</p>
+      <p>rgba(220,20,60,1)</p>
+    </div>
+  </div>
+<h4>CSS colour of the month</h4>
+</div>
 
-**Critical 1.0** by **Owais Zahid**  
-Critical 1.0 is a utility to extract and inline critical path CSS. This is a good way to improve the first load performance of the application. In the session, Owais will briefly talk about critical path and the utility before jumping into some actual code.
+<div class="c-videos">
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/4k0cAQLjDtg">
+      <img class="c-video__img" src="/img/talk-23/s2301.jpg" srcset="/img/talk-23/s2301@2x.jpg 2x" alt="Link to CSS-ing the Super Silly Hackathon website"/>
+    </a>
+    <p class="c-video__desc">Chee Aun walks us through his quest to build a diagonal scroll for the Super Silly Hackathon website.</p>
+  </div>
 
-**Why Web Assembly?** by **Benjamin Ling**  
-WebAssembly is an emerging standard to enable near-native performance for web applications like computer-aided design, video and image editing, and scientific visualization, and even video games. Benjamin gives us a brief introduction to this potential game-changer for the web.
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/mGlSDaUdLPs">
+      <img class="c-video__img" src="/img/talk-23/s2302.jpg" srcset="/img/talk-23/s2302@2x.jpg 2x" alt="Link to Why Web Assembly?"/>
+    </a>
+    <p class="c-video__desc">Ben blows everybody's mind with this short introduction to WebAssembly and a little Javascript history.</p>
+  </div>
 
-**CSS Panel Time: 2017 wrap-up edition** by **The Usual Suspects**  
-It's that time of the year again. That time when Chris and Hui Jing are unable to find enough speakers and so have chosen to play the *Let's-do-a-panel-thingy* card. Besides, it's our second birthday, some introspection seemed apt.
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/R8ijdhjrG3k">
+      <img class="c-video__img" src="/img/talk-23/s2303.jpg" srcset="/img/talk-23/s2303@2x.jpg 2x" alt="Link to Critical 1.0"/>
+    </a>
+    <p class="c-video__desc">Owais shares his tips and tricks for inlining critical css.</p>
+  </div>
 
-**The CSS doctor is in**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+  <div class="c-video">
+    <a class="c-video__link" href="https://youtu.be/LUYOYOkiGas">
+      <img class="c-video__img" src="/img/talk-23/s2304.jpg" srcset="/img/talk-23/s2304@2x.jpg 2x" alt="Link to 2017 wrap-up panel"/>
+    </a>
+    <p class="c-video__desc">To wrap up 2017, we did a panel thingy.</p>
+  </div>
 
-Lightning talks welcome, just poke Chris or Huijing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+  <div class="u-clear">
+    <strong>CSS News (November 2017)</strong><br>
+    <p>Updates and news in the world of CSS for November 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-23.md">here</a>.</p>
+  </div>
+</div>
 
 ## About the speakers...
 
@@ -58,6 +85,30 @@ Lightning talks welcome, just poke Chris or Huijing when you get there. We welco
       <figcaption><a class="c-speaker__link" href="https://twitter.com/Mintyboi">@Mintyboi</a></figcaption>
     </figure>
     <p class="c-speaker__intro">Benjamin is AutoCAD web's emscripten-based back-end engineer.</p>
+  </div>
+
+  <div class="l-speaker c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'.</p>
+  </div>
+
+  <div class="l-speaker c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia.</p>
+  </div>
+
+  <div class="l-speaker c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
+    </figure>
+    <p class="c-speaker__intro">Hui Jing played basketball for more than half her life and it indirectly led her to web development. Ask her about that.</p>
   </div>
 </div>
 

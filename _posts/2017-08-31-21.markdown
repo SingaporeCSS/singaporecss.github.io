@@ -40,6 +40,11 @@ Thank you all, from the bottom of our hearts <span class="o-emoji" role="img" ta
     </a>
     <p class="c-video__desc">A really insightful and important talk by Kok Hong about web accessibility from the perspective of users. <a href="https://drive.google.com/file/d/0B8050lVqQ0dIVEJGTjBfWVY4X1E/view">Slides from talk here</a>.</p>
   </div>
+
+  <div class="u-clear">
+    <strong>CSS News (September 2017)</strong><br>
+    <p>Updates and news in the world of CSS for September 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-21.md">here</a>.</p>
+  </div>
 </div>
 
 ## About the speakers...
