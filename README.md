@@ -2,6 +2,16 @@
 
 The site will be updated after every meet-up, with a short recap and links to videos of the talks.
 
+## v1.3.0
+
+- Tidied up styles
+- Moved past meet-ups to a separate page
+- Added more logic to cater for special events, e.g. max-content edition
+
+## v1.2.0
+
+- Added Developer voice page
+
 ## v1.1.0
 
 - Fixed issue with Facebook metatags
