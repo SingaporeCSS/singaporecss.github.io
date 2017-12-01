@@ -58,9 +58,11 @@
               transform: rotate(5deg); }
 
 .maxcontent header {
-  text-align: center; }
+  text-align: center;
+  margin-bottom: 1em; }
   .maxcontent header h2 {
-    font-size: calc(1.5em + 1.75vw); }
+    font-size: calc(1.5em + 1.75vw);
+    margin-bottom: 0; }
   .maxcontent header p {
     margin: 0;
     font-weight: bold;
