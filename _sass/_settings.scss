@@ -33,49 +33,38 @@ $textpoints: (
 }
 
 @font-face {
-  font-family: 'Hack';
-  src: url('../fonts/hack-regular.eot');
-  src: url('../fonts/hack-regular.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/hack-regular.woff2') format('woff2'),
-       url('../fonts/hack-regular.woff') format('woff');
+  font-family: 'League Mono';
+  src: url('../fonts/leaguemono-regular.eot');
+  src: url('../fonts/leaguemono-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/leaguemono-regular.woff2') format('woff2'),
+       url('../fonts/leaguemono-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Hack';
-  src: url('../fonts/hack-bold.eot');
-  src: url('../fonts/hack-bold.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/hack-bold.woff2') format('woff2'),
-       url('../fonts/hack-bold.woff') format('woff');
+  font-family: 'League Mono';
+  src: url('../fonts/leaguemono-bold.eot');
+  src: url('../fonts/leaguemono-bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/leaguemono-bold.woff2') format('woff2'),
+       url('../fonts/leaguemono-bold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Hack';
-  src: url('../fonts/hack-italic.eot');
-  src: url('../fonts/hack-italic.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/hack-italic.woff2') format('woff2'),
-       url('../fonts/hack-italic.woff') format('woff');
+  font-family: 'League Mono';
+  src: url('../fonts/leaguemono-ultralight.eot');
+  src: url('../fonts/leaguemono-ultralight.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/leaguemono-ultralight.woff2') format('woff2'),
+       url('../fonts/leaguemono-ultralight.woff') format('woff');
   font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Hack';
-  src: url('../fonts/hack-bolditalic.eot');
-  src: url('../fonts/hack-bolditalic.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/hack-bolditalic.woff2') format('woff2'),
-       url('../fonts/hack-bolditalic.woff') format('woff'),
-       url('../fonts/hack-bolditalic.ttf') format('truetype');
-  font-weight: bold;
   font-style: italic;
 }
 
 // Base font stacks
-$base-font: 'Hack', Arial, sans-serif;
-$display-font: 'Bixa', 'Hack', Arial, sans-serif;
+$base-font: 'League Mono', Courier, monospace;
+$display-font: 'Bixa', Georgia, serif;
 
 // Set typography sizes
 $text-sizing: (
