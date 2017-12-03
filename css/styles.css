@@ -11,23 +11,23 @@
   font-style: normal; }
 
 @font-face {
-  font-family: 'League Mono';
-  src: url("../fonts/leaguemono-regular.eot");
-  src: url("../fonts/leaguemono-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/leaguemono-regular.woff2") format("woff2"), url("../fonts/leaguemono-regular.woff") format("woff");
+  font-family: 'iA Writer Duospace';
+  src: url("../fonts/iawriterduospace-regular.eot");
+  src: url("../fonts/iawriterduospace-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/iawriterduospace-regular.woff2") format("woff2"), url("../fonts/iawriterduospace-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'League Mono';
-  src: url("../fonts/leaguemono-bold.eot");
-  src: url("../fonts/leaguemono-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/leaguemono-bold.woff2") format("woff2"), url("../fonts/leaguemono-bold.woff") format("woff");
+  font-family: 'iA Writer Duospace';
+  src: url("../fonts/iawriterduospace-bold.eot");
+  src: url("../fonts/iawriterduospace-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/iawriterduospace-bold.woff2") format("woff2"), url("../fonts/iawriterduospace-bold.woff") format("woff");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
-  font-family: 'League Mono';
-  src: url("../fonts/leaguemono-ultralight.eot");
-  src: url("../fonts/leaguemono-ultralight.eot?#iefix") format("embedded-opentype"), url("../fonts/leaguemono-ultralight.woff2") format("woff2"), url("../fonts/leaguemono-ultralight.woff") format("woff");
+  font-family: 'iA Writer Duospace';
+  src: url("../fonts/iawriterduospace-regularitalic.eot");
+  src: url("../fonts/iawriterduospace-regularitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/iawriterduospace-regularitalic.woff2") format("woff2"), url("../fonts/iawriterduospace-regularitalic.woff") format("woff");
   font-weight: normal;
   font-style: italic; }
 
@@ -131,7 +131,7 @@ body {
   color: #110;
   color: var(--text-color, #110);
   font: 16px/1 sans-serif;
-  font-family: "League Mono", Courier, monospace;
+  font-family: "iA Writer Duospace", Courier, monospace;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   height: 100%;
@@ -378,7 +378,7 @@ span[role=img][aria-label] {
 span[role=img][aria-label]:focus::after,
 span[role=img][aria-label]:hover::after {
   font-size: 50%;
-  font-family: "League Mono", Courier, monospace;
+  font-family: "iA Writer Duospace", Courier, monospace;
   font-weight: 400;
   position: absolute;
   display: block;
