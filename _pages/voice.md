@@ -21,6 +21,14 @@ Your feedback does make a difference in helping to move the web forward.
         <img src="/img/windows.svg" class="c-platform__icon" alt="Windows">
         <p>Microsoft Edge Developer</p>
     </a>
+    <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/" class="c-platform__link">
+        <img src="/img/edge.svg" class="c-platform__icon" alt="EdgeHTML">
+        <p>EdgeHTML issue tracker</p>
+    </a>
+    <a href="https://bugs.webkit.org/query.cgi?format=specific&product=WebKit" class="c-platform__link">
+        <img src="/img/webkit.svg" class="c-platform__icon" alt="Webkit">
+        <p>Webkit Bugzilla</p>
+    </a>
     <a href="https://bugzilla.mozilla.org/index.cgi" class="c-platform__link">
         <img src="/img/mozilla.svg" class="c-platform__icon" alt="Mozilla">
         <p>Bugzilla@Mozilla</p>
