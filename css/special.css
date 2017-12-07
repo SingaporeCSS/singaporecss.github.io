@@ -103,8 +103,9 @@
             flex: 1 0 65%; }
   .maxcontent .talk-speaker {
     -webkit-box-flex: 1;
-        -ms-flex: 1 0 35%;
-            flex: 1 0 35%; } }
+        -ms-flex: 1 0 calc(35% - 1em);
+            flex: 1 0 calc(35% - 1em);
+    margin-left: 1em; } }
 
 .maxcontent .emoji {
   font-size: 125%; }

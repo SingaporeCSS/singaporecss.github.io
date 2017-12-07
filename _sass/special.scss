@@ -94,7 +94,8 @@
     }
 
     .talk-speaker {
-      flex: 1 0 35%;
+      flex: 1 0 calc(35% - 1em);
+      margin-left: 1em;
     }
   }
 
