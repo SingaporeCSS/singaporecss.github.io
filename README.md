@@ -2,6 +2,14 @@
 
 The site will be updated after every meet-up, with a short recap and links to videos of the talks.
 
+## v1.4.0
+
+- Ported all speaker and video content into data files
+- Rewrote post template to utilise data files
+- Reorganised folder structure for assets
+- Added links to previous and next meetups on each post page
+- Added logic for Codepen embed script
+
 ## v1.3.0
 
 - Tidied up styles
