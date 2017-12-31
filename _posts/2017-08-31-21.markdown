@@ -6,63 +6,11 @@ location: Hackerspace
 event-date: 2017-09-27 19:00:00 +0800
 categories: meetup
 event-id: 242950199
+meetup: 21
+news: September 2017
 ---
 This is the first time neither Chris nor Hui Jing was present at the meetup since its inception. Chris had an urgent family matter to attend to back in Australia, while Hui Jing was away at the Mozilla Developer Roadshow. But the show must go on!
 
 We are extremely appreciative of the volunteers who took over hosting duties. It's really heart-warming to know you care enough to help out. We also want to reiterate how grateful we are that you turn out for our little meet-up every month.
 
 Thank you all, from the bottom of our hearts <span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span>.
-
-## So this happened...
-
-<div class="c-colour">
-  <div class="c-swatch" style="background-color:#DCDCDC;">
-    <div class="c-swatch__txt">
-      <p>gainsboro</p>
-      <p>#DCDCDC</p>
-      <p>rgba(220,220,220,1)</p>
-    </div>
-  </div>
-<h4>CSS colour of the month</h4>
-</div>
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/5xm8bOTr8LI">
-      <img class="c-video__img" src="/img/talk-21/s2101.jpg" srcset="/img/talk-21/s2101@2x.jpg 2x" alt="Link to Introduction to FLOCSS"/>
-    </a>
-    <p class="c-video__desc">Ayaka talks about FLOCSS, a CSS methodology from Japan, as well as a little side project she made.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/3uPeK37cNQk">
-      <img class="c-video__img" src="/img/talk-21/s2102.jpg" srcset="/img/talk-21/s2102@2x.jpg 2x" alt="Link to Web accessibility: the user's experience"/>
-    </a>
-    <p class="c-video__desc">A really insightful and important talk by Kok Hong about web accessibility from the perspective of users. <a href="https://drive.google.com/file/d/0B8050lVqQ0dIVEJGTjBfWVY4X1E/view">Slides from talk here</a>.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (September 2017)</strong><br>
-    <p>Updates and news in the world of CSS for September 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-21.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-21/ayaka.jpg" srcset="/img/talk-21/ayaka@2x.jpg 2x" alt="Ayaka Sasaki"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/ayausaspirit">@ayausaspirit</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Ayaka is a web designer and developer who likes to try out new things but then forgets about it after two weeks. She loves to eat cheese and see objects placed in a symmetry.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-21/kokhong.jpg" srcset="/img/talk-21/kokhong@2x.jpg 2x" alt="Poh Kok Hong"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/@moot_sg">@moot_sg</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Kok Hong is a copywriter, not a coder. The last program he wrote was in Pascal for MS-DOS. For some reason, however, he has worked on several websites (MOM website, eCitizen, Enabling Village) over the years, with a focus on accessibility, so hopefully you can learn something from his experience.</p>
-  </div>
-</div>

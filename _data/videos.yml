@@ -1,0 +1,353 @@
+s101:
+  title: "opening address"
+  link: "https://youtu.be/fCYbIVEzFKs"
+  shortcode: "s101"
+  description: "Chris kicks things off by introducing Talk.CSS to the world."
+
+s102:
+  title: "CSS Shapes"
+  link: "https://youtu.be/z4s_UxLyA-c"
+  shortcode: "s102"
+  description: "Hui Jing talks about CSS shapes and why you should be excited about them."
+
+s103:
+  title: "Animating SVG"
+  link: "https://youtu.be/1cb7OFJyZAw"
+  shortcode: "s103"
+  description: "Zell presents an abridged version of his CSSConf.Asia talk on animating SVG."
+
+s104:
+  title: "Priority Plus"
+  link: "https://youtu.be/how93Wq_jQw"
+  shortcode: "s104"
+  description: "Chris shows us a better way to do responsive navigation menus with the priority plus concept."
+
+s105:
+  title: "closing address"
+  link: "https://youtu.be/8w4vPcQMjq0"
+  shortcode: "s105"
+  description: "A wrap-up of the evening's event, where we thank all who showed up, and hint for them to please show up at the next one."
+
+s201:
+  title: "Responsive Typography"
+  link: "https://youtu.be/24RRpGhWLTY"
+  shortcode: "s201"
+  description: "Zell shares his tips and tricks on Responsive Typography, plus his Sass library <a href='https://github.com/zellwk/typi'>Typi</a>."
+
+s202:
+  title: "Demystifying Flexbox"
+  link: "https://youtu.be/gHPjYeI3Xr0"
+  shortcode: "s202"
+  description: "Mystified by Flexbox? Hong Kheng demystifies the quirks of Flexbox for the rest of us."
+
+s203:
+  title: "Intro to SASS"
+  link: "https://youtu.be/ADA4B1ZQKO4"
+  shortcode: "s202"
+  description: "Chris presents a short introduction to Syntactically Awesome Style Sheets."
+
+s204:
+  title: "CSS Triggers"
+  link: "https://youtu.be/1P2p5YmVNVM"
+  shortcode: "s204"
+  description: "Hui Jing gives an impromptu lightning talk on CSS triggers and performant animations."
+
+s301:
+  title: "Data Visualisation with CSS and SVG"
+  link: "https://youtu.be/96nWNLXbqPg"
+  shortcode: "s301"
+  description: "Sayanee presents her brilliant project, <a href='https://data.webuild.sg/'>data.webuild.sg</a>, on visualising data on the SG CSS and Developer community."
+
+s302:
+  title: "Transitions, Animations and Transforms"
+  link: "https://youtu.be/gHPjYeI3Xr0"
+  shortcode: "s302"
+  description: "Not all animations are created equal. Yong Jun explains more, with tips, tricks and cool demos."
+
+s303:
+  title: "CSS whack-a-mole"
+  link: "https://youtu.be/7Nyi3Iwa4s4"
+  shortcode: "s303"
+  description: "Creating a game in pure CSS? Shiaw Uen schools us in the dark arts of the CSS checkbox hack."
+
+s401:
+  title: "the Command Line"
+  link: "https://youtu.be/YXJL4cY8VCE"
+  shortcode: "s401"
+  description: "Have command-line phobia? Sahil teaches us cool tips and tricks to overcome your fear of the terminal."
+
+s402:
+  title: "CSS updates for March 2016"
+  link: "https://youtu.be/Djh1QnIPDkk"
+  shortcode: "s402"
+  description: "Updates and news in the world of CSS for March 2016. Our new regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-4.md'>here</a>."
+
+s403:
+  title: "panel discussion on CSS architecture"
+  link: "https://youtu.be/4tfYwrjQXG4"
+  shortcode: "s403"
+  description: "Our first panel discussion about CSS name-spacing and architecture, featuring Chris, Zell, Aysha and Hui Jing."
+
+s501:
+  title: "Structuring CSS"
+  link: "https://youtu.be/VVsQts4pgF0"
+  shortcode: "s501"
+  description: "Joel shares his tips for organising styles and leads a discussion with the floor."
+
+s502:
+  title: "No Fear"
+  link: "https://youtu.be/KIxJIyJ-RVc"
+  shortcode: "s502"
+  description: "Chris gives an inspirational talk on the topic of fear and how to conquer it."
+
+s601:
+  title: "Converters"
+  link: "https://youtu.be/RoRKPsjGnPA"
+  shortcode: "s601"
+  description: "William shares with us why he built converters and put them on the web."
+
+s602:
+  title: "Responsive Typography"
+  link: "https://youtu.be/5To00toN4yQ"
+  shortcode: "s602"
+  description: "Zell, our resident expert on responsive typography, guides us through typographic design principles and how to apply them in code."
+
+s801:
+  title: "building a donation web app"
+  link: "https://youtu.be/iIc4TOVmtQU"
+  shortcode: "s801"
+  description: "Gabrielle and Joanne share their experience of building a better donation web app."
+
+s802:
+  title: "building a Telegram Bot"
+  link: "https://youtu.be/ixMfc8LepKk"
+  shortcode: "s802"
+  description: "Jonathan and Zhen Jie build a Telegram Bot to make the Telegram experience better."
+
+s803:
+  title: "HTTP/2 server push"
+  link: "https://youtu.be/G0SH-LdO9NM"
+  shortcode: "s803"
+  description: "Our favourite JS wizard, Sebastiaan, is back to teach us about HTTP/2 server push."
+
+s804:
+  title: "Carpark SG"
+  link: "https://youtu.be/n4zbOpSe8EA"
+  shortcode: "s804"
+  description: "David built a carpark data visualisation app using LTA's API."
+
+s805:
+  title: "panel discussion on debugging CSS"
+  link: "https://youtu.be/A-UdAMHmXGk"
+  shortcode: "s805"
+  description: "And for the big finale, our panel discussion on debugging CSS with Tim, Chris and Thomas."
+
+s901:
+  title: "CSS updates for August 2016"
+  link: "https://youtu.be/CQ2iTWFKkmU"
+  shortcode: "s901"
+  description: "Updates and news in the world of CSS for August 2016. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-9.md'>here</a>."
+
+s902:
+  title: "NYT article case study"
+  link: "https://youtu.be/a5JbHqafGV0"
+  shortcode: "s902"
+  description: "Weiman and Chris discuss how the New York Times (potentially) built <a href='http://www.nytimes.com/interactive/2016/08/01/us/elections/nine-percent-of-america-selected-trump-and-clinton.html?_r=0'>this article</a>."
+
+s903:
+  title: "Repokémon"
+  link: "https://youtu.be/ECYVAiM1gSc"
+  shortcode: "s903"
+  description: "Chee Aun shared how he built an awesome showcase of GitHub repos with Pokémon names."
+
+s1001:
+  title: "using CodePen"
+  link: "https://youtu.be/AqdetuiCmLY"
+  shortcode: "s1001"
+  description: "Ken shares how CodePen features in all aspects of his life."
+
+s1002:
+  title: "Fishing for Loves on CodePen"
+  link: "https://youtu.be/J1gTNEpAvWY"
+  shortcode: "s1002"
+  description: "Aysha teaches us the art, the trickery, and the sorcery on getting loves on CodePen."
+
+s1003:
+  title: "structuring CSS"
+  link: "https://youtu.be/o68A1yDSYcE"
+  shortcode: "s1003"
+  description: "Claudio is frustrated by CSS and came up with some rules to make it less so."
+
+s1101:
+  title: "What I learnt as a DJ"
+  link: "https://youtu.be/6HXRiSo2LX0"
+  shortcode: "s1101"
+  description: "Chris talks about his past life as a DJ and the lessons he learnt from that experience."
+
+s1201:
+  title: "Chinese typography on the web"
+  link: "https://youtu.be/tTV60oAk6Cs"
+  shortcode: "s1201"
+  description: "Hui Jing shares her findings about Chinese typography on the web."
+
+s1202:
+  title: "panel on developer journeys and CSS"
+  link: "https://youtu.be/Y6aWQ7h70rA"
+  shortcode: "s1202"
+  description: "Panel discussing developer journeys and CSS with extra special guest, Rachel Andrew."
+
+s1301:
+  title: "implementing CSS grid"
+  link: "https://youtu.be/8ANdAVRgl7g"
+  shortcode: "s1301"
+  description: "Chris shows us how he implemented CSS grid in his work."
+
+s1302:
+  title: "CSS writing modes and grid"
+  link: "https://youtu.be/ShCN5J7YgtM"
+  shortcode: "s1302"
+  description: "Hui Jing talks about CSS writing mode and how CSS grid solves some bugs."
+
+s1401:
+  title: "CSS syntax"
+  link: "https://youtu.be/0e8seW4cpcc"
+  shortcode: "s1401"
+  description: "Hui Jing's geek was showing as she explained how to read the CSS property value syntax in the spec."
+
+s1402:
+  title: "Design Principles and Typography"
+  link: "https://youtu.be/uejN5WA9yL0"
+  shortcode: "s1402"
+  description: "Zell went back to basic principles so we can understand why we do typography in certain ways."
+
+s1501:
+  title: "Building Geekpath.com"
+  link: "https://youtu.be/tTh9zST36js"
+  shortcode: "s1501"
+  description: "Sayanee and Chee Aun talk about how they built Geekpath.com, with some very interesting features."
+
+s1502:
+  title: "Gender inequality in the workplace"
+  link: "https://youtu.be/xMr6EMfC0SM"
+  shortcode: "s1502"
+  description: "Chris discusses the critical yet somewhat underrated issue of gender inequality in the workplace."
+
+s1503:
+  title: "How to choose and pair typefaces"
+  link: "https://youtu.be/CXvJpeL9afI"
+  shortcode: "s1503"
+  description: "Zell gives us a few tips on how to pair typefaces with his unique 3x3 matrix."
+
+s1504:
+  title: "Websites vs Web apps"
+  link: "https://youtu.be/jiNZwqYtdrY"
+  shortcode: "s1504"
+  description: "Thomas explains the difference between web apps and websites, while sharing some best practices for building web apps."
+
+s1601:
+  title: "deconstructing Singtel.com"
+  link: "https://youtu.be/aGSMXTpTb3w"
+  shortcode: "s1601"
+  description: "Chris goes under the hood of the Singtel.com website to see what's going on in there."
+
+s1701:
+  title: "nothing, unfortunately…"
+  link: "javascript:void(0)"
+  shortcode: "s1701"
+  description: "Zell walks us through his process for revamping <a href='https://www.zellwk.com'>his website</a>."
+
+s1702:
+  title: "Beyond Bootstrap"
+  link: "https://youtu.be/dtiOMIAkBNA"
+  shortcode: "s1702"
+  description: "Chris does an assessment of popular CSS frameworks and where they fall short."
+
+s1801:
+  title: "CSS architecture"
+  link: "https://youtu.be/9yFWxqbJp1o"
+  shortcode: "s1801"
+  description: "Ghis introduces us to ITCSS, a methodology for scalable CSS architecture, and other best practices."
+
+s1802:
+  title: "Breaking down SVG animations"
+  link: "https://youtu.be/U2_rwWG9RuI"
+  shortcode: "s1802"
+  description: "Aysha presents her gorgeous side project and shows us how SVG animations aren't intimidating at all."
+
+s1901:
+  title: "Can I use inline styles?"
+  link: "https://youtu.be/YMyiz2I3jDk"
+  shortcode: "s1901"
+  description: "Yishu walks us through her journey of exploring various strategies to handle CSS."
+
+s1902:
+  title: "building a lyric translation app"
+  link: "https://youtu.be/8T87M95zCpw"
+  shortcode: "s1902"
+  description: "William shows us his lyric translations web application, which utilise HTML ruby."
+
+s2001:
+  title: "Aug 2017 CSS updates"
+  link: "https://youtu.be/deYl9AfNybI"
+  shortcode: "s2001"
+  description: "Updates and news in the world of CSS for August 2017. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-20.md'>here</a>."
+
+s2002:
+  title: "Speeding up your animations with CSS"
+  link: "https://youtu.be/zksuOZm195Q"
+  shortcode: "s2002"
+  description: "Murray shares some great tips and techniques for speeding up your animations to hit that sweet 60fps."
+
+s2003:
+  title: "CSS fonts trivia"
+  link: "https://youtu.be/gBH8Y7vqQrU"
+  shortcode: "s2003"
+  description: "Hui Jing talks about CSS fonts, and some random things you may not have known about them."
+
+s2101:
+  title: "Introduction to FLOCSS"
+  link: "https://youtu.be/5xm8bOTr8LI"
+  shortcode: "s2101"
+  description: "Ayaka talks about FLOCSS, a CSS methodology from Japan, as well as a little side project she made."
+
+s2102:
+  title: "Web accessibility: the user's experience"
+  link: "https://youtu.be/3uPeK37cNQk"
+  shortcode: "s2102"
+  description: "A really insightful and important talk by Kok Hong about web accessibility from the perspective of users. <a href='https://drive.google.com/file/d/0B8050lVqQ0dIVEJGTjBfWVY4X1E/view'>Slides from talk here</a>."
+
+s2201:
+  title: "Overriding form auto-fill"
+  link: "https://youtu.be/3ShLqkRM42c"
+  shortcode: "s2201"
+  description: "Shiaw Uen talks about the perils of his day job which involves overriding the default behaviour of form auto-fill."
+
+s2202:
+  title: "Vintage CSS"
+  link: "https://youtu.be/mOKG2bUkDJ8"
+  shortcode: "s2202"
+  description: "Chris dissects a current website that was seemingly built with yesterday's technologies and never updated since. Perfect for Halloween."
+
+s2301:
+  title: "CSS-ing the Super Silly Hackathon website"
+  link: "https://youtu.be/4k0cAQLjDtg"
+  shortcode: "s2301"
+  description: "Chee Aun walks us through his quest to build a diagonal scroll for the Super Silly Hackathon website."
+
+s2302:
+  title: "Why Web Assembly?"
+  link: "https://youtu.be/mGlSDaUdLPs"
+  shortcode: "s2302"
+  description: "Ben blows everybody's mind with this short introduction to WebAssembly and a little Javascript history."
+
+s2303:
+  title: "Critical 1.0"
+  link: "https://youtu.be/R8ijdhjrG3k"
+  shortcode: "s2303"
+  description: "Owais shares his tips and tricks for inlining critical css."
+
+s2304:
+  title: "2017 wrap-up panel"
+  link: "https://youtu.be/LUYOYOkiGas"
+  shortcode: "s2304"
+  description: "To wrap up 2017, we did a panel thingy."

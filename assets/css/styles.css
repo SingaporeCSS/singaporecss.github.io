@@ -463,6 +463,15 @@ span[role=img][aria-label]:hover::after {
   .l-speaker {
     margin-bottom: 0; } }
 
+.l-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 1em; }
+
 .c-site-header {
   background-color: #33a9dc;
   background-color: var(--secondary-color, #33a9dc);
@@ -564,7 +573,7 @@ span[role=img][aria-label]:hover::after {
     font-size: 75%; }
 
 .c-videos {
-  margin-bottom: 3rem; }
+  margin-bottom: 1.5em; }
   .c-videos::after {
     clear: both;
     content: '';

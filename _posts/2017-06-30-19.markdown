@@ -6,59 +6,7 @@ location: Viki Singapore
 event-date: 2017-07-26 19:00:00 +0800
 categories: meetup
 event-id: 240519505
+meetup: 19
+news: July 2017
 ---
 We had a great turnout this time. Probably in large part because it was the Codepen edition. Might make this an annual thing. But more importantly, Viki was a wonderful host, as usual, and the food was FANTASTIC! Much love to team Viki <span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span><span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span><span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span>.
-
-## So this happened...
-
-<div class="c-colour">
-  <div class="c-swatch" style="background-color:#00BFFF;color:#fff;">
-    <div class="c-swatch__txt">
-      <p>deepskyblue</p>
-      <p>#00BFFF</p>
-      <p>rgba(0,191,255,1)</p>
-    </div>
-  </div>
-<h4>CSS colour of the month</h4>
-</div>
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/YMyiz2I3jDk">
-      <img class="c-video__img" src="/img/talk-19/s1901.jpg" srcset="/img/talk-19/s1901@2x.jpg 2x" alt="Link to talk on can I use inline styles"/>
-    </a>
-    <p class="c-video__desc">Yishu walks us through her journey of exploring various strategies to handle CSS.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/8T87M95zCpw">
-      <img class="c-video__img" src="/img/talk-19/s1902.jpg" srcset="/img/talk-19/s1902@2x.jpg 2x" alt="Link to talk on lyric translation app"/>
-    </a>
-    <p class="c-video__desc">William shows us his lyric translations web application, which utilise HTML ruby.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (July 2017)</strong><br>
-    <p>Updates and news in the world of CSS for July 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-19.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-19/yishu.jpg" srcset="/img/talk-19/yishu@2x.jpg 2x" alt="See Yishu"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/yishusee">@yishusee</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Yishu is an engineer who learned everything about the web from books, like literally, bound printed paper. Other times she tries to sneak in the designers‘ table and hope no one notices.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-6/william.jpg" srcset="/img/talk-6/william@2x.jpg 2x" alt="William Lim"/>
-      <figcaption><a class="c-speaker__link" href="https://github.com/wlwl2">@wlwl2</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">William develops websites, games, and other applications mainly using Javascript. He is also currently learning other programming languages such as Swift.</p>
-  </div>
-</div>

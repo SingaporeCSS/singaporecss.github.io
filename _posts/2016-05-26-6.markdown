@@ -5,52 +5,7 @@ date:   2016-05-26 19:00:00 +0800
 location: BASH
 event-date: 2016-05-26 19:00:00 +0800
 categories: meetup
+meetup: 6
+news: May 2016
 ---
-
 For this iteration, we went all the way west to [BASH](http://www.infocomminvestments.com/BASH.html)! (If you don't know, it's at [Blk 79, Ayer Rajah Crescent](https://www.google.com.sg/maps/place/BASH/@1.2979709,103.78524,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4fe5b64c39:0x59c44d4a72e2e7d9!8m2!3d1.2979655!4d103.7874287)). And we had 2 very informative talks, so if you missed the event, check out the videos below.
-
-## So this happened...
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/RoRKPsjGnPA">
-      <img class="c-video__img" src="/img/talk-6/s601-converters.jpg" srcset="/img/talk-6/s601-converters@2x.jpg 2x" alt="Link to talk on Converters"/>
-    </a>
-    <p class="c-video__desc">William shares with us why he built converters and put them on the web.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/5To00toN4yQ">
-      <img class="c-video__img" src="/img/talk-6/s602-responsive-typography.jpg" srcset="/img/talk-6/s602-responsive-typography@2x.jpg 2x" alt="Link to talk on Responsive Typography"/>
-    </a>
-    <p class="c-video__desc">Zell, our resident expert on responsive typography, guides us through typographic design principles and how to apply them in code.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (May 2016)</strong><br>
-    <p>Updates and news in the world of CSS for May 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-6.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-6/william.jpg" srcset="/img/talk-6/william@2x.jpg 2x" alt="William Lim"/>
-      <figcaption><a class="c-speaker__link" href="https://github.com/wlwl2">@wlwl2</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">William is a web developer who believes that 🎶 we are the world, we are the children, we are the ones who make a brighter day, so lets start giving.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
-  </div>
-
-</div>
-

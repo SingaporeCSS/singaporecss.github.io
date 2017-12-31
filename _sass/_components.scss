@@ -102,21 +102,13 @@
 // Meetup videos section
 .c-videos {
   @include cf;
-  margin-bottom: 3rem;
+  margin-bottom: 1.5em;
 }
 
 .c-video {
   box-shadow: 0 2px 5px 0 map-get($colors, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
   margin-bottom: 1.5rem;
-
-  @include mappy-bp(small medium) {
-    
-  }
-
-  @include mappy-bp(medium) {
-    
-  }
 }
 
 .c-video__link {

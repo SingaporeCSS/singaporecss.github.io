@@ -5,50 +5,7 @@ date:   2016-12-11 19:00:00 +0800
 location: CXA Group
 event-date: 2017-01-25 19:00:00 +0800
 categories: meetup
+meetup: 13
+news: January 2017
 ---
-
 We opened 2017 with a CSS grid-themed session at Chris's swanky office (the office he works in, sadly, he doesn't own the office), and they sponsored food and drinks and free wi-fi... I really think we're inching up the ladder, guys and gals <span class="o-emoji" role="img" tabindex="0" aria-label="person dancing">&#x1F483;</span>.
-
-## So this happened...
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/8ANdAVRgl7g">
-      <img class="c-video__img" src="/img/talk-13/s1301.jpg" srcset="/img/talk-13/s1301@2x.png 2x" alt="Link to talk on implementing CSS grid"/>
-    </a>
-    <p class="c-video__desc">Chris shows us how he implemented CSS grid in his work.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/ShCN5J7YgtM">
-      <img class="c-video__img" src="/img/talk-13/s1302.jpg" srcset="/img/talk-13/s1302@2x.png 2x" alt="Link to talk on CSS writing modes and grid"/>
-    </a>
-    <p class="c-video__desc">Hui Jing talks about CSS writing mode and how CSS grid solves some bugs.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (January 2017)</strong><br>
-    <p>Updates and news in the world of CSS for Jan 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-13.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Hui Jing played basketball for more than half her life and it indirectly led her to web development. Ask her about that.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Chris also has the wrong qualifications and shouldn't be here. No one told him either and, despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's currently working for insurance broker JLT.</p>
-  </div>
-
-</div>

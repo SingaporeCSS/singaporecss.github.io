@@ -6,59 +6,7 @@ location: CXA Group
 event-date: 2017-05-31 19:00:00 +0800
 categories: meetup
 event-id: 239689378
+meetup: 17
+news: May 2017
 ---
 It was a dark and stormy night, but you all still showed up, and we are so appreciative of your support and enthusiasm for CSS. This time we also had wine, courtesy of [The French Cellar](http://www.thefrenchcellar.sg/) (if you missed it, the wine was <span class="o-emoji" role="img" tabindex="0" aria-label="OK hand">&#x1F44C;</span>).
-
-## So this happened...
-
-<div class="c-colour">
-  <div class="c-swatch" style="background-color:#B22222;color:#fff;">
-    <div class="c-swatch__txt">
-      <p>firebrick</p>
-      <p>#B22222</p>
-      <p>rgba(178,34,34,1)</p>
-    </div>
-  </div>
-<h4>CSS colour of the month</h4>
-</div>
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="javascript:void(0)">
-      <img class="c-video__img" src="/img/talk-17/s1701.jpg" srcset="/img/talk-17/s1701@2x.jpg 2x" alt="Link to slides on Zell's website revamp"/>
-    </a>
-    <p class="c-video__desc">Zell walks us through his process for revamping <a href="https://www.zellwk.com">his website</a>.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/dtiOMIAkBNA">
-      <img class="c-video__img" src="/img/talk-17/s1702.jpg" srcset="/img/talk-17/s1702@2x.jpg 2x" alt="Link to talk on Beyond Bootstrap"/>
-    </a>
-    <p class="c-video__desc">Chris does an assessment of popular CSS frameworks and where they fall short.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (May 2017)</strong><br>
-    <p>Updates and news in the world of CSS for May 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-17.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia.</p>
-  </div>
-</div>

@@ -2,59 +2,10 @@
 layout: post
 title:  "Talk.CSS Anniversary Special"
 date:   2016-11-16 19:00:00 +0800
-location: General Assembly Singapore
+location: Spacemob Claymore
 event-date: 2016-11-22 19:00:00 +0800
 categories: meetup
+meetup: 12
+news: November 2016
 ---
 Oh my god, we've made it to 1 year! Back to where it all began: at DevFest Asia. This wouldn't have been possible without all of your support. So once again, join us to nerd out on CSS and stuff <span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span>.
-
-## So this happened...
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/tTV60oAk6Cs">
-      <img class="c-video__img" src="/img/talk-12/s1201.jpg" srcset="/img/talk-12/s1201@2x.png 2x" alt="Link to talk on Chinese typography on the web"/>
-    </a>
-    <p class="c-video__desc">Hui Jing shares her findings about Chinese typography on the web.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/Y6aWQ7h70rA">
-      <img class="c-video__img" src="/img/talk-12/s1202.jpg" srcset="/img/talk-12/s1202@2x.png 2x" alt="Link to panel on developer journeys and CSS"/>
-    </a>
-    <p class="c-video__desc">Panel discussing developer journeys and CSS with extra special guest, Rachel Andrew.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (November 2016)</strong><br>
-    <p>Updates and news in the world of CSS for Nov 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-12.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Hui Jing played basketball for more than half her life and it indirectly led her to web development. Ask her about that.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-12/rachel.jpg" srcset="/img/talk-12/rachel@2x.jpg 2x" alt="Rachel Andrew"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/rachelandrew">@rachelandrew</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Rachel Andrew is the founder of edgeofmyseat.com, the company behind <a href="https://grabaperch.com/">the CMS Perch</a>. She regularly writes and speaks about the work she does, and can be found via <a href="http://rachelandrew.co.uk/">her blog and personal site</a> and on Twitter.</p>
-  </div>
-</div>

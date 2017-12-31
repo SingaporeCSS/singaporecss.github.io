@@ -1,0 +1,27 @@
+<h2>About the speakers…</h2>
+
+{% assign meetup = site.data.meetups[page.meetup] %}
+{% for speakers in meetup.speakers %}
+{% if forloop.index > 2 and forloop.last %}
+<div class="l-speakers c-speakers">
+{% endif %}
+{% if forloop.index < 3 and forloop.last %}
+<div class="l-speakers c-speakers u-align-start">
+{% endif %}
+{% endfor %}
+
+{% for speakers in meetup.speakers %}
+{% assign speaker = site.data.speakers[speakers.ref] %}
+  <div class="l-speaker c-speaker">
+    <figure>
+      <img class="c-speaker__img" src="{{ site.url }}/assets/img/speakers/{{ speaker.shortcode }}.jpg" srcset="{{ site.url }}/assets/img/speakers/{{ speaker.shortcode }}@2x.jpg 2x" alt="{{ speaker.name }}"/>
+      {% if speaker.twitter %}
+      <figcaption><a class="c-speaker__link" href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a></figcaption>
+      {% else %}
+      <figcaption><a class="c-speaker__link" href="https://github.com/{{ speaker.github }}">@{{ speaker.github }}</a></figcaption>
+      {% endif %}
+    </figure>
+    <p class="c-speaker__intro">{{ speaker.bio }}</p>
+  </div>
+{% endfor %}
+</div>

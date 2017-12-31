@@ -15,7 +15,24 @@ layout: default
   </header>
   <div class="c-event__content" itemprop="articleBody">
     {{ content }}
+    {% unless page.novideos %}
+    {% include videos.html %}
+    {% endunless %}
+    {% include speakers.html %}
   </div>
 </article>
 
+<div class="l-nav c-nav">
+  {% if page.previous.url %}
+    <a class="l-prev" href="{{ site.url }}{{page.previous.url}}">&laquo; Talk.CSS #{{ page.previous.meetup }}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="l-next" href="{{ site.url }}{{page.next.url}}">Talk.CSS #{{ page.next.meetup }} &raquo;</a>
+  {% endif %}
+</div>
+
 <p class="c-credits">All videos courtesy of <a href="https://engineers.sg/">Engineers.SG</a>.</p>
+
+{% if page.hascodepen %}
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+{% endif %}

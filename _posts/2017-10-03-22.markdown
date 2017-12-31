@@ -6,63 +6,11 @@ location: Spacemob Ascent
 event-date: 2017-10-26 19:00:00 +0800
 categories: meetup
 event-id: 243672479
+meetup: 22
+news: October 2017
 ---
 We were at Spacemob Ascent this time around, and it was...interesting to say the least. Turn-out was understandably small, due to the westerly location, but we do want to thank [Wantedly](https://sg.wantedly.com/) for arranging the venue.
 
 Food was kindly sponsored by [Chris](https://twitter.com/cliener) and the wonderful [Sarah Lienert](https://twitter.com/sazzarj) baked us cookies! <span class="emoji" role="img" tabindex="0" aria-label="smiling face with heart-eyes">&#x1F60D;</span>
 
 Talks covered horror stories, which was coincidentally perfect for October, being Halloween month and all <span class="emoji" role="img" tabindex="0" aria-label="jack-o-lantern">&#x1F383;</span>.
-
-## So this happened...
-
-<div class="c-colour">
-  <div class="c-swatch" style="background-color:#FF6347;">
-    <div class="c-swatch__txt">
-      <p>tomato</p>
-      <p>#FF6347</p>
-      <p>rgba(255,99,71,1)</p>
-    </div>
-  </div>
-<h4>CSS colour of the month</h4>
-</div>
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/3ShLqkRM42c">
-      <img class="c-video__img" src="/img/talk-22/s2201.jpg" srcset="/img/talk-22/s2201@2x.jpg 2x" alt="Link to Introduction to FLOCSS"/>
-    </a>
-    <p class="c-video__desc">Shiaw Uen talks about the perils of his day job which involves overriding the default behaviour of form auto-fill.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/mOKG2bUkDJ8">
-      <img class="c-video__img" src="/img/talk-22/s2202.jpg" srcset="/img/talk-22/s2202@2x.jpg 2x" alt="Link to Vintage CSS"/>
-    </a>
-    <p class="c-video__desc">Chris dissects a current website that was seemingly built with yesterday's technologies and never updated since. Perfect for Halloween.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (October 2017)</strong><br>
-    <p>Updates and news in the world of CSS for October 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-22.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-3/tsu.jpg" srcset="/img/talk-3/tsu@2x.jpg 2x" alt="Tan Shiaw Uen"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/shiawuen">@shiawuen</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Shiaw Uen is a developer. He occasionally plants vegetables and makes soap.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia.</p>
-  </div>
-</div>

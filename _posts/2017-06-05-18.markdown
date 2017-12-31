@@ -6,59 +6,7 @@ location: Singapore Power
 event-date: 2017-06-28 19:00:00 +0800
 categories: meetup
 event-id: 240519499
+meetup: 18
+news: June 2017
 ---
 We had a good turnout this time, guess planning ahead counts for something. Of course this was in large part due to the great talks we had (e.g. the speaker wasn't Chris or Hui Jing. Not to say they're bad, just that fresh faces are always welcome <span class="o-emoji" role="img" tabindex="0" aria-label="hugging face">&#x1F917;</span>).
-
-## So this happened...
-
-<div class="c-colour">
-  <div class="c-swatch" style="background-color:#D2691E;color:#fff;">
-    <div class="c-swatch__txt">
-      <p>chocolate</p>
-      <p>#D2691E</p>
-      <p>rgba(210,105,30,1)</p>
-    </div>
-  </div>
-<h4>CSS colour of the month</h4>
-</div>
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/9yFWxqbJp1o">
-      <img class="c-video__img" src="/img/talk-18/s1801.jpg" srcset="/img/talk-18/s1801@2x.jpg 2x" alt="Link to talk on CSS architecture"/>
-    </a>
-    <p class="c-video__desc">Ghis introduces us to ITCSS, a methodology for scalable CSS architecture, and other best practices.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/U2_rwWG9RuI">
-      <img class="c-video__img" src="/img/talk-18/s1802.jpg" srcset="/img/talk-18/s1802@2x.jpg 2x" alt="Link to talk on Breaking down SVG animations"/>
-    </a>
-    <p class="c-video__desc">Aysha presents her gorgeous side project and shows us how SVG animations aren't intimidating at all.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (June 2017)</strong><br>
-    <p>Updates and news in the world of CSS for June 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-18.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-18/ghis.jpg" srcset="/img/talk-18/ghis@2x.jpg 2x" alt="Ghis Bakour"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/fatasuir9">@fatasuir9</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Ghis will be writing his one-liner as soon as he knows he has to.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'.</p>
-  </div>
-</div>

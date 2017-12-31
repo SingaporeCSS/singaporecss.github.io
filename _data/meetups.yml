@@ -1,0 +1,260 @@
+1:
+  videos:
+    - ref: s101
+    - ref: s102
+    - ref: s103
+    - ref: s104
+    - ref: s105
+  speakers:
+    - ref: huijing
+    - ref: zell
+    - ref: chris
+
+2:
+  videos:
+    - ref: s201
+    - ref: s202
+    - ref: s203
+    - ref: s204
+  speakers:
+    - ref: zell
+    - ref: hongkheng
+    - ref: chris
+    - ref: huijing
+
+3:
+  videos:
+    - ref: s301
+    - ref: s302
+    - ref: s303
+  speakers:
+    - ref: sayanee
+    - ref: yongjun
+    - ref: shiawuen
+
+4:
+  videos:
+    - ref: s401
+    - ref: s402
+    - ref: s403
+  speakers:
+    - ref: sahil
+    - ref: aysha
+    - ref: zell
+
+5:
+  videos:
+    - ref: s501
+    - ref: s502
+  speakers:
+    - ref: joel
+    - ref: chris
+
+6:
+  videos:
+    - ref: s601
+    - ref: s602
+  speakers:
+    - ref: william
+    - ref: zell
+
+7:
+  speakers:
+    - ref: thomas
+    - ref: huijing
+
+8:
+  videos:
+    - ref: s801
+    - ref: s802
+    - ref: s803
+    - ref: s804
+    - ref: s805
+  speakers:
+    - ref: tim
+    - ref: thomas
+    - ref: chris
+
+9:
+  videos:
+    - ref: s901
+    - ref: s902
+    - ref: s903
+  speakers:
+    - ref: cheeaun
+    - ref: weiman
+    - ref: chris
+
+10:
+  videos:
+    - ref: s1001
+    - ref: s1002
+    - ref: s1003
+  speakers:
+    - ref: ken
+    - ref: aysha
+    - ref: claudio
+
+11:
+  videos:
+    - ref: s1101
+  speakers:
+    - ref: chris
+
+12:
+  videos:
+    - ref: s1201
+    - ref: s1202
+  speakers:
+    - ref: huijing
+    - ref: rachel
+    - ref: chris
+    - ref: zell
+
+13:
+  videos:
+    - ref: s1301
+    - ref: s1302
+  speakers:
+    - ref: huijing
+    - ref: chris
+
+14:
+  colour:
+    name: lemonchiffon
+    hex: "#fffacd"
+    rgba: rgba(255,250,205,1)
+  videos:
+    - ref: s1401
+    - ref: s1402
+  codepen:
+    description: "This demo demonstrates how we can create uneven grid layouts using the Cicada Principle for a more visually interesting design. Fallbacks included."
+    embed: "<p data-height='500' data-theme-id='9162' data-slug-hash='gmOpEq' data-default-tab='css,result' data-user='huijing' data-embed-version='2' data-pen-title='Uneven grid layout with the Cicada Principle' class='codepen'>See the Pen <a href='http://codepen.io/huijing/pen/gmOpEq/'>Uneven grid layout with the Cicada Principle</a> by Chen Hui Jing (<a href='http://codepen.io/huijing'>@huijing</a>) on <a href='http://codepen.io'>CodePen</a>.</p>"
+  speakers:
+    - ref: zell
+    - ref: huijing
+
+15:
+  colour:
+    name: chartreuse
+    hex: "#7fff00"
+    rgba: rgba(127,255,0,1)
+  videos:
+    - ref: s1501
+    - ref: s1502
+    - ref: s1503
+    - ref: s1504
+  codepen:
+    description: "This particular demo by <a href='http://jensimmons.com/'>Jen Simmons</a> is best viewed if you open it in another browser and resize to your heart's content. <a href='http://labs.jensimmons.com/2016/examples/mondrian-2.html'>View it full page.</a>"
+    embed: "<p data-height='500' data-theme-id='9162' data-slug-hash='mrNvPZ' data-default-tab='html,result' data-user='jensimmons' data-embed-version='2' data-pen-title='Responsive Mondrian' class='codepen'>See the Pen <a href='https://codepen.io/jensimmons/pen/mrNvPZ/'>Responsive Mondrian</a> by Jen Simmons (<a href='http://codepen.io/jensimmons'>@jensimmons</a>) on <a href='http://codepen.io'>CodePen</a>.</p>"
+  speakers:
+    - ref: sayanee
+    - ref: cheeaun
+    - ref: chris
+    - ref: zell
+    - ref: thomas
+
+16:
+  colour:
+    name: dodgerblue
+    hex: "#1E90FF"
+    rgba: rgba(30,144,255,1)
+    text: "#fff"
+  videos:
+    - ref: s1601
+  speakers:
+    - ref: chris
+
+17:
+  colour:
+    name: firebrick
+    hex: "#B22222"
+    rgba: rgba(178,34,34,1)
+    text: "#fff"
+  videos:
+    - ref: s1701
+    - ref: s1702
+  speakers:
+    - ref: zell
+    - ref: chris
+
+18:
+  colour:
+    name: chocolate
+    hex: "#D2691E"
+    rgba: rgba(210,105,30,1)
+    text: "#fff"
+  videos:
+    - ref: s1801
+    - ref: s1802
+  speakers:
+    - ref: ghis
+    - ref: aysha
+
+19:
+  colour:
+    name: deepskyblue
+    hex: "#00BFFF"
+    rgba: rgba(0,191,255,1)
+  videos:
+    - ref: s1901
+    - ref: s1902
+  speakers:
+    - ref: yishu
+    - ref: william
+
+20:
+  colour:
+    name: ghostwhite
+    hex: "#F8F8FF"
+    rgba: rgba(248,248,255,1)
+  videos:
+    - ref: s2001
+    - ref: s2002
+    - ref: s2003
+  speakers:
+    - ref: murray
+    - ref: huijing
+
+21:
+  colour:
+    name: gainsboro
+    hex: "#DCDCDC"
+    rgba: rgba(220,220,220,1)
+  videos:
+    - ref: s2101
+    - ref: s2102
+  speakers:
+    - ref: ayaka
+    - ref: kokhong
+
+22:
+  colour:
+    name: tomato
+    hex: "#FF6347"
+    rgba: rgba(255,99,71,1)
+  videos:
+    - ref: s2201
+    - ref: s2202
+  speakers:
+    - ref: shiawuen
+    - ref: chris
+
+23:
+  colour:
+    name: crimson
+    hex: "#DC143C"
+    rgba: rgba(220,20,60,1)
+    text: "#fff"
+  videos:
+    - ref: s2301
+    - ref: s2302
+    - ref: s2303
+    - ref: s2304
+  speakers:
+    - ref: cheeaun
+    - ref: owais
+    - ref: benjamin
+    - ref: huijing
+    - ref: chris
+    - ref: aysha

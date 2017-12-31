@@ -6,44 +6,7 @@ location: Spacemob Ascent
 event-date: 2017-04-26 19:00:00 +0800
 categories: meetup
 event-id: 238915046
+meetup: 16
+news: April 2017
 ---
 Although our hosts were way less than 100% (with one in hospital and the other under the weather), the show must go on! Our hosts Spacemob Ascent was great though, providing a lovely venue for the evening.
-
-## So this happened...
-
-<div class="c-colour">
-  <div class="c-swatch" style="background-color:#1E90FF">
-    <div class="c-swatch__txt">
-      <p>dodgerblue</p>
-      <p>#1E90FF</p>
-      <p>rgba(30,144,255,1)</p>
-    </div>
-  </div>
-<h4>CSS colour of the month</h4>
-</div>
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/aGSMXTpTb3w">
-      <img class="c-video__img" src="/img/talk-16/s1601.jpg" srcset="/img/talk-16/s1601@2x.jpg 2x" alt="Link to talk on deconstructing Singtel.com"/>
-    </a>
-    <p class="c-video__desc">Chris goes under the hood of the Singtel.com website to see what's going on in there.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (April 2017)</strong><br>
-    <p>Updates and news in the world of CSS for Apr 2017. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-16.md">here</a>.</p>
-  </div>
-</div>
-
-## About the speaker...
-
-<div class="l-speakers c-speakers">
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/chris.jpg" srcset="/img/talk-1/chris@2x.jpg 2x" alt="Chris Lienert"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/cliener">@cliener</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia.</p>
-  </div>
-</div>

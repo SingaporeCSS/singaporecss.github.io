@@ -5,52 +5,7 @@ date:   2016-07-27 19:00:00 +0800
 location: PayPal Singapore
 event-date: 2016-07-27 19:00:00 +0800
 categories: meetup
+meetup: 8
+news: July 2016
 ---
-
 So we have a sister meet-up group called Talk.JS, that as the name implies, covers all things Javascript. And, as siblings often can attest to, we clash from time to time (actually no, we've never clashed before, I just screwed up the meet-up scheduling this time). BUT, because we love each other so much, we're turning a timing clash into something different with a super special edition front-end extravaganza!
-
-## So this happened...
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/iIc4TOVmtQU">
-      <img class="c-video__img" src="/img/talk-8/s801.jpg" srcset="/img/talk-8/s801@2x.jpg 2x" alt="Link to talk on building a donation web app"/>
-    </a>
-    <p class="c-video__desc">Gabrielle and Joanne share their experience of building a better donation web app.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/ixMfc8LepKk">
-      <img class="c-video__img" src="/img/talk-8/s802.jpg" srcset="/img/talk-8/s802@2x.jpg 2x" alt="Link to talk on Telegram Bot"/>
-    </a>
-    <p class="c-video__desc">Jonathan and Zhen Jie build a Telegram Bot to make the Telegram experience better.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/G0SH-LdO9NM">
-      <img class="c-video__img" src="/img/talk-8/s803.jpg" srcset="/img/talk-8/s803@2x.jpg 2x" alt="Link to talk on HTTP/2 server push"/>
-    </a>
-    <p class="c-video__desc">Our favourite JS wizard, Sebastian, is back to teach us about HTTP/2 server push.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/n4zbOpSe8EA">
-      <img class="c-video__img" src="/img/talk-8/s804.jpg" srcset="/img/talk-8/s804@2x.jpg 2x" alt="Link to talk on Carpark SG"/>
-    </a>
-    <p class="c-video__desc">David built a carpark data visualisation app using LTA's API.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/A-UdAMHmXGk">
-      <img class="c-video__img" src="/img/talk-8/s805.jpg" srcset="/img/talk-8/s805@2x.jpg 2x" alt="Link to panel discussion on debugging CSS"/>
-    </a>
-    <p class="c-video__desc">And for the big finale, our panel discussion on debugging CSS with Tim, Chris and Thomas.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (July 2016)</strong><br>
-    <p>Updates and news in the world of CSS for July 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-8.md">here</a>.</p>
-  </div>
-</div>
-
-

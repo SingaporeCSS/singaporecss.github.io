@@ -5,66 +5,7 @@ date:   2016-09-28 19:00:00 +0800
 location: PayPal Singapore
 event-date: 2016-09-28 19:00:00 +0800
 categories: meetup
+meetup: 10
+news: September 2016
 ---
 Time for another special edition! This time we're hosting the first ever CodePen Talk.CSS mash-up session. And that means SWAG for people who show up early. We also have a bunch of great talks lined-up so come over to PayPal Singapore and join us nerd out on CSS and CodePen! <span class="o-emoji" role="img" tabindex="0" aria-label="grinning face with smiling eyes">&#x1F601;</span>
-
-## So this happened...
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/AqdetuiCmLY">
-      <img class="c-video__img" src="/img/talk-10/s1001.jpg" srcset="/img/talk-10/s1001@2x.jpg 2x" alt="Link to talk on using CodePen"/>
-    </a>
-    <p class="c-video__desc">Ken shares how CodePen features in all aspects of his life.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/J1gTNEpAvWY">
-      <img class="c-video__img" src="/img/talk-10/s1002.jpg" srcset="/img/talk-10/s1002@2x.jpg 2x" alt="Link to talk on Fishing for Loves on CodePen"/>
-    </a>
-    <p class="c-video__desc">Aysha teaches us the art, the trickery, and the sorcery on getting loves on CodePen.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/o68A1yDSYcE">
-      <img class="c-video__img" src="/img/talk-10/s1003.jpg" srcset="/img/talk-10/s1003@2x.jpg 2x" alt="Link to talk on structuring CSS"/>
-    </a>
-    <p class="c-video__desc">Claudio is frustrated by CSS and came up with some rules to make it less so.</p>
-  </div>
-
-  <div class="u-clear">
-    <strong>CSS News (September 2016)</strong><br>
-    <p>Updates and news in the world of CSS for Sep 2016. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-10.md">here</a>.</p>
-  </div>
-
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers">
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-10/ken.jpg" srcset="/img/talk-10/ken@2x.jpg 2x" alt="Ken Chua"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/kerion7">@kerion7</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Ken is healthily obsessed with colours and gradients, css-inspecting buttons and backgrounds whenever he chances on good ones. Otherwise he spends time reading CSS Tricks and listening to Rick Astley while coding.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-10/claudio.jpg" srcset="/img/talk-10/claudio@2x.jpg 2x" alt="Claudio Mettler"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/ponyfleisch">@ponyfleisch</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Claudio doesn't like CSS.</p>
-  </div>
-
-</div>

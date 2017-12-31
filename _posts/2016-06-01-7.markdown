@@ -5,13 +5,10 @@ date:   2016-06-28 19:00:00 +0800
 location: Microsoft Singapore
 event-date: 2016-06-28 19:00:00 +0800
 categories: meetup
+meetup: 7
+novideos: true
 ---
-
 It's a pretty short notice this month (sorry, our bad), but we managed to get [Microsoft Singapore](https://www.google.com.sg/maps/place/Microsoft+Operations/@1.281675,103.8518118,18z/data=!4m18!1m12!4m11!1m3!2m2!1d103.8524394!2d1.2823952!1m6!1m2!1s0x31da190ef72075ef:0x1108ee8915a8eacc!2smicrosoft+singapore!2m2!1d103.852437!2d1.282387!3m4!1s0x31da190ef72075ef:0x1108ee8915a8eacc!8m2!3d1.282387!4d103.852437) to host us. Come join the CSS nerd out! 
-
-
-**Latest CSS news** by **Talk.CSS**  
-Our new regular segment which will cover latest updates in the realm of CSS and HTML.
 
 **React and CSS Modules** by **Thomas Gorissen**  
 Scoped CSS is one of those things on many developers' wishlists. CSS modules could potentially fulfil that wish. Never heard of CSS modules? Join us and hear all about it.
@@ -19,28 +16,7 @@ Scoped CSS is one of those things on many developers' wishlists. CSS modules cou
 **So your designer wants a masthead** by **Chen Hui Jing**  
 What do you do when you get a design that requires a masthead? Turns out there's more than one way to build a masthead.
 
-*PSA: Unfortunately, we messed up the video recordings, and so super extra effort is required to sync the audio with the video, and our Grand Master Poobah, Michael, is simply too swamped to do it. Eventually the videos will be up, but not any time soon. Apologies to everyone, especially to Michael.*
+**CSS News (June 2016)**  
+Updates and news in the world of CSS for June 2016. Our regular segment. Topics covered available [here](https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-7.md).
 
-## About the speakers...
-
-<div class="l-speakers c-speakers u-align-start">
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-7/thomas.jpg" srcset="/img/talk-7/thomas@2x.jpg 2x" alt="Thomas Gorissen"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/serrynaimo">@serrynaimo</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Thomas likes to work with curious people on ambitious tech projects and hosts CSSConf.Asia, a little big yearly gathering of South-east Asia's web designers and front-end developers.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/chj.jpg" srcset="/img/talk-1/chj@2x.jpg 2x" alt="Chen Hui Jing"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/hj_chen">@hj_chen</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Hui Jing played basketball for more than half her life and it indirectly led her to web development. Ask her about that.</p>
-  </div>
-
-</div>
-
-
+*PSA: Unfortunately, we messed up the video recordings, and so super extra effort is required to sync the audio with the video, and our Grand Master Poobah, Michael, is simply too swamped to do it. Apologies to everyone, especially to Michael.*

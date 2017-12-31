@@ -1,0 +1,173 @@
+huijing:
+  name: "Chen Hui Jing"
+  twitter: "hj_chen"
+  shortcode: "huijing"
+  bio: "Hui Jing played basketball for more than half her life and it indirectly led her to web development. Ask her about that."
+
+zell:
+  name: "Zell Liew"
+  twitter: "zellwk"
+  shortcode: "zell"
+  bio: "Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway."
+
+chris:
+  name: "Chris Lienert"
+  twitter: "cliener"
+  shortcode: "chris"
+  bio: "Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia."
+
+hongkheng:
+  name: "Yap Hong Kheng"
+  twitter: "hong_kheng"
+  shortcode: "hongkheng"
+  bio: "Hong Kheng is a front-end developer + amateur designer at <a href='http://sonoport.com/'>Sonoport</a>. She likes pretty things that move."
+
+sayanee:
+  name: "Sayanee Basu"
+  twitter: "sayanee_"
+  shortcode: "sayanee"
+  bio: "Sayanee is an engineer dabbling with web technologies and electronic sensors. She shares her learnings through screencasts on <a href='http://build-podcast.com/'>Build Podcast</a>."
+
+yongjun:
+  name: "Thong Yong Jun"
+  github: "yongjun21"
+  shortcode: "yongjun"
+  bio: "Yong Jun became a web developer so he could be away from the office, working from a sunny beach. At this moment, he is writing and coding...in an office."
+
+shiawuen:
+  name: "Tan Shiaw Uen"
+  twitter: "shiawuen"
+  shortcode: "shiawuen"
+  bio: "Shiaw Uen is a developer. He occasionally plants vegetables and makes soap."
+
+sahil:
+  name: "Sahil Bajaj"
+  twitter: "spinningarrow_"
+  shortcode: "sahil"
+  bio: "Sahil is a web developer who occasionally misses the old days of marquee text and hit counters on websites. DynamicDrive.com, anyone?"
+
+aysha:
+  name: "Aysha Anggraini"
+  twitter: "RenettaRenula"
+  shortcode: "aysha"
+  bio: "Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'."
+
+joel:
+  name: "Joel Pan"
+  twitter: "ketsugi"
+  shortcode: "joel"
+  bio: "Joel is an inexperienced web developer who’s here to tell you how to do your job."
+
+william:
+  name: "William Lim"
+  github: "wlwl2"
+  shortcode: "william"
+  bio: "William is a web developer who believes that 🎶 we are the world, we are the children, we are the ones who make a brighter day, so lets start giving."
+
+thomas:
+  name: "Thomas Gorissen"
+  twitter: "serrynaimo"
+  shortcode: "thomas"
+  bio: "Thomas likes to work with curious people on ambitious tech projects and hosts CSSConf.Asia, a little big yearly gathering of South-east Asia's web designers and front-end developers."
+
+tim:
+  name: "Tim Oxley"
+  twitter: "secoif"
+  shortcode: "tim"
+  bio: "Tim is a JavaScript & NodeJS developer, speaker and founder of the CampJS conference, as well as our sister meetup, SingaporeJS."
+
+cheeaun:
+  name: "Lim Chee Aun"
+  twitter: "cheeaun"
+  shortcode: "cheeaun"
+  bio: "Head Honcho of <a href='https://kopijs.org/'>KopiJS</a>. Maker of products. Purveyor of stickers. (This is what happens when Hui Jing writes your bio for you)"
+
+weiman:
+  name: "Kow Weiman"
+  twitter: "weimankow"
+  shortcode: "weiman"
+  bio: "Weiman is an user experience designer who is happiest surrounded by robots, graphic novels, and a nice cup of tea. Occasionally she tries to make sense of the world with visuals and is trying her hand at coding to express herself."
+
+ken:
+  name: "Ken Chua"
+  twitter: "kerion7"
+  shortcode: "ken"
+  bio: "Ken is healthily obsessed with colours and gradients, css-inspecting buttons and backgrounds whenever he chances on good ones. Otherwise he spends time reading CSS Tricks and listening to Rick Astley while coding."
+
+claudio:
+  name: "Claudio Mettler"
+  twitter: "ponyfleisch"
+  shortcode: "claudio"
+  bio: "Claudio doesn't like CSS."
+
+rachel:
+  name: "Rachel Andrew"
+  twitter: "rachelandrew"
+  shortcode: "rachel"
+  bio: "Rachel Andrew is the founder of edgeofmyseat.com, the company behind <a href='https://grabaperch.com/'>the CMS Perch</a>. She regularly writes and speaks about the work she does, and can be found via <a href='http://rachelandrew.co.uk/'>her blog and personal site</a> and on Twitter."
+
+ghis:
+  name: "Ghis Bakour"
+  twitter: "fatasuir9"
+  shortcode: "ghis"
+  bio: "Ghis will be writing his one-liner as soon as he knows he has to."
+
+yishu:
+  name: "See Yishu"
+  twitter: "yishusee"
+  shortcode: "yishu"
+  bio: "Yishu is an engineer who learned everything about the web from books, like literally, bound printed paper. Other times she tries to sneak in the designers‘ table and hope no one notices."
+
+murray:
+  name: "Murray Bourne"
+  twitter: "intmath"
+  shortcode: "murray"
+  bio: "Murray is a learner, trainer and math enthusiast, who was born on a blue day…"
+
+ayaka:
+  name: "Ayaka Sasaki"
+  twitter: "ayausaspirit"
+  shortcode: "ayaka"
+  bio: "Ayaka is a web designer and developer who likes to try out new things but then forgets about it after two weeks. She loves to eat cheese and see objects placed in a symmetry."
+
+kokhong:
+  name: "Poh Kok Hong"
+  twitter: "moot_sg"
+  shortcode: "kokhong"
+  bio: "Kok Hong is a copywriter, not a coder. The last program he wrote was in Pascal for MS-DOS. For some reason, however, he has worked on several websites (MOM website, eCitizen, Enabling Village) over the years, with a focus on accessibility, so hopefully you can learn something from his experience."
+
+owais:
+  name: "Owais Zahid"
+  twitter: "owais_zahid"
+  shortcode: "owais"
+  bio: "Owais works at Autodesk as a Senior UI Developer. He is a frequent contributor to the Autodesk Engineering blogs and spends his free time programming in the genre of 3D game programming and AR."
+
+benjamin:
+  name: "Benjamin Ling"
+  twitter: "Mintyboi"
+  shortcode: "benjamin"
+  bio: "Benjamin is AutoCAD web's emscripten-based back-end engineer."
+
+mandy:
+  name: "Mandy Michael"
+  twitter: "mandy_kerr"
+  shortcode: "mandy"
+  bio: "Mandy is the Front End Development Manager at Seven West Media in Western Australia. Previously, she has worked as Head of Front End Development at The Brand Agency and also as a Digital Project Manager. She is a lover of CSS and Batman and blogs about her adventures in geek fashion."
+
+seb:
+  name: "Sebastiaan Deckers"
+  twitter: "sebdeckers"
+  shortcode: "seb"
+  bio: "Seb is a frontend fanatic hailing from Belgium. When he’s not busy coding, you can find him cultivating the local developer community and regularly speaks at SingaporeJS events."
+
+john:
+  name: "John Allsopp"
+  twitter: "johnallsopp"
+  shortcode: "john"
+  bio: "John Allsopp is director of Web Directions and author of the seminal article, <a href='https://alistapart.com/article/dao'>A Dao of Web Design</a>. John has a background in computer science and mathematics. He has developed software and written books, courses, tutorials, and articles for web designers and developers. He also speaks not infrequently on all things web in Australia and around the world."
+
+andy:
+  name: "Andy Clarke"
+  twitter: "Malarkey"
+  shortcode: "andy"
+  bio: "Andy Clarke is one of the best known web designers because of his design work and contributions to the web design industry. He’s given more than sixty presentations at conferences all over the world. As well as numerous articles in web design publications, he’s written three books on website design and development including Transcending CSS and Hardboiled Web Design. In 2017 he relocated from the UK to Sydney to head the design team at Ansarada."

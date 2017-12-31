@@ -7,8 +7,6 @@ url: "http://localhost:2610"
 
 relative_permalinks: false
 permalink: /:title/
-paginate: 8
-paginate_path: "/page:num"
 
 github_username: SingaporeCSS
 twitter_username: SingaporeCSS
@@ -23,8 +21,9 @@ exclude:
   - node_modules
   - gulpfile.js
   - package.json
-  - bower.json
-  - bower_components
+  - Gemfile
+  - Gemfile.lock
+  - yarn.lock
 
 include: ["_pages"]
 

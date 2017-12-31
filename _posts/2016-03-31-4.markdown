@@ -5,64 +5,8 @@ date:   2016-03-31 19:00:00 +0800
 location: Tinkerbox Studios
 event-date: 2016-03-31 19:00:00 +0800
 categories: meetup
+meetup: 4
 ---
-
 For our fourth iteration, we managed to inject some semblance of planning by confirming the venue and agenda way before the event date itself. We were graciously hosted by [Tinkerbox Studios](https://www.tinkerbox.com.sg/). Unfortunately, the technical difficulties bug had yet to be quashed and we took a little while to get the video recording set up. Life. <span class="o-kaomoji">¯\\\_(ツ)\_/¯</span>
 
-The more exciting thing was, we had our very first panel discussion! Yes, it might have partly been because we couldn't find enough speakers, but it was also due to the fact that opinions on CSS are extremely varied. And it makes sense to discuss all these viewpoints to have a more robust understanding of CSs.
-
-## So this happened...
-
-<div class="c-videos">
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/YXJL4cY8VCE">
-      <img class="c-video__img" src="/img/talk-4/s401-command-line.jpg" srcset="/img/talk-4/s401-command-line@2x.jpg 2x" alt="Link to talk on the Command Line"/>
-    </a>
-    <p class="c-video__desc">Have command-line phobia? Sahil teaches us cool tips and tricks to overcome your fear of the terminal.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/Djh1QnIPDkk">
-      <img class="c-video__img" src="/img/talk-4/s402-css-news.jpg" srcset="/img/talk-4/s402-css-news@2x.jpg 2x" alt="Link to CSS updates for March 2016"/>
-    </a>
-    <p class="c-video__desc">Updates and news in the world of CSS for March 2016. Our new regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-4.md">here</a>.</p>
-  </div>
-
-  <div class="c-video">
-    <a class="c-video__link" href="https://youtu.be/4tfYwrjQXG4">
-      <img class="c-video__img" src="/img/talk-4/s403-css-architecture.jpg" srcset="/img/talk-4/s403-css-architecture@2x.jpg 2x" alt="Link to panel discussion on CSS architecture"/>
-    </a>
-    <p class="c-video__desc">Our first panel discussion about CSS name-spacing and architecture, featuring Chris Lienert, Zell Liew, Aysha Anggraini and Chen Hui Jing.</p>
-  </div>
-
-</div>
-
-## About the speakers...
-
-<div class="l-speakers c-speakers">
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-4/sb.jpg" srcset="/img/talk-4/sb@2x.jpg 2x" alt="Sahil Bajaj"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/spinningarrow_">@spinningarrow_</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Sahil is a web developer who occasionally misses the old days of marquee text and hit counters on websites. DynamicDrive.com, anyone?</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-4/ren.jpg" srcset="/img/talk-4/ren@2x.jpg 2x" alt="Ren Aysha"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/RenettaRenula">@RenettaRenula</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Aysha is a front-end engineer and a wannabe designer. Her motto in life is 'Code, Yoga, and Cats'.</p>
-  </div>
-
-  <div class="l-speaker c-speaker">
-    <figure>
-      <img class="c-speaker__img" src="/img/talk-1/zell.jpg" srcset="/img/talk-1/zell@2x.jpg 2x" alt="Zell Liew"/>
-      <figcaption><a class="c-speaker__link" href="https://twitter.com/zellwk">@zellwk</a></figcaption>
-    </figure>
-    <p class="c-speaker__intro">Zell has the wrong qualifications and shouldn't be here. Fortunately no one told him and he went and became a freelance web developer anyway.</p>
-  </div>
-
-</div>
+The more exciting thing was, we had our very first panel discussion! Yes, it might have partly been because we couldn't find enough speakers, but it was also due to the fact that opinions on CSS are extremely varied. And it makes sense to discuss all these viewpoints to have a more robust understanding of CSS.

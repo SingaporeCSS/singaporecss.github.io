@@ -1,0 +1,46 @@
+<h2>So this happened…</h2>
+
+{% assign meetup = site.data.meetups[page.meetup] %}
+<div class="c-videos">
+  {% if meetup.colour %}
+  {% assign colour = meetup.colour %}
+  <div class="c-colour">
+    {% if colour.text %}
+    <div class="c-swatch" style="background-color:{{ colour.hex }};color:{{ colour.text }}">
+    {% else %}
+    <div class="c-swatch" style="background-color:{{ colour.hex }}">
+    {% endif %}
+      <div class="c-swatch__txt">
+        <p>{{ colour.name }}</p>
+        <p>{{ colour.hex }}</p>
+        <p>{{ colour.rgba }}</p>
+      </div>
+    </div>
+  <h4>CSS colour of the month</h4>
+  </div>
+  {% endif %}
+
+  {% for videos in meetup.videos %}
+  {% assign video = site.data.videos[videos.ref] %}
+  <div class="c-video">
+    <a class="c-video__link" href="{{ video.link }}">
+      <img class="c-video__img" src="{{ site.url }}/assets/img/videos/talk-{{ page.meetup }}/{{ video.shortcode }}.jpg" srcset="{{ site.url }}/assets/img/videos/talk-{{ page.meetup }}/{{ video.shortcode }}@2x.jpg 2x" alt="Link to {{ video.title }} video"/>
+    </a>
+    <p class="c-video__desc">{{ video.description }}</p>
+  </div>
+  {% endfor %}
+
+  {% if page.news %}
+  <div class="u-clear">
+    <strong>CSS News ({{ page.news }})</strong><br>
+    <p>Updates and news in the world of CSS for {{ page.news }}. Our regular segment. Topics covered available <a href="https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-{{ page.meetup }}.md">here</a>.</p>
+  </div>
+  {% endif %}
+
+  {% if meetup.codepen %}
+  {% assign codepen = meetup.codepen %}
+  <strong>CSS grid demo of the month</strong><br>
+  <p>{{ codepen.description }}</p>
+  {{ codepen.embed }}
+  {% endif %}
+</div>

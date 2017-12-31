@@ -8,8 +8,6 @@ enforce_ssl: singaporecss.github.io   # without any protocol
 
 relative_permalinks: false
 permalink: /:title/
-paginate: 8
-paginate_path: "/page:num"
 
 github_username: SingaporeCSS
 twitter_username: SingaporeCSS
@@ -36,3 +34,4 @@ exclude:
   - package.json
   - bower.json
   - bower_components
+  - yarn.lock
