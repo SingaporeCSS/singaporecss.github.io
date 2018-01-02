@@ -14,31 +14,31 @@ Your feedback does make a difference in helping to move the web forward.
 
 <div class="c-platform">
     <a href="https://github.com/w3c/csswg-drafts" class="c-platform__link">
-        <img src="/img/csswg.svg" class="c-platform__icon" alt="CSSWG">
+        <img src="{{ site.url }}/assets/img/csswg.svg" class="c-platform__icon" alt="CSSWG">
         <p>CSS Working Group Drafts</p>
     </a>
     <a href="https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer" class="c-platform__link">
-        <img src="/img/windows.svg" class="c-platform__icon" alt="Windows">
+        <img src="{{ site.url }}/assets/img/windows.svg" class="c-platform__icon" alt="Windows">
         <p>Microsoft Edge Developer</p>
     </a>
     <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/" class="c-platform__link">
-        <img src="/img/edge.svg" class="c-platform__icon" alt="EdgeHTML">
+        <img src="{{ site.url }}/assets/img/edge.svg" class="c-platform__icon" alt="EdgeHTML">
         <p>EdgeHTML issue tracker</p>
     </a>
     <a href="https://bugs.webkit.org/query.cgi?format=specific&product=WebKit" class="c-platform__link">
-        <img src="/img/webkit.svg" class="c-platform__icon" alt="Webkit">
+        <img src="{{ site.url }}/assets/img/webkit.svg" class="c-platform__icon" alt="Webkit">
         <p>Webkit Bugzilla</p>
     </a>
     <a href="https://bugzilla.mozilla.org/index.cgi" class="c-platform__link">
-        <img src="/img/mozilla.svg" class="c-platform__icon" alt="Mozilla">
+        <img src="{{ site.url }}/assets/img/mozilla.svg" class="c-platform__icon" alt="Mozilla">
         <p>Bugzilla@Mozilla</p>
     </a>
     <a href="https://bugs.chromium.org/p/chromium/issues/list" class="c-platform__link">
-        <img src="/img/chromium.svg" class="c-platform__icon" alt="Chromium">
+        <img src="{{ site.url }}/assets/img/chromium.svg" class="c-platform__icon" alt="Chromium">
         <p>Chromium Bugs</p>
     </a>
     <a href="https://discourse.wicg.io/" class="c-platform__link">
-        <img src="/img/wicg.svg" class="c-platform__icon" alt="WICG">
+        <img src="{{ site.url }}/assets/img/wicg.svg" class="c-platform__icon" alt="WICG">
         <p>WICG Discourse</p>
     </a>
 </div>

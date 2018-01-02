@@ -136,7 +136,10 @@
       -ms-flex: 1 0 auto;
           flex: 1 0 auto; }
   .maxcontent .sponsor img {
-    max-width: 12em; }
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: 2.5em; }
 
 @media all and (max-width: 29.9375em) {
   .maxcontent tr:nth-child(2n) {

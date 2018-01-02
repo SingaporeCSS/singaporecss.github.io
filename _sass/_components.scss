@@ -241,7 +241,6 @@
 }
 
 .c-platform__link {
-  display: block;
   flex: 1 0 calc(50% - 2rem);
   border: 1px solid map-get($colors, secondary);
   border: 1px solid color(secondary);

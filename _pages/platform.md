@@ -8,19 +8,19 @@ All the major browser vendors publish the list of web platform features and thei
 
 <div class="c-platform">
     <a href="https://platform-status.mozilla.org/" class="c-platform__link">
-        <img src="/img/firefox.svg" class="c-platform__icon" alt="Firefox">
+        <img src="{{ site.url }}/assets/img/firefox.svg" class="c-platform__icon" alt="Firefox">
         <p>Firefox Platform Status</p>
     </a>
     <a href="https://www.chromestatus.com/features" class="c-platform__link">
-        <img src="/img/chrome.svg" class="c-platform__icon" alt="Chrome">
+        <img src="{{ site.url }}/assets/img/chrome.svg" class="c-platform__icon" alt="Chrome">
         <p>Chrome Platform Status</p>
     </a>
     <a href="https://webkit.org/status/" class="c-platform__link">
-        <img src="/img/webkit.svg" class="c-platform__icon" alt="WebKit">
+        <img src="{{ site.url }}/assets/img/webkit.svg" class="c-platform__icon" alt="WebKit">
         <p>WebKit Feature Status</p>
     </a>
     <a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/status/" class="c-platform__link">
-        <img src="/img/microsoft.svg" class="c-platform__icon" alt="Microsoft">
+        <img src="{{ site.url }}/assets/img/microsoft.svg" class="c-platform__icon" alt="Microsoft">
         <p>Edge Platform Status</p>
     </a>
 </div>

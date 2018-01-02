@@ -127,7 +127,10 @@
     flex: 1 0 auto;
 
     img {
-      max-width: 12em;
+      display: inline-block;
+      vertical-align: middle;
+      width: 100%;
+      height: 2.5em;
     }
   }
 
