@@ -113,8 +113,23 @@
 .maxcontent .address span {
   display: block; }
 
+.maxcontent .talk-session {
+  margin-bottom: 1em; }
+
 .maxcontent .talk-speaker h4 {
   text-align: center; }
+
+@media all and (max-width: 29.9375em) {
+  .maxcontent tr:nth-child(2n) {
+    background-color: #e1f2fa;
+    background-color: color(highlight); }
+  .maxcontent td,
+  .maxcontent th {
+    display: block; }
+  .maxcontent th {
+    text-align: left;
+    padding-bottom: 0;
+    border-bottom: none; } }
 
 @media all and (min-width: 30em) {
   .maxcontent ol li {

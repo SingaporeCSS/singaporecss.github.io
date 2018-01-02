@@ -7,10 +7,6 @@
 // Special one-off event styles
 // ==========
 .maxcontent {
-  h2 {
-    line-height: calc(1em + 2vmin);
-  }
-
   h4 {
     margin-bottom: 0.125em;
 
@@ -23,6 +19,46 @@
         display:block;
         transform: rotate(5deg);
       }
+    }
+  }
+
+  ol {
+    margin-top: 2em;
+    counter-reset: li-counter;
+
+    li {
+      position: relative;
+      margin-bottom: 1.5em;
+      padding: 1.5em;
+      background-color: #eaeaea;
+      text-align: center;
+
+      &:before {
+        position: absolute;
+        top: -0.4em;
+        left: -0.3em;
+        width: 1.5em;
+        height: 1.3em;
+       
+        font-size: 2em;
+        line-height: 1.2;
+        font-weight: bold;
+        text-align: center;
+        color: #464646;
+        background-color: #d0d0d0;
+        transform: rotate(-20deg);
+        content: counter(li-counter);
+        counter-increment: li-counter;
+      }
+    }
+    img {
+      max-height: 5em;
+    }
+
+    p {
+      margin-bottom: 0;
+      margin-left: 1em;
+      text-align: left;
     }
   }
 
@@ -70,9 +106,40 @@
     display: block;
   }
 
+  .talk-session {
+    margin-bottom: 1em;
+  }
+
   .talk-speaker {
     h4 {
       text-align: center;
+    }
+  }
+
+  @include mappy-bp(max small) {
+    tr:nth-child(2n) {
+      background-color: map-get($colors, highlight);
+      background-color: color(highlight);
+    }
+
+    td,
+    th {
+      display: block;
+    }
+
+    th {
+      text-align: left;
+      padding-bottom: 0;
+      border-bottom: none;
+    }
+  }
+
+  @include mappy-bp(small) {
+    ol {
+      li {
+        display: flex;
+        align-items: center;
+      }
     }
   }
 
@@ -129,4 +196,31 @@
 .gilbert {
   font-family: 'Gilbert';
   font-size: 125%;
+}
+
+@supports (display:grid) {
+  @include mappy-bp(max small) {
+    .maxcontent {
+      ol {
+        li {
+          display: grid;
+          grid-template-columns: auto 1fr;
+        }
+
+        img {
+          opacity: 0.2;
+          grid-column: 1 / 3;
+          grid-row: 1 / 2;
+          max-height: 12em;
+          margin: auto;
+        }
+
+        p {
+          grid-column: 1 / 3;
+          grid-row: 1 / 2;
+          margin: auto;
+        }
+      }
+    }
+  }
 }

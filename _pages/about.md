@@ -4,7 +4,6 @@ title: About us
 permalink: /about/
 navigation: true
 ---
-
 Developers love meet-ups. Almost every programming language has its own local meet-up. Almost. There wasn't a CSS-specific meet-up in Singapore at the time, and usually talks related to CSS latched onto other meet-ups like [Talk.JS](http://www.meetup.com/Singapore-JS/) or [Front End Developers Singapore](http://feds.strikingly.com/).
 
 Talk.CSS came into being on October 26, 2015. It all started from a random conversation in our local digital watering hole, the [KopiJS](http://kopijs.org/) slack channel. The idea of starting a CSS meet-up seemed to take quite well and by 4pm we already had a logo, a GitHub organisation, a Twitter account and the venue for our inaugural meet-up.

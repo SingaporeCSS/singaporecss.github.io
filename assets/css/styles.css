@@ -112,6 +112,7 @@ img {
 :root {
   --main-color: #1572b6;
   --secondary-color: #33a9dc;
+  --highlight-color: #e1f2fa;
   --border-color: #e8e8e8;
   --shadow-color: rgba(0, 0, 0, 0.3);
   --text-color: #110;
@@ -157,7 +158,8 @@ p a {
 h1 {
   font-size: 2.16rem;
   line-height: 1.5;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  line-height: calc(1em + 2vmin); }
   @media screen and (min-width: 48em) {
     h1 {
       font-size: 2.592rem;
@@ -166,7 +168,8 @@ h1 {
 h2 {
   font-size: 1.8rem;
   line-height: 1.5;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  line-height: calc(1em + 2vmin); }
   @media screen and (min-width: 48em) {
     h2 {
       font-size: 2.16rem;

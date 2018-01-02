@@ -4,11 +4,13 @@
 h1 {
   @include responsive-text-size(mega);
   margin-bottom: 1rem;
+  line-height: calc(1em + 2vmin);
 }
 
 h2 {
   @include responsive-text-size(kilo);
   margin-bottom: 1rem;
+  line-height: calc(1em + 2vmin);
 }
 
 h3 {
