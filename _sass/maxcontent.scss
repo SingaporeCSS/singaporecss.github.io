@@ -116,6 +116,21 @@
     }
   }
 
+  .sponsors {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2em;
+  }
+
+  .sponsor {
+    flex: 1 0 auto;
+
+    img {
+      max-width: 12em;
+    }
+  }
+
   @include mappy-bp(max small) {
     tr:nth-child(2n) {
       background-color: map-get($colors, highlight);

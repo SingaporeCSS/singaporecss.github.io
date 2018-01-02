@@ -119,6 +119,25 @@
 .maxcontent .talk-speaker h4 {
   text-align: center; }
 
+.maxcontent .sponsors {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 2em; }
+
+.maxcontent .sponsor {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto; }
+  .maxcontent .sponsor img {
+    max-width: 12em; }
+
 @media all and (max-width: 29.9375em) {
   .maxcontent tr:nth-child(2n) {
     background-color: #e1f2fa;
