@@ -9,6 +9,6 @@ event-id: 244532281
 meetup: 23
 news: November 2017
 ---
-Talk.CSS turned 2! <span class="emoji" role="img" tabindex="0" aria-label="person dancing">&#x1F483;</span> We made it to the terrible twos without missing a month, and it wouldn't have been possible without all your support. We cannot say enough to express how appreciative we are of all you kind folks who show up for our little meetup every month.
+Talk.CSS turned 2! <span class="o-emoji" role="img" tabindex="0" aria-label="person dancing">&#x1F483;</span> We made it to the terrible twos without missing a month, and it wouldn't have been possible without all your support. We cannot say enough to express how appreciative we are of all you kind folks who show up for our little meetup every month.
 
-As with most birthday celebrations, there was cake <span class="emoji" role="img" tabindex="0" aria-label="birthday cake">&#x1F382;</span>! Courtesy of Chris and his wonderful wife, [Sarah](https://twitter.com/sazzarj), who is officially friend-for-life <span class="emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span> of Talk.CSS.
+As with most birthday celebrations, there was cake <span class="o-emoji" role="img" tabindex="0" aria-label="birthday cake">&#x1F382;</span>! Courtesy of Chris and his wonderful wife, [Sarah](https://twitter.com/sazzarj), who is officially friend-for-life <span class="o-emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span> of Talk.CSS.

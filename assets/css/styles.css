@@ -369,7 +369,7 @@ figure img {
   font-size: 1.294rem;
   display: inline-block;
   vertical-align: middle;
-  font-family: 'Segoe UI Emoji'; }
+  font-family: 'Apple Color Emoji', 'Segoe UI Emoji'; }
   @media all and (min-width: 80em) {
     .o-emoji {
       font-size: 1.618rem; } }
