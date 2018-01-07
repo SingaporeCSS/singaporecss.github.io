@@ -133,8 +133,8 @@
 
 .maxcontent .sponsor {
   -webkit-box-flex: 1;
-      -ms-flex: 1 0 auto;
-          flex: 1 0 auto;
+      -ms-flex: auto;
+          flex: auto;
   text-align: center; }
   .maxcontent .sponsor img {
     display: inline-block;
@@ -172,7 +172,8 @@
   .maxcontent .talk {
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex; }
+    display: flex;
+    max-width: 53rem; }
   .maxcontent .talk-session {
     -webkit-box-flex: 1;
         -ms-flex: 1 0 65%;

@@ -124,7 +124,7 @@
   }
 
   .sponsor {
-    flex: 1 0 auto;
+    flex: auto;
     text-align: center;
 
     img {
@@ -172,6 +172,7 @@
 
     .talk {
       display: flex;
+      max-width: 53rem;
     }
 
     .talk-session {
