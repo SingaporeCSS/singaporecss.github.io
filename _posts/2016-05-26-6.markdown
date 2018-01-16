@@ -8,4 +8,4 @@ categories: meetup
 meetup: 6
 news: May 2016
 ---
-For this iteration, we went all the way west to [BASH](http://www.infocomminvestments.com/BASH.html)! (If you don't know, it's at [Blk 79, Ayer Rajah Crescent](https://www.google.com.sg/maps/place/BASH/@1.2979709,103.78524,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4fe5b64c39:0x59c44d4a72e2e7d9!8m2!3d1.2979655!4d103.7874287)). And we had 2 very informative talks, so if you missed the event, check out the videos below.
+For this iteration, we went all the way west to [BASH](https://www.sginnovate.com/about/bash)! (If you don't know, it's at [Blk 79, Ayer Rajah Crescent](https://www.google.com.sg/maps/place/BASH/@1.2979709,103.78524,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4fe5b64c39:0x59c44d4a72e2e7d9!8m2!3d1.2979655!4d103.7874287)). And we had 2 very informative talks, so if you missed the event, check out the videos below.
