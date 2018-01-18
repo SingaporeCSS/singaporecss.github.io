@@ -123,23 +123,27 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
 
 .maxcontent .sponsor {
   -webkit-box-flex: 1;
-      -ms-flex: auto;
-          flex: auto;
+      -ms-flex: 1 0 10em;
+          flex: 1 0 10em;
   text-align: center; }
   .maxcontent .sponsor img {
     display: inline-block;
     vertical-align: middle;
     height: 2.5em; }
+
+.maxcontent .sponsor:not(:last-child) {
+  margin-bottom: 2em; }
 
 @media all and (max-width: 29.9375em) {
   .maxcontent tr:nth-child(2n) {

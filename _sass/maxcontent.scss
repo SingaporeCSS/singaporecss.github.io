@@ -118,13 +118,14 @@
 
   .sponsors {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     margin-bottom: 2em;
+    flex-wrap: wrap;
   }
 
   .sponsor {
-    flex: auto;
+    flex: 1 0 10em;
     text-align: center;
 
     img {
@@ -132,6 +133,10 @@
       vertical-align: middle;
       height: 2.5em;
     }
+  }
+
+  .sponsor:not(:last-child) {
+    margin-bottom: 2em;
   }
 
   @include mappy-bp(max small) {
