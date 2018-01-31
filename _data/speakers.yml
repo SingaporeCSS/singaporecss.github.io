@@ -1,3 +1,8 @@
+mystery:
+  name: "Mystery speaker"
+  shortcode: "mystery"
+  bio: "Well, it's still a mystery, so check back to see if the kittencorn has been replaced."
+
 huijing:
   name: "Chen Hui Jing"
   twitter: "hj_chen"

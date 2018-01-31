@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Talk.CSS #13"
-date:   2016-12-11 19:00:00 +0800
+title: "Talk.CSS #13"
+date: 2016-12-11 19:00:00 +0800
 location: CXA Group
 event-date: 2017-01-25 19:00:00 +0800
 categories: meetup

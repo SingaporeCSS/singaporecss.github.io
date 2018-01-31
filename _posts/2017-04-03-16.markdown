@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Talk.CSS #16"
-date:   2017-04-03 19:00:00 +0800
+title: "Talk.CSS #16"
+date: 2017-04-03 19:00:00 +0800
 location: Spacemob Ascent
 event-date: 2017-04-26 19:00:00 +0800
 categories: meetup

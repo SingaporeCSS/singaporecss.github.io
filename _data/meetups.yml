@@ -258,3 +258,8 @@
     - ref: huijing
     - ref: chris
     - ref: aysha
+
+25:
+  speakers:
+    - ref: mystery
+    - ref: mystery

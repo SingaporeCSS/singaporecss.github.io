@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Talk.CSS #1"
-date:   2015-11-22 19:00:00 +0800
+title: "Talk.CSS #1"
+date: 2015-11-22 19:00:00 +0800
 location: Hackerspace.SG
 event-date:   2015-11-22 19:00:00 +0800
 categories: meetup

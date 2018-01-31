@@ -31,7 +31,9 @@ layout: default
   {% endif %}
 </div>
 
+{% unless page.novideos %}
 <p class="c-credits">All videos courtesy of <a href="https://engineers.sg/">Engineers.SG</a>.</p>
+{% endunless %}
 
 {% if page.hascodepen %}
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

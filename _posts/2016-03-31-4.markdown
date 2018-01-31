@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Talk.CSS #4"
-date:   2016-03-31 19:00:00 +0800
+title: "Talk.CSS #4"
+date: 2016-03-31 19:00:00 +0800
 location: Tinkerbox Studios
 event-date: 2016-03-31 19:00:00 +0800
 categories: meetup

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Talk.CSS Anniversary Special"
-date:   2016-11-16 19:00:00 +0800
+title: "Talk.CSS Anniversary Special"
+date: 2016-11-16 19:00:00 +0800
 location: Spacemob Claymore
 event-date: 2016-11-22 19:00:00 +0800
 categories: meetup

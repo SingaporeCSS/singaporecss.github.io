@@ -17,8 +17,10 @@
       <img class="c-speaker__img" src="{{ site.url }}/assets/img/speakers/{{ speaker.shortcode }}.jpg" srcset="{{ site.url }}/assets/img/speakers/{{ speaker.shortcode }}@2x.jpg 2x" alt="{{ speaker.name }}"/>
       {% if speaker.twitter %}
       <figcaption><a class="c-speaker__link" href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a></figcaption>
-      {% else %}
+      {% elsif speaker.github %}
       <figcaption><a class="c-speaker__link" href="https://github.com/{{ speaker.github }}">@{{ speaker.github }}</a></figcaption>
+      {% else %}
+      <figcaption><span class="c-speaker__link">@{{ speaker.shortcode }}</span></figcaption>
       {% endif %}
     </figure>
     <p class="c-speaker__intro">{{ speaker.bio }}</p>

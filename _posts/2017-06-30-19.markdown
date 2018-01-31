@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Talk.CSS #19 CodePen Edition"
-date:   2017-06-05 19:00:00 +0800
+title: "Talk.CSS #19 CodePen Edition"
+date: 2017-06-05 19:00:00 +0800
 location: Viki Singapore
 event-date: 2017-07-26 19:00:00 +0800
 categories: meetup
