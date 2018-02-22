@@ -158,3 +158,20 @@ seb:
   twitter: "sebdeckers"
   shortcode: "seb"
   bio: "Seb is a frontend fanatic hailing from Belgium. When he’s not busy coding, you can find him cultivating the local developer community and regularly speaks at SingaporeJS events."
+
+ed:
+  name: "Eddie Moore"
+  twitter: "_edmoore"
+  shortcode: "ed"
+  bio: "Ed loves building for the web and is always trying to improve his skills. He's also a husband, father to a beautiful daughter, and a coffee (black) and tech junkie."
+
+gloria:
+  name: "Gloria Soh"
+  shortcode: "gloria"
+  bio: "Gloria is a CSS queen who is bitcoin rich."
+
+shirlaine:
+  name: "Shirlaine Phang"
+  github: "shirlaine"
+  shortcode: "shirlaine"
+  bio: "Shirlaine is probably taller than you and is currently learning how to squat properly."

@@ -261,5 +261,6 @@
 
 25:
   speakers:
-    - ref: mystery
-    - ref: mystery
+    - ref: ed
+    - ref: gloria
+    - ref: shirlaine

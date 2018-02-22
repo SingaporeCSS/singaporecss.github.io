@@ -14,10 +14,15 @@ So it's back to our regularly scheduled programming. Fairy-godmother mode off. P
 
 On the plus side, we have a date already, 28 February 2018. It's a Wednesday! Also, we've already found a location. This time, we'll be at [WeWork Beach Centre](https://www.wework.com/buildings/beach-centre--singapore), here's [a map](https://www.google.com.sg/maps/place/WeWork+Beach+Centre/@1.2958737,103.8533462,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a59cfc8f55:0x9ea50cd7a3ccd504!8m2!3d1.2958683!4d103.8555349?hl=en) so you don't get lost.
 
-**Latest CSS news** by **Talk.CSS**
+**Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**The CSS doctor is in**
+**Reducing CSS file size with functional/Atomic CSS** by **Ed Moore**
+
+**Something related to CSS grid (title TBC)** by **Gloria Soh** and **Shirlaine Phang**  
+CSS grid can do lots of things, so you will be hearing about what is possible with CSS grid? Maybe? We'll see how...
+
+**The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
 Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
