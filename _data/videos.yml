@@ -344,10 +344,22 @@ s2303:
   title: "Critical 1.0"
   link: "https://youtu.be/R8ijdhjrG3k"
   shortcode: "s2303"
-  description: "Owais shares his tips and tricks for inlining critical css."
+  description: "Owais shares his tips and tricks for in-lining critical CSS."
 
 s2304:
   title: "2017 wrap-up panel"
   link: "https://youtu.be/LUYOYOkiGas"
   shortcode: "s2304"
   description: "To wrap up 2017, we did a panel thingy."
+
+s2501:
+  title: "Reducing your bundle size with Functional CSS"
+  link: "https://eddie-moore.com/talks/functionalcss/"
+  shortcode: "s2501"
+  description: "Ed explains how a functional style of CSS can save you bytes."
+
+s2502:
+  title: "CSS grid for noobs"
+  link: "https://docs.google.com/presentation/d/1c2TZYH0bX7BLj3ocmDqwrrH5K0FcgKd_rf41w8SBCZs"
+  shortcode: "s2502"
+  description: "Shirlaine and Gloria share their experience of learning and using CSS grid."

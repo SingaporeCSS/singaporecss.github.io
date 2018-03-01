@@ -260,7 +260,18 @@
     - ref: aysha
 
 25:
+  colour:
+    name: lime
+    hex: "#00FF00"
+    rgba: rgba(0,255,0,1)
+  videos:
+    - ref: s2501
+    - ref: s2502
   speakers:
     - ref: ed
     - ref: gloria
     - ref: shirlaine
+
+26:
+  speakers:
+    - ref: mystery
