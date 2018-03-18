@@ -2,7 +2,7 @@
 layout: post
 title: "Talk.CSS #26"
 date: 2018-03-01 19:00:00 +0800
-location: TBC
+location: Skyscanner Singapore
 event-date: 2018-03-28 19:00:00 +0800
 categories: meetup
 event-id: 248280037
@@ -10,10 +10,13 @@ meetup: 26
 novideos: true
 news: March 2018
 ---
-So after two years of anyhowly-ing (this word just keeps getting longer, doesn't it?), we seem to have settled on a schedule. So Talk.CSS #26 will be happening on Wednesday, 28 March. Venue and speakers TBC.
+So after two years of anyhowly-ing (this word just keeps getting longer, doesn't it?), we seem to have settled on a schedule. So Talk.CSS #26 will be happening on Wednesday, 28 March. We'll be hosted by Skyscanner ([here's a map](https://www.google.com/maps/place/Skyscanner/@1.279623,103.8473153,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19120a2298ed:0x2e28c78249b215f0!8m2!3d1.279623!4d103.849504) so you don't get lost) in the conference room, Kotoku-In, on the 7th floor.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Faux sub-grid** by **Zell Liew**  
+Here at SingaporeCSS, we really like CSS grid. But CSS grid is still a work in progress, and one of the things on our wishlist is the ability to have subgrids. While that's being worked on, Zell has come up with a stop-gap implementation for subgrid.
 
 **The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
