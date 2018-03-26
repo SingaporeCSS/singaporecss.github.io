@@ -18,6 +18,12 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Faux sub-grid** by **Zell Liew**  
 Here at SingaporeCSS, we really like CSS grid. But CSS grid is still a work in progress, and one of the things on our wishlist is the ability to have subgrids. While that's being worked on, Zell has come up with a stop-gap implementation for subgrid.
 
+**How to use atomic CSS and sleep at night** by **Sheldon Cheng**  
+Sheldon will be sharing with us how he uses Atomic CSS.
+
+**Frontend development for distributed teams** by **Ardy Dedase**  
+Frontend development occurs in companies of all sizes, from one-man startups to huge corporations. This may be an overgeneralisation, but the more people are involved the more complex things become. Ever wondered how frontend development happens when there are more the 400 engineers involved? Ardy shares with us how things work at Skyscanner.
+
 **The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 

@@ -176,3 +176,15 @@ shirlaine:
   twitter: "shirlaine_com"
   shortcode: "shirlaine"
   bio: "Shirlaine is probably taller than you and is currently learning how to squat properly."
+
+ardy:
+  name: "Ardy Dedase"
+  twitter: "wickedmanok"
+  shortcode: "ardy"
+  bio: "Engineer at Skyscanner."
+
+sheldon:
+  name: "Sheldon Cheng"
+  twitter: "sheldytox"
+  shortcode: "sheldon"
+  bio: "Sheldon is working on a magical one-liner that describes his unicorn-ness."

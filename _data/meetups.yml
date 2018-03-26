@@ -275,4 +275,5 @@
 26:
   speakers:
     - ref: zell
-    - ref: mystery
+    - ref: sheldon
+    - ref: ardy
