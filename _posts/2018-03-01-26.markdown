@@ -19,7 +19,7 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 Here at SingaporeCSS, we really like CSS grid. But CSS grid is still a work in progress, and one of the things on our wishlist is the ability to have subgrids. While that's being worked on, Zell has come up with a stop-gap implementation for subgrid.
 
 **How to use atomic CSS and sleep at night** by **Sheldon Cheng**  
-Sheldon will be sharing with us how he uses Atomic CSS.
+Atomic CSS is growing in popularity and has found fans and detractors alike. Sheldon shares how he went from not loving it to appreciating its usefulness, and incorporating part of it into his workflow.
 
 **Frontend development for distributed teams** by **Ardy Dedase**  
 Frontend development occurs in companies of all sizes, from one-man startups to huge corporations. This may be an overgeneralisation, but the more people are involved the more complex things become. Ever wondered how frontend development happens when there are more the 400 engineers involved? Ardy shares with us how things work at Skyscanner.
