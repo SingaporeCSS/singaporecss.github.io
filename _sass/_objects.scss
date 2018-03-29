@@ -29,20 +29,20 @@ span[role=img][aria-label]:hover::after {
   z-index: 1;
   bottom: 2.5em;
   left: 0;
-  background-color: map-get($colors, main);
+  background-color: map-get($colours, main);
   background-color: color(main);
-  color: map-get($colors, bg);
+  color: map-get($colours, bg);
   color: color(bg);
   padding: 0.25em;
-  border: 1px solid map-get($colors, border);
+  border: 1px solid map-get($colours, border);
   border: 1px solid color(border);
-  box-shadow: 2px 2px 4px map-get($colors, shadow);
+  box-shadow: 2px 2px 4px map-get($colours, shadow);
   box-shadow: 2px 2px 4px color(shadow);
 }
 
 @media print {
   span[role=img][aria-label]::after {
-    content: " (" attr(aria-label) ") ";
+    content: ' (' attr(aria-label) ') ';
   }
 }
 
@@ -67,7 +67,7 @@ span[role=img][aria-label]:hover::after {
   }
 
   path {
-    fill: map-get($colors, bg);
+    fill: map-get($colours, bg);
     fill: color(bg);
   }
 }

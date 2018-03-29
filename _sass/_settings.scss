@@ -137,14 +137,14 @@ $text-sizing: (
 );
 
 // Colours
-$colors: (
-  main: #1572b6,
-  secondary: #33a9dc,
-  highlight: #e1f2fa,
-  border: #e8e8e8,
-  shadow: rgba(0, 0, 0, 0.3),
-  text: #110,
-  bg: #fafaff,
+$colours: (
+  'main': #1572b6,
+  'secondary': #33a9dc,
+  'highlight': #e1f2fa,
+  'border': #e8e8e8,
+  'shadow': rgba(0, 0, 0, 0.3),
+  'text': #110,
+  'bg': #fafaff
 );
 
 $highlights: (

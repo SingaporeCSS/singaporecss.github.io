@@ -3,9 +3,9 @@
 // ==========
 // Site header styles
 .c-site-header {
-  background-color: map-get($colors, secondary);
+  background-color: map-get($colours, secondary);
   background-color: color(secondary);
-  border-top: 0.5rem solid map-get($colors, main);
+  border-top: 0.5rem solid map-get($colours, main);
   border-top: 0.5rem solid color(main);
   margin-bottom: 1.5rem;
   text-align: center;
@@ -23,7 +23,7 @@
 
 .c-site__link {
   &:hover {
-    text-shadow: 0 0 0.35px map-get($colors, text), 0 0 0.35px map-get($colors, text);
+    text-shadow: 0 0 0.35px map-get($colours, text), 0 0 0.35px map-get($colours, text);
     text-shadow: 0 0 0.35px color(text), 0 0 0.35px color(text);
 
     &::after {
@@ -44,7 +44,7 @@
 
 // Events listing
 .c-past-event {
-  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 map-get($colours, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
 }
 
@@ -61,17 +61,17 @@
 
 .c-archive__link {
   display: inline-block;
-  background: map-get($colors, main);
+  background: map-get($colours, main);
   background: color(main);
-  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 map-get($colours, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
-  color: map-get($colors, bg);
+  color: map-get($colours, bg);
   color: color(bg);
   padding: 0.5em 1em;
   margin: 0 auto 1em;
 
   &:hover {
-    background: map-get($colors, secondary);
+    background: map-get($colours, secondary);
     background: color(secondary);
   }
 }
@@ -86,7 +86,7 @@
   height: 10em;
   width: 10em;
   border-radius: 50%;
-  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 map-get($colours, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
   margin-bottom: 0.5rem;
   display: flex;
@@ -106,7 +106,7 @@
 }
 
 .c-video {
-  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 map-get($colours, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
   margin-bottom: 1.5rem;
 }
@@ -142,7 +142,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: map-get($colors, secondary);
+    background-color: map-get($colours, secondary);
     background-color: color(secondary);
   }
 }
@@ -171,7 +171,7 @@
 
 .c-speaker__link {
   @include responsive-text-size(deci);
-  color: map-get($colors, main);
+  color: map-get($colours, main);
   color: color(main);
   display: inline-block;
   margin-bottom: 0.5rem;
@@ -199,11 +199,11 @@
 .c-rsvp span:first-child {
   display: inline-block;
   z-index: 2;
-  background: map-get($colors, secondary);
+  background: map-get($colours, secondary);
   background: color(secondary);
-  box-shadow: 0 2px 5px 0 map-get($colors, shadow);
+  box-shadow: 0 2px 5px 0 map-get($colours, shadow);
   box-shadow: 0 2px 5px 0 color(shadow);
-  color: map-get($colors, bg);
+  color: map-get($colours, bg);
   color: color(bg);
   padding: 0.25em 0.5em;
   border-radius: 0.5em;
@@ -214,7 +214,7 @@
 .c-rsvp span:last-child {
   z-index: 1;
   display: inline-block;
-  color: rgba(0,0,0,0.8);
+  color: rgba(0, 0, 0 ,0.8);
   font-style: italic;
   font-size: 0.75em;
   opacity: 0;
@@ -242,7 +242,7 @@
 
 .c-platform__link {
   flex: 1 0 calc(50% - 2rem);
-  border: 1px solid map-get($colors, secondary);
+  border: 1px solid map-get($colours, secondary);
   border: 1px solid color(secondary);
   padding: 1.5rem 1rem 0;
   margin: 1rem;
@@ -253,11 +253,11 @@
   }
 
   &:hover {
-    border: 1px solid map-get($colors, main);
+    border: 1px solid map-get($colours, main);
     border: 1px solid color(main);
 
     p {
-      color: map-get($colors, main);
+      color: map-get($colours, main);
       color: color(main);
     }
   }
@@ -273,9 +273,9 @@
 
 // Site footer styles
 .c-site-footer {
-  background: map-get($colors, main);
+  background: map-get($colours, main);
   background: color(main);
-  color: map-get($colors, bg);
+  color: map-get($colours, bg);
   color: color(bg);
   padding: 1rem 0;
 
@@ -284,14 +284,14 @@
   }
 
   p a {
-    border-bottom: 1px solid map-get($colors, bg);
+    border-bottom: 1px solid map-get($colours, bg);
     border-bottom: 1px solid color(bg);
-    color: map-get($colors, bg);
+    color: map-get($colours, bg);
     color: color(bg);
 
     &:hover {
       border-bottom: 0;
-      text-shadow: 0 0 0.35px map-get($colors, bg), 0 0 0.35px map-get($colors, bg);
+      text-shadow: 0 0 0.35px map-get($colours, bg), 0 0 0.35px map-get($colours, bg);
       text-shadow: 0 0 0.35px color(bg), 0 0 0.35px color(bg);
     }
   }
@@ -318,7 +318,7 @@
 }
 
 .c-logo {
-  background: map-get($colors, bg);
+  background: map-get($colours, bg);
   background: color(bg);
   border-radius: 1rem;
   height: 8rem;
@@ -354,7 +354,7 @@
   }
 
   @include mappy-bp(xsmall) {
-    border: 1px solid map-get($colors, bg);
+    border: 1px solid map-get($colours, bg);
     border: 1px solid color(bg);
     border-radius: 0.5rem;
     display: block;

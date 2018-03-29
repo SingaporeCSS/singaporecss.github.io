@@ -110,13 +110,13 @@ img {
   max-width: 100%; }
 
 :root {
-  --main-color: #1572b6;
-  --secondary-color: #33a9dc;
-  --highlight-color: #e1f2fa;
-  --border-color: #e8e8e8;
-  --shadow-color: rgba(0, 0, 0, 0.3);
-  --text-color: #110;
-  --bg-color: #fafaff; }
+  --main-colour: #1572b6;
+  --secondary-colour: #33a9dc;
+  --highlight-colour: #e1f2fa;
+  --border-colour: #e8e8e8;
+  --shadow-colour: rgba(0, 0, 0, 0.3);
+  --text-colour: #110;
+  --bg-colour: #fafaff; }
 
 html {
   -webkit-box-sizing: border-box;

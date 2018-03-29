@@ -7,24 +7,6 @@ event-date: 2018-03-28 19:00:00 +0800
 categories: meetup
 event-id: 248280037
 meetup: 26
-novideos: true
 news: March 2018
 ---
-So after two years of anyhowly-ing (this word just keeps getting longer, doesn't it?), we seem to have settled on a schedule. So Talk.CSS #26 will be happening on Wednesday, 28 March. We'll be hosted by Skyscanner ([here's a map](https://www.google.com/maps/place/Skyscanner/@1.279623,103.8473153,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19120a2298ed:0x2e28c78249b215f0!8m2!3d1.279623!4d103.849504) so you don't get lost) in the conference room, Kotoku-In, on the 7th floor.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Faux sub-grid** by **Zell Liew**  
-Here at SingaporeCSS, we really like CSS grid. But CSS grid is still a work in progress, and one of the things on our wishlist is the ability to have subgrids. While that's being worked on, Zell has come up with a stop-gap implementation for subgrid.
-
-**How to use atomic CSS and sleep at night** by **Sheldon Cheng**  
-Atomic CSS is growing in popularity and has found fans and detractors alike. Sheldon shares how he went from not loving it to appreciating its usefulness, and incorporating part of it into his workflow.
-
-**Frontend development for distributed teams** by **Ardy Dedase**  
-Frontend development occurs in companies of all sizes, from one-man startups to huge corporations. This may be an overgeneralisation, but the more people are involved the more complex things become. Ever wondered how frontend development happens when there are more the 400 engineers involved? Ardy shares with us how things work at Skyscanner.
-
-**The CSS doctor is in**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+We had quite a crowd this time around, but Skyscanner's conference room was more than capapble of handling said crowd. We want to thank [Ardy](https://twitter.com/wickedmanok) for helping us out with hosting, as well as his great talk. As well as [Michael](https://twitter.com/coderkungfu), who showed up in person to video us this month. 

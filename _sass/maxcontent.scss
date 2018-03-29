@@ -11,12 +11,12 @@
     margin-bottom: 0.125em;
 
     a {
-      color: map-get($colors,main);
+      color: map-get($colours, main);
       color: color(main);
       transition: transform 0.2s ease-out;
 
       &:hover {
-        display:block;
+        display: block;
         transform: rotate(5deg);
       }
     }
@@ -81,7 +81,7 @@
   table {
     width: 100%;
     border-spacing: 0;
-    border-top: 2px solid map-get($colors, border);
+    border-top: 2px solid map-get($colours, border);
     border-top: 2px solid color(border);
     margin-bottom: 2em;
 
@@ -94,7 +94,7 @@
   td {
     vertical-align: top;
     padding: 0.75em;
-    border-bottom: 2px solid map-get($colors, border);
+    border-bottom: 2px solid map-get($colours, border);
     border-bottom: 2px solid color(border);
   }
 
@@ -141,7 +141,7 @@
 
   @include mappy-bp(max small) {
     tr:nth-child(2n) {
-      background-color: map-get($colors, highlight);
+      background-color: map-get($colours, highlight);
       background-color: color(highlight);
     }
 
@@ -201,9 +201,9 @@
     margin: 1.5em 0;
     
     a {
-      background-color: map-get($colors, main);
+      background-color: map-get($colours, main);
       background-color: color(main);
-      color: map-get($colors, bg);
+      color: map-get($colours, bg);
       color: color(bg);
       transition: box-shadow 0.3s ease-out;
       transform: perspective(1px) translateZ(0);

@@ -16,7 +16,7 @@
   margin-right: auto;
 }
 
-@mixin z-index($layer, $position:relative) {
+@mixin z-index($layer, $position: relative) {
   position: $position;
   z-index: layer-index($layer);
 }
@@ -60,8 +60,8 @@
 }
 
 // Functions
-@function color($color-name) {
-  @return var(--#{$color-name}-color, map-get($colors, $color-name));
+@function color($colour-name) {
+  @return var(--#{$colour-name}-color, map-get($colours, $colour-name));
 }
 
 @function layer-index($layer) {

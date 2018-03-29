@@ -363,3 +363,21 @@ s2502:
   link: "https://youtu.be/0Laanmn3zWc"
   shortcode: "s2502"
   description: "Shirlaine and Gloria share their experience of learning and using CSS grid. Video from <a href='http://juniordev.sg/'>JuniorDev.SG</a>."
+
+s2601:
+  title: "Frontend development for distributed teams"
+  link: "https://youtu.be/xj-MbcBfu6Y"
+  shortcode: "s2601"
+  description: "Ardy shares how frontend development is done at Skyscanner, with a distributed team of more than 400 engineers."
+
+s2602:
+  title: "Faux sub-grid"
+  link: "https://youtu.be/ChnITWfUfFU"
+  shortcode: "s2602"
+  description: "Using CSS grid but sad that subgrid isn't here yet? Zell has open-sourced his Sass-powered workaround."
+
+s2603:
+  title: "How to use atomic CSS and sleep at night"
+  link: "https://youtu.be/Mrp5-oYy46M"
+  shortcode: "s2603"
+  description: "Sheldon presents a measured evaluation on the pros and cons of atomic CSS."
