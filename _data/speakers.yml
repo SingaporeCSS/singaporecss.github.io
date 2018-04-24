@@ -19,7 +19,7 @@ chris:
   name: "Chris Lienert"
   twitter: "cliener"
   shortcode: "chris"
-  bio: "Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway. After too many years in the industry, he's doing good things at ConneXionsAsia."
+  bio: "Chris apparently has the wrong qualifications and shouldn't be here. No one told him though, and despite not wanting to work with computers, he became a web developer anyway."
 
 hongkheng:
   name: "Yap Hong Kheng"
@@ -188,3 +188,8 @@ sheldon:
   twitter: "sheldytox"
   shortcode: "sheldon"
   bio: "Sheldon used to dabble in UX and design before finding his calling in frontend development."
+
+niharika:
+  name: "Niharika Chaturvedi"
+  shortcode: "niharika"
+  bio: "Niharika is still writing her one-liner. Maybe."

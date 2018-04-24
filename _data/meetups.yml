@@ -286,3 +286,8 @@
     - ref: zell
     - ref: sheldon
     - ref: ardy
+
+27:
+  speakers:
+    - ref: chris
+    - ref: niharika

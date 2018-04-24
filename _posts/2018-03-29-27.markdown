@@ -15,6 +15,12 @@ Oh my, aren't we being efficient this month? Talk.CSS #27 will be happening on W
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
+**How to get hired** by **Niharika Chaturvedi & Chris Lienert**  
+Looking for a job can be a difficult process and we’re often left to guess what worked and what didn’t. With the help of guest Niharika Chaturvedi from Olofsson & Company, we’ll talk about what makes the difference between getting hired and not.
+
+**CSS Selectors FTW** by **Chris Lienert**  
+Knowing CSS selectors can make a huge difference in code efficiency. This talk will go through some of the less used selectors and make your life better.
+
 **The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
