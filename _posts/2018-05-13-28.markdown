@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Talk.CSS #28"
+date: 2018-05-13 19:00:00 +0800
+location: WeWork Beach Centre
+event-date: 2018-05-30 19:00:00 +0800
+categories: meetup
+event-id: 248393588
+meetup: 28
+novideos: true
+news: May 2018
+---
+How long with this spate of efficiency last? We have a location already? Unbelievable. Talk.CSS #28 will be happening on Wednesday, 30 May. We'll be hosted by [WeWork Beach Centre](https://www.wework.com/buildings/beach-centre--singapore), here's [a map](https://www.google.com/maps/dir//15+Beach+Rd,+WeWork+Beach+Centre,+Singapore+189677/@1.2958737,103.8533462,17z/data=!4m16!1m6!3m5!1s0x31da19a59cfc8f55:0x9ea50cd7a3ccd504!2sWeWork+Beach+Centre!8m2!3d1.2958683!4d103.8555349!4m8!1m0!1m5!1m1!1s0x31da19a59cfc8f55:0x9ea50cd7a3ccd504!2m2!1d103.8555349!2d1.2958683!3e2) so you don't get lost. Now, we just need a couple of speakers...
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**The CSS doctor is in**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+
+Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
