@@ -381,3 +381,15 @@ s2603:
   link: "https://youtu.be/Mrp5-oYy46M"
   shortcode: "s2603"
   description: "Sheldon presents a measured evaluation on the pros and cons of atomic CSS."
+
+s2701:
+  title: "How to get hired"
+  link: "https://singaporecss.github.io/specials/s2701.html"
+  shortcode: "s2701"
+  description: "A wonderful conversation between Niharika Chaturvedi and Chris on what recruiters are looking for in the hiring process."
+
+s2702:
+  title: "CSS Selectors FTW"
+  link: "https://youtu.be/ChnITWfUfFU"
+  shortcode: "s2702"
+  description: "Chris goes through the crucial basics of CSS, selectors. Also, attempting to set the record for most cats per minute in a presentation."

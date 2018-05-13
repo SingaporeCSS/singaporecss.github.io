@@ -1,0 +1,128 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>s2701 - How to get hired</title>
+  <meta name="description" content="Brief recap of fireside chat between Chris and Niharika, a professional recruiter, on what companies look for during the hiring process">
+  <meta name="author" content="Chen Hui Jing">
+
+  <style>
+    @font-face {
+      font-family: 'iA Writer Duospace';
+      src: url("../fonts/iawriterduospace-regular.woff2") format("woff2"), url("../fonts/iawriterduospace-regular.woff") format("woff");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: 'iA Writer Duospace';
+      src: url("../fonts/iawriterduospace-bold.woff2") format("woff2"), url("../fonts/iawriterduospace-bold.woff") format("woff");
+      font-weight: bold;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: 'iA Writer Duospace';
+      src: url("../fonts/iawriterduospace-regularitalic.woff2") format("woff2"), url("../fonts/iawriterduospace-regularitalic.woff") format("woff");
+      font-weight: normal;
+      font-style: italic;
+    }
+
+    html {
+      height: 100%;
+    }
+
+    body {
+      font-family: "iA Writer Duospace", Courier, monospace;
+      height: 100%;
+    }
+
+    main {
+      text-align: center;
+      height: 100%;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    @supports (display:grid) {
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      main {
+        display: grid;
+        grid-gap: 1em;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "title title"
+                             "photo photo"
+                             "quote1 quote1"
+                             "quote2 quote2"
+                             "quote3 quote3";
+      }
+
+      h1 { grid-area: title }
+      img { grid-area: photo }
+      .quote1 { grid-area: quote1 }
+      .quote2 { grid-area: quote2 }
+      .quote3 { grid-area: quote3 }
+
+      @media screen and (min-aspect-ratio: 1 / 1) {
+        main {
+          grid-gap: 1em;
+          grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+          grid-template-rows: min-content 1fr 1fr;
+          grid-template-areas: "photo photo photo title title title"
+                               "photo photo photo quote1 quote1 ."
+                               "quote2 quote2 quote2 . . ."
+                               ". . quote3 quote3 quote3 quote3";
+        }
+
+        h1 {
+          font-size: calc(1em + 3.5vw);
+          text-align: right;
+          margin: 0.25em 0.25em 0 0;
+        }
+
+        .quote1 {
+          font-size: calc(1em + 0.7vw);
+          align-self: center;
+        }
+
+        .quote2 {
+          align-self: center;
+          font-size: calc(1em + 1.1vw);
+          margin-left: 0.5em;
+        }
+
+        .quote3 {
+          align-self: end;
+          font-size: calc(1em + 0.3vw);
+          margin-bottom: 1em;
+        }
+      }
+    }
+  </style>
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <main>
+    <h1>How to get <span>hired</span></h1>
+    <img src="https://pbs.twimg.com/media/DboFXZeU8AEVenv.jpg:large" alt="Chris and Niharika">
+    <blockquote class="quote1">“LinkedIn is more than just a job portal, use it as an avenue for networking and reaching out, as well as a way to share knowledge.”</blockquote>
+    <blockquote class="quote2">“Nowadays people are looking to move on from their current roles for growth and development rather than just a salary bump.”</blockquote>
+    <blockquote class="quote3">“Be aware of what you want out of your career before going in for interviews, so that you won't find yourself in situations where there is obviously no synergy between yourself and the company in question.”</blockquote>
+  </main>
+</body>
+
+</html>

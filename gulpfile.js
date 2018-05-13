@@ -8,8 +8,8 @@ var uglify      = require('gulp-uglify');
 var cp          = require('child_process');
 
 var messages = {
-    jekyllDev: '<span style="color: grey">Running:</span> $ jekyll build for dev',
-    jekyllProd: '<span style="color: grey">Running:</span> $ jekyll build for prod'
+  jekyllDev: '<span style="color: grey">Running:</span> $ jekyll build for dev',
+  jekyllProd: '<span style="color: grey">Running:</span> $ jekyll build for prod'
 };
 
 /**
@@ -60,7 +60,7 @@ gulp.task('sass', function () {
  */
 gulp.task('watch', function () {
   gulp.watch(['_sass/**/*.scss','_sass/*.scss'], ['sass']);
-  gulp.watch(['index.html', '_layouts/*.html', '_drafts/*', '_posts/*', '_pages/*', '_includes/*.html', '*.md'], ['jekyll-rebuild']);
+  gulp.watch(['index.html', '_layouts/*.html', '_drafts/*', '_posts/*', '_pages/*', '_includes/*.html', '*.md', 'specials/*'], ['jekyll-rebuild']);
 });
 
 

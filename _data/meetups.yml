@@ -288,6 +288,18 @@
     - ref: ardy
 
 27:
+  colour:
+    name: papayawhip
+    hex: "#FFEFD5"
+    rgba: rgba(255,239,213,1)
+  videos:
+    - ref: s2701
+    - ref: s2702
   speakers:
     - ref: chris
     - ref: niharika
+
+28:
+  speakers:
+    - ref: mystery
+    - ref: mystery
