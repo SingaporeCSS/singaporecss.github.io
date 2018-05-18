@@ -15,6 +15,12 @@ How long with this spate of efficiency last? We have a location already? Unbelie
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
+**How to CSS with confidence** by **Ken Chua**  
+CSS getting you down? Anxious about refactoring your codebase because you might break a thousand things? Well, we can't guarantee that won't happen BUT Ken has some tips that might help you sleep better at night.
+
+**Something about CSS architecture** by **Olivia Ng**  
+CSS architecture is a topic that will always be relevant, because despite general best practices, how you architect your code will still vary based on the nature of what you're building. So come hear Olivia's take on it this month.
+
 **The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
