@@ -21,6 +21,9 @@ CSS getting you down? Anxious about refactoring your codebase because you might 
 **Something about CSS architecture** by **Olivia Ng**  
 CSS architecture is a topic that will always be relevant, because despite general best practices, how you architect your code will still vary based on the nature of what you're building. So come hear Olivia's take on it this month.
 
+**How I learned to stop worrying and love CSS** by **Zaydek Michels-Gualtieri**  
+Lightning talk by our special guest, Zaydek on how to make sense of web design.
+
 **The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
