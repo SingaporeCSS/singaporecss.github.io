@@ -393,3 +393,21 @@ s2702:
   link: "javascript:void(0)"
   shortcode: "s2702"
   description: "Chris goes through the crucial basics of CSS, selectors. Also, attempting to set the record for most cats per minute in a presentation. (Slides coming soon)"
+
+s2801:
+  title: "How to CSS with confidence"
+  link: "https://youtu.be/YhPtgRAz_UY"
+  shortcode: "s2801"
+  description: "Ken Chua shares about a nifty tool called Backstop.JS to help with catching CSS bugs. Video from JuniorDev because ours failed."
+
+s2802:
+  title: "Something about CSS architecture"
+  link: "javascript:void(0)"
+  shortcode: "s2802"
+  description: "Pending update...stay tuned"
+
+s2803:
+  title: "How I learned to stop worrying and love CSS"
+  link: "https://hungry-kare-44e7c5.netlify.com/slides"
+  shortcode: "s2803"
+  description: "Zaydek does a lightning talk on his feelings about CSS."

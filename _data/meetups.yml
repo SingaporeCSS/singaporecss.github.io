@@ -300,7 +300,20 @@
     - ref: niharika
 
 28:
+  colour:
+    name: fuchsia
+    hex: "#FF00FF"
+    rgba: rgba(255,0,255,1)
+  videos:
+    - ref: s2801
+    - ref: s2802
+    - ref: s2803
   speakers:
     - ref: ken
     - ref: olivia
     - ref: zaydek
+
+29:
+  speakers:
+    - ref: yishu
+    - ref: mystery
