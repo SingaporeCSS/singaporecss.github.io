@@ -401,10 +401,10 @@ s2801:
   description: "Ken Chua shares about a nifty tool called Backstop.JS to help with catching CSS bugs. Video from JuniorDev because ours failed."
 
 s2802:
-  title: "Something about CSS architecture"
-  link: "javascript:void(0)"
+  title: "Taking the First Step to Building Scalable CSS"
+  link: "https://docs.google.com/presentation/d/1W4kyZ_ziqoKBD8trWnnA0HK9Y1s0HL3farJJ60lR-Bk/edit#slide=id.g3b8a6cbb3f_0_247"
   shortcode: "s2802"
-  description: "Pending update...stay tuned"
+  description: "What happens when you come to the stunning realisation that your CSS is untenable? Olivia provides some helpful tips to guide your CSS awakening."
 
 s2803:
   title: "How I learned to stop worrying and love CSS"
