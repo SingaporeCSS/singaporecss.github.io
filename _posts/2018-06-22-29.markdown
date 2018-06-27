@@ -15,10 +15,11 @@ And we're on a roll. Location for June was booked months ago! Talk.CSS #29 will 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**Something related to CSS** by **See Yishu**  
-Yishu is coming up with a snazzy talk description as you're reading this right now, stay tuned...
+**Modern tooling for taming HTML emails** by **Benjamin Richardson**  
+Coding up HTML emails is often cumbersome, full of trial and error, and sometimes leaves you with a few new grey hairs. In this talk we'll be looking at for coding responsive, and compliant HTML emails, all with a simple markdown language.
 
-*More speakers to come*
+**Wait, we can animate SVG?** by **See Yishu**  
+Because of a hackathon, Yishu tried animating inline SVGs for the first time. Things didn’t go as smoothly as her team thought, but oh my gawd, so much fun.
 
 **The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
