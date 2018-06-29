@@ -326,3 +326,9 @@
     - ref: ben
     - ref: yishu
     - ref: chris
+
+30:
+  speakers:
+    - ref: jacob
+    - ref: sophie
+    - ref: zell
