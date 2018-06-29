@@ -314,6 +314,15 @@
     - ref: zaydek
 
 29:
+  colour:
+    name: lightsteelblue
+    hex: "#B0C4DE"
+    rgba: rgba(176,196,222,1)
+  videos:
+    - ref: s2901
+    - ref: s2902
+    - ref: s2903
   speakers:
+    - ref: ben
     - ref: yishu
-    - ref: mystery
+    - ref: chris

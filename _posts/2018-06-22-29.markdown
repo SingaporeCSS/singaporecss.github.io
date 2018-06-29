@@ -7,20 +7,6 @@ event-date: 2018-06-28 19:00:00 +0800
 categories: meetup
 event-id: 249447875
 meetup: 29
-novideos: true
 news: June 2018
 ---
-And we're on a roll. Location for June was booked months ago! Talk.CSS #29 will be happening on Thursday, 28 June (sorry, Wednesday was taken). We'll be hosted by Carousell, here's a [map](https://www.google.com/maps/place/Carousell+HQ/@1.2744488,103.8428422,15z/data=!4m2!3m1!1s0x0:0xddd637959917d907?sa=X&ved=0ahUKEwjO-dbCzubbAhXLbSsKHRHiDr0Q_BIIoQEwCg) so you don't get lost. Let's hope our speakers show up as planned.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Something related to CSS** by **See Yishu**  
-Yishu is coming up with a snazzy talk description as you're reading this right now, stay tuned...
-
-*More speakers to come*
-
-**The CSS doctor is in**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+This month was one of our less anyhowly months, with proper speakers and all! Our lovely hosts, Carousell, also sponsored healthy food, which is a nice change from the pizza everyone keeps eating at tech meetups in general. Our video recordings did NOT fail this time, so maybe we've broken the curse...for now.

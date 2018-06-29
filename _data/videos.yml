@@ -411,3 +411,21 @@ s2803:
   link: "https://hungry-kare-44e7c5.netlify.com/slides"
   shortcode: "s2803"
   description: "Zaydek does a lightning talk on his feelings about CSS."
+
+s2901:
+  title: "Modern tooling for taming HTML emails"
+  link: "https://youtu.be/_S_h5mmGcis"
+  shortcode: "s2901"
+  description: "Ben provides extremely useful advice on handling HTML emails and a live demonstration of MJML to boot."
+
+s2902:
+  title: "Wait, we can animate SVG?"
+  link: "https://youtu.be/wc7c1qMT8MQ"
+  shortcode: "s2902"
+  description: "Yishu and her team explore the wonderful world of animating SVG in their recent hackathon. Cute owl ensues."
+
+s2903:
+  title: "Bad inheritance"
+  link: "https://youtu.be/mLGLkXQUoRw"
+  shortcode: "s2903"
+  description: "Chris shares valuable experience and tips on keeping your sanity for developers joining a project/team that hasn't been able to utilise many best practices prior."
