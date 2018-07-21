@@ -19,8 +19,10 @@ Even if you just have an inkling of an idea, do get in touch with Chris or Hui J
       <img class="c-speaker__img" src="{{ site.url }}/assets/img/speakers/{{ speaker[1].shortcode }}.jpg" srcset="{{ site.url }}/assets/img/speakers/{{ speaker[1].shortcode }}@2x.jpg 2x" alt="{{ speaker[0].name }}"/>
       {% if speaker[1].twitter %}
       <figcaption><a class="c-speaker__link" href="https://twitter.com/{{ speaker[1].twitter }}">@{{ speaker[1].twitter }}</a></figcaption>
-      {% else %}
+      {% elsif speaker[1].github %}
       <figcaption><a class="c-speaker__link" href="https://github.com/{{ speaker[1].github }}">@{{ speaker[1].github }}</a></figcaption>
+      {% else %}
+      <figcaption><span class="c-speaker__link">@{{ speaker[1].shortcode }}</span></figcaption>
       {% endif %}
     </figure>
     <p class="c-speaker__intro">{{ speaker[1].bio }}</p>
