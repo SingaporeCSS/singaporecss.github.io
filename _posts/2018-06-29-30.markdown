@@ -2,7 +2,7 @@
 layout: post
 title: "Talk.CSS #30"
 date: 2018-06-29 19:00:00 +0800
-location: Rakuten Viki Singapore
+location: SP Digital
 event-date: 2018-07-25 19:00:00 +0800
 categories: meetup
 event-id: 252019251
@@ -10,7 +10,7 @@ meetup: 30
 novideos: true
 news: July 2018
 ---
-Guess what? We have BOTH venue and speakers for Talk.CSS #30, which will be happening on Wednesday, 25 July. Our gracious hosts this month are Rakuten Viki (they're at Capita Green), here's a [map](https://www.google.com/maps/place/138+Market+St,+32/@1.2818159,103.8496225,17.98z/data=!4m5!3m4!1s0x31da190dd3c99bc3:0x563dce2e69c5a441!8m2!3d1.2818026!4d103.8501248) so you don't get lost. Let's hope our speakers show up as planned.
+Guess what? We have BOTH venue and speakers for Talk.CSS #30, which will be happening on Wednesday, 25 July. Our gracious hosts this month are [SP Digital](https://blog.spdigital.io/), here's a [map](https://www.google.com/maps/place/SP+Digital+HQ/@1.2744059,103.840692,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196c854930f9:0x3313dea2c34ebde7!8m2!3d1.2744005!4d103.8428807) so you don't get lost. If you showed up last month, it's the same building, different floor. Let's hope our speakers show up as planned.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
@@ -19,9 +19,10 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 
 **Something related to CSS** by **Sophie Yang**
 
-**Something related to CSS** by **Zell Liew**
+**Responsive Vertical Rhythm with CSS Custom Properties and CSS Calc** by **Zell Liew**  
+Singapore's premier front-end guru is back at Talk.CSS! This time to share with us his knowledge of CSS custom properties for doing responsive vertical rhythm on the web.
 
-*Talk descriptions coming soon!*
+*More talk descriptions coming soon!*
 
 **The CSS doctor is in**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
