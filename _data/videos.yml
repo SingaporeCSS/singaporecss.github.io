@@ -429,3 +429,21 @@ s2903:
   link: "https://youtu.be/mLGLkXQUoRw"
   shortcode: "s2903"
   description: "Chris shares valuable experience and tips on keeping your sanity for developers joining a project/team that hasn't been able to utilise many best practices prior."
+
+s3001:
+  title: "Frontend development is hard"
+  link: "https://youtu.be/fvXoF7NjlxY"
+  shortcode: "s3001"
+  description: "Jacob makes an excellent case of why frontend development, often perceived as ‘less-than‘, is actually way more challenging than non-FEDs think."
+
+s3002:
+  title: "Frontend dependency tracing for HTTP/2 server push"
+  link: "https://youtu.be/Z3whDNk6qeY"
+  shortcode: "s3002"
+  description: "A fantastic introduction to HTTP/2 server push by Sophie, and she built a super cool tool to write dependencies into the resource manifest for you."
+
+s3003:
+  title: "Responsive vertical rhythm with CSS Custom Properties and calc()"
+  link: "https://youtu.be/RGV0V178xY0"
+  shortcode: "s3003"
+  description: "Zell is back! This time to explain how CSS Custom Properties AKA CSS variables can be utilised with calc() to build a better typography system for your projects."

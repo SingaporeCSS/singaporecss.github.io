@@ -7,24 +7,6 @@ event-date: 2018-07-25 19:00:00 +0800
 categories: meetup
 event-id: 252019251
 meetup: 30
-novideos: true
 news: July 2018
 ---
-Guess what? We have BOTH venue and speakers for Talk.CSS #30, which will be happening on Wednesday, 25 July. Our gracious hosts this month are [SP Digital](https://blog.spdigital.io/), here's a [map](https://www.google.com/maps/place/SP+Digital+HQ/@1.2744059,103.840692,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196c854930f9:0x3313dea2c34ebde7!8m2!3d1.2744005!4d103.8428807) so you don't get lost. If you showed up last month, it's the same building, different floor. Let's hope our speakers show up as planned.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Something related to CSS** by **Jacob Tan**  
-*Talk description coming soon!*
-
-**Frontend Dependency Tracing for HTTP/2 Server Push** by **Sophie Yang**  
-Sophie built a tool for faster static web loading. This tool parses through HTML, CSS, and Javascript files and writes detected dependencies in a resource manifest. This resource manifest help us to benefit from new exciting technology called HTTP/2 Server Push. She will share the tools she used and the concepts (i.e. Abstract Syntax Tree) she learned from this journey. 
-
-**Responsive Vertical Rhythm with CSS Custom Properties and CSS Calc** by **Zell Liew**  
-Singapore's premier front-end guru is back at Talk.CSS! This time to share with us his knowledge of CSS custom properties for doing responsive vertical rhythm on the web.
-
-**The CSS doctor is in**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+Our big three-O, and I'm really glad that we finally got Jacob, who has been doing excellent work, writing really interesting articles, to give his first talk. More to come! Also, glad to have Sophie come in and talk a bit about HTTP/2 server push, because we need more talks about the network side of things. And of course, we're always happy to have Zell, who has been with us since Day 1, to share his vast knowledge.

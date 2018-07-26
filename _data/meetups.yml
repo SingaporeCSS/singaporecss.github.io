@@ -328,7 +328,21 @@
     - ref: chris
 
 30:
+  colour:
+    name: aquamarine
+    hex: "#7FFFD4"
+    rgba: rgba(127,255,212,1)
+  videos:
+    - ref: s3001
+    - ref: s3002
+    - ref: s3003
   speakers:
     - ref: jacob
     - ref: sophie
     - ref: zell
+
+31:
+  speakers:
+    - ref: mystery
+    - ref: mystery
+    - ref: mystery

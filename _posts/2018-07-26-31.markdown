@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Talk.CSS #31"
+date: 2018-07-26 19:00:00 +0800
+location: TBC
+event-date: 2018-08-29 19:00:00 +0800
+categories: meetup
+event-id: 253149238
+meetup: 31
+novideos: true
+---
+Talk.CSS has made it past 30 meetups, it's a little hard to believe our anyhowly ways could sustain us for this long. Let's keep it going. Talk.CSS #31 will be happening on Wednesday, 29 Aug. We're currently searching for venues and speakers (what's new?) Stay tuned for updates!
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**The CSS doctor is in**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+
+Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
