@@ -2,14 +2,14 @@
 layout: post
 title: "Talk.CSS #31"
 date: 2018-07-26 19:00:00 +0800
-location: TBC
+location: HackspaceSG
 event-date: 2018-08-29 19:00:00 +0800
 categories: meetup
 event-id: 253149238
 meetup: 31
 novideos: true
 ---
-Talk.CSS has made it past 30 meetups, it's a little hard to believe our anyhowly ways could sustain us for this long. Let's keep it going. Talk.CSS #31 will be happening on Wednesday, 29 Aug, at [Hackerspace](https://hackerspace.sg/). Here's a [map](https://www.google.com/maps/place/HackerspaceSG/@1.3103984,103.8602843,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19c97c42f525:0x26d1643c9443eec1!8m2!3d1.310393!4d103.862473) so you don't get lost. We're currently searching for speakers (what's new?) Stay tuned for updates!
+Talk.CSS has made it past 30 meetups, it's a little hard to believe our anyhowly ways could sustain us for this long. Let's keep it going. Talk.CSS #31 will be happening on Wednesday, 29 Aug, at [HackerspaceSG](https://hackerspace.sg/). Here's a [map](https://www.google.com/maps/place/HackerspaceSG/@1.3103984,103.8602843,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19c97c42f525:0x26d1643c9443eec1!8m2!3d1.310393!4d103.862473) so you don't get lost. We're currently searching for speakers (what's new?) Stay tuned for updates!
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
