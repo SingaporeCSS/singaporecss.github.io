@@ -343,6 +343,6 @@
 
 31:
   speakers:
-    - ref: mystery
-    - ref: mystery
-    - ref: mystery
+    - ref: william
+    - ref: chris
+    - ref: sarah
