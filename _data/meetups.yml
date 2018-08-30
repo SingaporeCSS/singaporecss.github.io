@@ -342,7 +342,20 @@
     - ref: zell
 
 31:
+  colour:
+    name: peru
+    hex: "#CD853F"
+    rgba: rgba(205,133,63,1)
+  videos:
+    - ref: s3101
+    - ref: s3102
   speakers:
     - ref: william
     - ref: chris
     - ref: sarah
+
+32:
+  speakers:
+    - ref: thomas
+    - ref: mystery
+    - ref: mystery

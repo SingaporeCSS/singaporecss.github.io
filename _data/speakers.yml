@@ -159,6 +159,24 @@ seb:
   shortcode: "seb"
   bio: "Seb is a frontend fanatic hailing from Belgium. When he’s not busy coding, you can find him cultivating the local developer community and regularly speaks at SingaporeJS events."
 
+john:
+  name: "John Allsopp"
+  twitter: "johnallsopp"
+  shortcode: "john"
+  bio: "John Allsopp is director of Web Directions and author of the seminal article, <a href='https://alistapart.com/article/dao'>A Dao of Web Design</a>. John has a background in computer science and mathematics. He has developed software and written books, courses, tutorials, and articles for web designers and developers. He also speaks not infrequently on all things web in Australia and around the world."
+
+andy:
+  name: "Andy Clarke"
+  twitter: "Malarkey"
+  shortcode: "andy"
+  bio: "Andy Clarke is one of the best known web designers because of his design work and contributions to the web design industry. He’s given more than sixty presentations at conferences all over the world. As well as numerous articles in web design publications, he’s written three books on website design and development including Transcending CSS and Hardboiled Web Design. In 2017 he relocated from the UK to Sydney to head the design team at Ansarada."
+
+mandy:
+  name: "Mandy Michael"
+  twitter: "mandy_kerr"
+  shortcode: "mandy"
+  bio: "Mandy is the Front End Development Manager at Seven West Media in Western Australia. Previously, she has worked as Head of Front End Development at The Brand Agency and also as a Digital Project Manager. She is a lover of CSS and Batman and blogs about her adventures in geek fashion."
+
 ed:
   name: "Eddie Moore"
   twitter: "_edmoore"

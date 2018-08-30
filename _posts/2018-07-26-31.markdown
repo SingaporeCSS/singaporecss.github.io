@@ -7,20 +7,5 @@ event-date: 2018-08-29 19:00:00 +0800
 categories: meetup
 event-id: 253149238
 meetup: 31
-novideos: true
 ---
-Talk.CSS has made it past 30 meetups, it's a little hard to believe our anyhowly ways could sustain us for this long. Let's keep it going. Talk.CSS #31 will be happening on Wednesday, 29 Aug, at [HackerspaceSG](https://hackerspace.sg/). Here's a [map](https://www.google.com/maps/place/HackerspaceSG/@1.3103984,103.8602843,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19c97c42f525:0x26d1643c9443eec1!8m2!3d1.310393!4d103.862473) so you don't get lost. We're currently searching for speakers (what's new?) Stay tuned for updates!
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Scroll Bouncing On Your Websites** by **William Lim**  
-Have you ever scrolled a website on your phone so enthusiastically that it bounced when it hit the bottom? Sometimes, this bouncing results in a less than pleasing aesthetic effect. William shares his techniques for dealing with this overscroll bouncing issue.
-
-**Learning Difficulties and Design** by **The Lienerts**  
-More than 1 in 20 people experience difficulty with reading and learning and those difficulties don’t just end at school. We’ll go through some common learning difficulties including dyslexia and discuss what impact they have on designing for the web.
-
-**The CSS doctor is in**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+It's always fun to be hosted by [Hackerspace](https://hackerspace.sg/). I was super excited to finally have Sarah here as a speaker. If you've been with us since the early days, you may have enjoyed some delicious baked goods from time to time out of her oven. Elijah (AKA mini Chris) also made a guest appearance! Talk.CSS alum, William, also came back to share his months of hard work and research on scroll-bouncing. Check out his [Smashing Magazine article](https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/) too.

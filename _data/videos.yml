@@ -447,3 +447,15 @@ s3003:
   link: "https://youtu.be/RGV0V178xY0"
   shortcode: "s3003"
   description: "Zell is back! This time to explain how CSS Custom Properties AKA CSS variables can be utilised with calc() to build a better typography system for your projects."
+
+s3101:
+  title: "Learning Difficulties and Design"
+  link: "https://youtu.be/6x1fogtrsKI?t=700"
+  shortcode: "s3101"
+  description: "A very meaningful and informative talk on learning disabilities and how the design decisions we make can help or hinder our users."
+
+s3102:
+  title: "Scroll Bouncing On Your Websites"
+  link: "https://youtu.be/6x1fogtrsKI?t=2370"
+  shortcode: "s3102"
+  description: "William shares his results of the months of research he did to prevent scroll-bouncing on his app, plus some interesting discussions after."
