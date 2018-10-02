@@ -355,7 +355,18 @@
     - ref: sarah
 
 32:
+  colour:
+    name: olivedrab
+    hex: "#6B8E23"
+    rgba: rgba(107,142,35,1)
+  videos:
+    - ref: s3201
+    - ref: s3202
   speakers:
     - ref: thomas
+    - ref: chris
+
+33:
+  speakers:
     - ref: zell
     - ref: mystery

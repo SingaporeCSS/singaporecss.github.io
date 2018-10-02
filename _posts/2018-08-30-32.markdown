@@ -7,22 +7,5 @@ event-date: 2018-09-26 19:00:00 +0800
 categories: meetup
 event-id: 254227719
 meetup: 32
-novideos: true
 ---
-As you may have noticed over the past year, Talk.CSS has settled on a rather regular schedule of being on the last Wednesday of every month. September is no different. We'll be happening on Wed, 26 September at Carousell! Here's [a map](https://www.google.com/maps/place/Carousell+HQ/@1.2744542,103.8406535,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196b6f68580d:0xddd637959917d907!8m2!3d1.2744488!4d103.8428422) so you don't get lost.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**CSS transforms and an awesome PWA** by **Thomas Gorissen**  
-Actual title is TBC, but content is accurate. There will be CSS transforms, and an awesome PWA. Curious? Come find out!
-
-**`:empty` and `:blank`** by **Zell Liew**  
-Did you know these 2 pseudo-selectors existed? Do you even know what a pseudo-selector is? Maybe you do, maybe you don't, it doesn't matter! Zell will explain it all.
-
-*More speakers TBC. I hope it's you!*
-
-**The CSS doctor is in**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+We were hosted by Carousell again this month. It was a code-heavy session with Thomas on CSS transforms for PWAs and a short talk by Chris on scalable CSS. Unfortunately, there was no video for this session. Fingers crossed for next month.

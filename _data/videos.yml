@@ -459,3 +459,15 @@ s3102:
   link: "https://youtu.be/6x1fogtrsKI?t=2370"
   shortcode: "s3102"
   description: "William shares his results of the months of research he did to prevent scroll-bouncing on his app, plus some interesting discussions after."
+
+s3201:
+  title: "CSS transforms for PWAs"
+  link: "https://twitter.com/SingaporeCSS/status/1044916693309378561"
+  shortcode: "s3201"
+  description: "A demonstration of how CSS transforms can make the user experience on a PWA feel just like a native app, unfortunately, all we have is a tweet."
+
+s3202:
+  title: "Scalable CSS ingredients"
+  link: "https://www.heartinternet.uk/blog/scalable-css-top-tips-for-writing-and-maintaining-css-for-scale/"
+  shortcode: "s3202"
+  description: "Chris talks about his article on writing maintanable CSS at scale."

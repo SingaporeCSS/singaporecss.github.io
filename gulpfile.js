@@ -4,7 +4,6 @@ var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cssnano     = require('gulp-cssnano');
 var concat      = require('gulp-concat');
-var uglify      = require('gulp-uglify');
 var cp          = require('child_process');
 
 var messages = {
