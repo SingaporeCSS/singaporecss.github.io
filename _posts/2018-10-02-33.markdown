@@ -2,14 +2,14 @@
 layout: post
 title: "Talk.CSS #33"
 date: 2018-10-02 19:00:00 +0800
-location: TBC
+location: WeWork 71 Robinson
 event-date: 2018-10-31 19:00:00 +0800
 categories: meetup
 event-id: 255190512
 meetup: 33
 novideos: true
 ---
-It's October, and the last day of the month happens to be a Wednesday. You know what that means? Talk.CSS on Halloween! So either you'll be out at a party, or you can come nerd out on CSS with us! <span class="o-emoji" role="img" tabindex="0" aria-label="jack-o-lantern">&#x1F383;</span> Hui Jing and Chris are hard at work canvassing for speaker and venue, so stay tuned…
+It's October, and the last day of the month happens to be a Wednesday at WeWork 71 Robinson, here's [a map](https://www.google.com/maps/place/WeWork+71+Robinson/@1.2785389,103.8488535,15z/data=!4m2!3m1!1s0x0:0x8fe13f3e475845a0?sa=X&ved=2ahUKEwiI3cj-oe7dAhUD1lkKHbrVAfMQ_BIwDnoECAsQCw) so you don't get lost. You know what that means? Talk.CSS on Halloween! So either you'll be out at a party, or you can come nerd out on CSS with us! <span class="o-emoji" role="img" tabindex="0" aria-label="jack-o-lantern">&#x1F383;</span> Hui Jing and Chris are hard at work canvassing for speakers, so stay tuned…
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
