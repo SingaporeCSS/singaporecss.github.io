@@ -366,6 +366,7 @@ figure img {
   font-size: 1.294rem;
   display: inline-block;
   vertical-align: middle;
+  line-height: 0;
   font-family: 'Apple Color Emoji', 'Segoe UI Emoji'; }
   @media all and (min-width: 80em) {
     .o-emoji {

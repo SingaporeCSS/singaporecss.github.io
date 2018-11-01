@@ -471,3 +471,15 @@ s3202:
   link: "https://www.heartinternet.uk/blog/scalable-css-top-tips-for-writing-and-maintaining-css-for-scale/"
   shortcode: "s3202"
   description: "Chris talks about his article on writing maintanable CSS at scale."
+
+s3301:
+  title: "Foundation for Emails"
+  link: "https://youtu.be/44nh8ydgjXI"
+  shortcode: "s3301"
+  description: "James delivered a full course on creating responsive HTML emails with Foundation."
+
+s3302:
+  title: ":empty and :blank"
+  link: "https://youtu.be/ZKU_yBfWD0E"
+  shortcode: "s3302"
+  description: "Zell made a case for using the :empty and :blank pseudo-classes in your application."

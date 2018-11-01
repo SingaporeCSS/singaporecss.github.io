@@ -291,7 +291,7 @@
   colour:
     name: papayawhip
     hex: "#FFEFD5"
-    rgba: rgba(255,239,213,1)
+    rgba: rgba(255, 239, 213, 1)
   videos:
     - ref: s2701
     - ref: s2702
@@ -303,7 +303,7 @@
   colour:
     name: fuchsia
     hex: "#FF00FF"
-    rgba: rgba(255,0,255,1)
+    rgba: rgba(255, 0, 255, 1)
   videos:
     - ref: s2801
     - ref: s2802
@@ -317,7 +317,7 @@
   colour:
     name: lightsteelblue
     hex: "#B0C4DE"
-    rgba: rgba(176,196,222,1)
+    rgba: rgba(176, 196, 222, 1)
   videos:
     - ref: s2901
     - ref: s2902
@@ -331,7 +331,7 @@
   colour:
     name: aquamarine
     hex: "#7FFFD4"
-    rgba: rgba(127,255,212,1)
+    rgba: rgba(127, 255, 212, 1)
   videos:
     - ref: s3001
     - ref: s3002
@@ -345,7 +345,7 @@
   colour:
     name: peru
     hex: "#CD853F"
-    rgba: rgba(205,133,63,1)
+    rgba: rgba(205, 133, 63, 1)
   videos:
     - ref: s3101
     - ref: s3102
@@ -358,7 +358,7 @@
   colour:
     name: olivedrab
     hex: "#6B8E23"
-    rgba: rgba(107,142,35,1)
+    rgba: rgba(107, 142, 35, 1)
   videos:
     - ref: s3201
     - ref: s3202
@@ -367,6 +367,18 @@
     - ref: chris
 
 33:
+  colour:
+    name: darkorange
+    hex: "#FF8C00"
+    rgba: rgba(255, 140, 0, 1)
+  videos:
+    - ref: s3301
+    - ref: s3302
   speakers:
     - ref: zell
     - ref: james
+
+34:
+  speakers:
+    - ref: mystery
+    - ref: mystery

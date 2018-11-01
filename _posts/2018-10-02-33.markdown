@@ -7,22 +7,7 @@ event-date: 2018-10-31 19:00:00 +0800
 categories: meetup
 event-id: 255190512
 meetup: 33
-novideos: true
 ---
-It's October, and the last day of the month happens to be a Wednesday at WeWork 71 Robinson, here's [a map](https://www.google.com/maps/place/WeWork+71+Robinson/@1.2785389,103.8488535,15z/data=!4m2!3m1!1s0x0:0x8fe13f3e475845a0?sa=X&ved=2ahUKEwiI3cj-oe7dAhUD1lkKHbrVAfMQ_BIwDnoECAsQCw) so you don't get lost. You know what that means? Talk.CSS on Halloween! So either you'll be out at a party, or you can come nerd out on CSS with us. But nobody said you can't do both! <span class="o-emoji" role="img" tabindex="0" aria-label="jack-o-lantern">&#x1F383;</span>
+The first time Talk.CSS fell on Halloween and we made a marginal effort to add some spookiness to this edition. Marginal. We also announced that Chris would be moving back to Melbourne by the end of the year and were heartened by people volunteering to help out moving forward.
 
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**`:empty` and `:blank`** by **Zell Liew**  
-Did you know these 2 pseudo-selectors existed? Do you even know what a pseudo-selector is? Maybe you do, maybe you don’t, it doesn’t matter! Zell will explain it all.
-
-**Foundation for Emails** by **James Lee**  
-Let James take the pain out of HTML email development by introducing Foundation for Emails, an email framework that provides developers and designers with a set of already tested components out of the box.
-
-More speakers WIP ヾ(＾ᴗ＾)ノ I hope it's you!
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+Turn out was pretty good this evening as well, because clearly, it's more fun to party with us on Halloween, right? Right? Hey, where are you going…?
