@@ -2,7 +2,7 @@
 layout: post
 title: "Talk.CSS #34"
 date: 2018-11-01 19:00:00 +0800
-location: TBC
+location: Carousell
 event-date: 2018-11-28 19:00:00 +0800
 categories: meetup
 event-id: 256024278
