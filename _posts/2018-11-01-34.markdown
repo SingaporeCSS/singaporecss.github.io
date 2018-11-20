@@ -23,6 +23,9 @@ We’ll be going through what we’ll need to know about *CSS animations*, with 
 **Directions of the web** by **Chen Hui Jing**  
 Web content almost always flows from top-to-bottom, left-to-right. Probably due to the fact that computing pioneered in angmoh countries. But there are also many non-angmoh writing systems that flow in other directions. Then how? *Modern CSS* to the rescue lor.
 
+**Mystery topic** by **Mystery speaker**  
+Already say is mystery liao wo, what other description you want? Come for Talk.CSS, and the mystery will be revealed…
+
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
 
