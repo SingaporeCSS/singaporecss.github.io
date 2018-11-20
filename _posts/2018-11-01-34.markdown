@@ -17,8 +17,7 @@ We'd love for you to join us because this is not only our birthday bash <span cl
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
 **Keeping the Animations Alive in the Frontend Frameworks’ Era** by **Lim Sayhao**  
-We used to have PowerPoint Animations, Flash plugins and Java Applets, and they made the web interactive and lively. Those were the days. Now, we have CSS3 transitions and animations. But at the same time, JS frameworks have laid their claws on the DOM, and frontend is now about data, components and (re-)renders. How are we to animate and enliven our sites in this modern age? 
-
+We used to have PowerPoint Animations, Flash plugins and Java Applets, and they made the web interactive and lively. Those were the days. Now, we have CSS3 transitions and animations. But at the same time, JS frameworks have laid their claws on the DOM, and frontend is now about data, components and (re-)renders. How are we to animate and enliven our sites in this modern age?  
 We’ll be going through what we’ll need to know about *CSS animations*, with some running examples. We’ll also go through various ways to run interactive animations successfully in some JS frameworks like Vue, and React.
 
 **Directions of the web** by **Chen Hui Jing**  
