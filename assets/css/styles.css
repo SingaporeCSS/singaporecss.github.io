@@ -55,8 +55,9 @@ h3,
 h4 {
   font-size: inherit; }
 
-strong {
-  font-weight: bold; }
+em {
+  color: #1572b6;
+  color: var(--main-color, #1572b6); }
 
 a,
 button {

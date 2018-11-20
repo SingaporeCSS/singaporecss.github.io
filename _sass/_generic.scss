@@ -32,8 +32,9 @@ h4 {
   font-size: inherit;
 }
 
-strong {
-  font-weight: bold;
+em {
+  color: map-get($colours,main);
+  color: color(main);
 }
 
 a,

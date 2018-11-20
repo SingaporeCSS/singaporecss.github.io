@@ -9,14 +9,20 @@ event-id: 256024278
 meetup: 34
 novideos: true
 ---
-Talk.CSS turns 3! Can you believe we have anyhowly muddled our way for 3 years without missing a meetup? Consistent anyhowly-ness, that's what it is. 
+Talk.CSS turns 3! Can you believe we have anyhowly muddled our way for 3 years without missing a meetup? Consistent anyhowly-ness, that's what it is. Our last meetup for 2018 will be at [Carousell](https://sg.carousell.com/), here's [a map](https://www.google.com/maps/place/Carousell+HQ/@1.2937831,103.835953,13z/data=!4m8!1m2!2m1!1scarousell!3m4!1s0x31da196b6f68580d:0xddd637959917d907!8m2!3d1.2744199!4d103.8427533) so you don't get lost. Big thank you to them once again for hosting us!
 
 We'd love for you to join us because this is not only our birthday bash <span class="o-emoji" role="img" tabindex="0" aria-label="birthday cake">&#x1F382;</span>, but it's also our farewell for Chris, who will be moving back to Melbourne by the end of the year <span class="o-emoji" role="img" tabindex="0" aria-label="loudly crying face">&#x1F62D;</span>. There will be cake <span class="emoji" role="img" tabindex="0" aria-label="shortcake">&#x1F370;</span>. Bring your cat <span class="emoji" role="img" tabindex="0" aria-label="monkey">&#x1F408;</span>.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers WIP ヾ(＾ᴗ＾)ノ I hope it's you!
+**Keeping the Animations Alive in the Frontend Frameworks’ Era** by **Lim Sayhao**  
+We used to have PowerPoint Animations, Flash plugins and Java Applets, and they made the web interactive and lively. Those were the days. Now, we have CSS3 transitions and animations. But at the same time, JS frameworks have laid their claws on the DOM, and frontend is now about data, components and (re-)renders. How are we to animate and enliven our sites in this modern age? 
+
+We’ll be going through what we’ll need to know about *CSS animations*, with some running examples. We’ll also go through various ways to run interactive animations successfully in some JS frameworks like Vue, and React.
+
+**Directions of the web** by **Chen Hui Jing**  
+Web content almost always flows from top-to-bottom, left-to-right. Probably due to the fact that computing pioneered in angmoh countries. But there are also many non-angmoh writing systems that flow in other directions. Then how? *Modern CSS* to the rescue lor.
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
