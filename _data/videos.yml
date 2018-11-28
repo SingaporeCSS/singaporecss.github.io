@@ -483,3 +483,27 @@ s3302:
   link: "https://youtu.be/ZKU_yBfWD0E"
   shortcode: "s3302"
   description: "Zell made a case for using the :empty and :blank pseudo-classes in your application."
+
+s3401:
+  title: "Directions of the web"
+  link: "https://youtu.be/X41YDvcg6rc"
+  shortcode: "s3401"
+  description: "Hui Jing shows how content on the web doesn't necessarily have to flow from top-to-bottom left-to-right all the time, with CSS."
+
+s3402:
+  title: "Keeping the Animations Alive in the Frontend Frameworks' Era"
+  link: "https://youtu.be/PNH3YwL_z7A"
+  shortcode: "s3402"
+  description: "Say Hao demonstrates how CSS animations can add a little flair to your websites, with comparisons between React and Vue."
+
+s3403:
+  title: "The case for generated atomic CSS"
+  link: "https://youtu.be/RE5_wTNSyDM"
+  shortcode: "s3403"
+  description: "An amazing talk by Yishu on the trials and tribulations of code reviews leading to CSS methodologies, and where the title of the talk was revealed last. Must-watch."
+
+s3404:
+  title: "Just go learn grid yourself"
+  link: "https://youtu.be/rx9aIp_FirE"
+  shortcode: "s3404"
+  description: "And for the last time, Chris gives a cheeky presentation about Bootstrap for React. Just kidding."

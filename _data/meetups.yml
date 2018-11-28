@@ -379,7 +379,23 @@
     - ref: james
 
 34:
+  colour:
+    name: midnightblue
+    hex: "#191970"
+    rgba: rgba(25, 25, 112, 1)
+    text: "#fff"
+  videos:
+    - ref: s3401
+    - ref: s3402
+    - ref: s3403
+    - ref: s3404
   speakers:
     - ref: sayhao
     - ref: huijing
+    - ref: yishu
+    - ref: chris
+
+35:
+  speakers:
+    - ref: mystery
     - ref: mystery
