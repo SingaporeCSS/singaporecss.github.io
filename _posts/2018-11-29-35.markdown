@@ -15,7 +15,7 @@ As you can see, we own the last Wednesday of every month slot. Because, consiste
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
 **CSS in JS** by **Dominic Langenegger**  
-CSS in JS is one of those things that can be somewhat polarising, but we at SingaporeCSS want to hear from all perspectives, because there is no one right way to do anything. It's all about the context. Dominic will focus on different ways to integrate and structure CSS with a focus on solutions for CSS in JS together with its potentials and drawbacks over more traditional approaches.
+CSS in JS is one of those things that can be somewhat polarising, but we at SingaporeCSS want to hear from all perspectives, because there is no one right way to do anything. It's all about the context. Dominic will compare different methods of using CSS in your project and review CSS in JS solutions to find out if they can live up to their high expectations or if you are better served sticking to more traditional methods. 
 
 **CSS 3D transforms for beginners** by **Ayaka Sasaki**  
 CSS has come a long way since 1996, from simple margins, paddings and text alignment, to all sorts of wondrous things most of us wouldn't even think possible with CSS alone. 3D transforms may seem daunting and complicated to those unfamiliar with them, but Ayaka will demystify the complexities, and hopefully encourage you to try them out too.
