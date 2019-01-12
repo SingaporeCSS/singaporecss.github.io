@@ -2,14 +2,14 @@
 layout: post
 title: "Talk.CSS #35"
 date: 2018-11-29 19:00:00 +0800
-location: Skyscanner Singapore
+location: SP Digital
 event-date: 2019-01-30 19:00:00 +0800
 categories: meetup
 event-id: 256782322
 meetup: 35
 novideos: true
 ---
-As you can see, we own the last Wednesday of every month slot. Because, consistency. Come start the new year with CSS! We might be hosted by [Skyscanner](https://www.skyscanner.com.sg/) (still confirming the details but odds seem pretty good) so stay tuned for updates.
+As you can see, we own the last Wednesday of every month slot. Because, consistency. Come start the new year with CSS! We will be opening the year with our lovely friends at [SP Digital](https://blog.spdigital.io/), here's [a map](https://www.google.com/maps/place/SP+Digital+HQ/@1.2744005,103.8428807,15z/data=!4m2!3m1!1s0x0:0x3313dea2c34ebde7?ved=2ahUKEwiEmsni-ubfAhXTdCsKHfiDC1QQ_BIwCnoECAEQCA) so you don't get lost.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.

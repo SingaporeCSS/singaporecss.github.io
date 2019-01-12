@@ -15,7 +15,7 @@ layout: default
   <a href="https://www.meetup.com/SingaporeCSS/events/{{ post.event-id }}/" class="c-rsvp"><span>RSVP</span><span>at meetup.com</span></a>
 
   <div class="c-event__content">
-    {{ post.content }}
+    {{ post.content | markdownify }}
   </div>
   {% endunless %}
 
