@@ -507,3 +507,21 @@ s3404:
   link: "https://youtu.be/rx9aIp_FirE"
   shortcode: "s3404"
   description: "And for the last time, Chris gives a cheeky presentation about Bootstrap for React. Just kidding."
+
+s3501:
+  title: "Jan 2019 CSS updates"
+  link: "https://youtu.be/pzmXcI2soPs"
+  shortcode: "s3501"
+  description: "Updates and news in the world of CSS for January 2019. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-35.md'>here</a>."
+
+s3502:
+  title: "CSS in JS"
+  link: "https://youtu.be/qu-6MXFr6BY"
+  shortcode: "s3502"
+  description: "Dominic delivers a well-measured presentation on the case for and against CSS in JS."
+
+s3503:
+  title: "CSS 3D transforms for beginners"
+  link: "https://youtu.be/ochUMHO0Ri0"
+  shortcode: "s3503"
+  description: "Ayaka explains how CSS 3D transforms work and shows that it isn't all that complicated to try it out yourself."

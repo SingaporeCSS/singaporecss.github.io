@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Talk.CSS #36"
+date: 2019-01-31 19:00:00 +0800
+location: TBC
+event-date: 2019-02-27 19:00:00 +0800
+categories: meetup
+event-id: 258526620
+meetup: 36
+novideos: true
+---
+As you can see, we own the last Wednesday of every month slot. Because, consistency. By this time, we should all have had enjoyed some Chinese New Year time off and hopefully had lots of good food. So it's a good time to come join us and exercise those CSS muscles. Still scouting for location, stay tuned for updates!
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+
+**The CSS doctor is in (our segment that never gets utilised)**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+
+Lightning talks welcome, just poke Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)

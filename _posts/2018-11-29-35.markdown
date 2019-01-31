@@ -7,20 +7,5 @@ event-date: 2019-01-30 19:00:00 +0800
 categories: meetup
 event-id: 256782322
 meetup: 35
-novideos: true
 ---
-As you can see, we own the last Wednesday of every month slot. Because, consistency. Come start the new year with CSS! We will be opening the year with our lovely friends at [SP Digital](https://blog.spdigital.io/), here's [a map](https://www.google.com/maps/place/SP+Digital+HQ/@1.2744005,103.8428807,15z/data=!4m2!3m1!1s0x0:0x3313dea2c34ebde7?ved=2ahUKEwiEmsni-ubfAhXTdCsKHfiDC1QQ_BIwCnoECAEQCA) so you don't get lost.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**CSS in JS** by **Dominic Langenegger**  
-CSS in JS is one of those things that can be somewhat polarising, but we at SingaporeCSS want to hear from all perspectives, because there is no one right way to do anything. It's all about the context. Dominic will compare different methods of using CSS in your project and review CSS in JS solutions to find out if they can live up to their high expectations or if you are better served sticking to more traditional methods. 
-
-**CSS 3D transforms for beginners** by **Ayaka Sasaki**  
-CSS has come a long way since 1996, from simple margins, paddings and text alignment, to all sorts of wondrous things most of us wouldn't even think possible with CSS alone. 3D transforms may seem daunting and complicated to those unfamiliar with them, but Ayaka will demystify the complexities, and hopefully encourage you to try them out too.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Chris or Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+We had a great first Talk.CSS of 2019 with a nice turn out of more than 20 people. Because I stop counting at 20. Big thanks to Sheldon and SP Digital for hosting us and feeding the masses.
