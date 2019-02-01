@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Talk.CSS banner</title>
+    <style>
+    @font-face {
+      html {
+        box-sizing: border-box;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        height: 100vh;
+        background-image: url('../assets/img/tile.png');
+        background-repeat: repeat;
+        background-size: 12em;
+        display: flex;
+      }
+
+      main {
+        display: grid;
+        margin: auto;
+        grid-template-columns: min-content max-content;
+        grid-template-rows: min-content 1fr min-content;
+        grid-template-areas: 'a a'
+                             'b c'
+                             'd d';
+        grid-gap: 1em;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        transform: scale(0.6);
+      }
+
+      p {
+        font-family: 'iA Writer Duospace';
+        font-size: 3em;
+        line-height: 1;
+        color: #1572b6;
+      }
+
+      p:first-child {
+        grid-area: a;
+      }
+
+      p:last-child {
+        grid-area: d;
+      }
+
+      img {
+        margin: auto;
+        height: 45vh;
+        grid-area: b;
+      }
+
+      div {
+        grid-area: c;
+      }
+
+      h1 {
+        font-family: 'iA Writer Duospace';
+        font-size: 7em;
+        line-height: 1;
+      }
+
+      code {
+        font-family: 'Gilbert Color';
+        font-size: 10em;
+        line-height: 1;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <p>SingaporeCSS presents</p>
+      <img src="../assets/img/logo.svg">
+      <div>
+        <h1>Talk.CSS</h1>
+        <code>max-content</code>
+      </div>
+      <p>⭐️ January 23, 2018 ⭐️</p>
+    </main>
+  </body>
+
+</html>
