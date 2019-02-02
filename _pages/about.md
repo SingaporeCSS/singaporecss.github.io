@@ -13,6 +13,9 @@ Talk.CSS came into being on October 26, 2015. It all started from a random conve
     <img src="{{ site.url }}/assets/img/about-origin.jpeg" srcset="{{ site.url }}/assets/img/about-origin@2x.jpg 2x" alt="Original slack chat"/>
 </figure>
 
-We can't talk about tech meet-ups in Singapore without mentioning [webuild.sg](https://webuild.sg/), *THE* hub for all things tech on this little red dot. If you're interested to attend any other tech meet-ups, definitely check it out. For data buffs, there is [https://data.webuild.sg/](https://data.webuild.sg/), which has information on tech meet-ups in Singapore dating back to December 2014.
+We can't talk about tech meet-ups in Singapore without mentioning [webuild.sg](https://webuild.sg/), *THE* hub for all things tech on this little red dot. If you're interested to attend any other tech meet-ups, definitely check it out. For data buffs, there is [https://webuildsg.github.io/data/](https://webuildsg.github.io/data/), which has information on tech meet-ups in Singapore dating back to December 2014.
+
+*Update:*  
+As of August 2018, webuild.sg has merged into [Engineers.SG](https://engineers.sg/), so please refer to [https://engineers.sg/events](https://engineers.sg/events) for the list of upcoming open developer, design and maker events in Singapore.
 
 Also, a huge kudos to [Engineers.SG](https://engineers.sg/), which records videos of almost every single tech meet-up in Singapore. Credit to [Michael Cheng](https://twitter.com/coderkungfu) and his army of videographers for making this possible.
