@@ -2,14 +2,14 @@
 layout: post
 title: "Talk.CSS #36"
 date: 2019-01-31 19:00:00 +0800
-location: TBC
+location: HOOQ
 event-date: 2019-02-27 19:00:00 +0800
 categories: meetup
 event-id: 258526620
 meetup: 36
 novideos: true
 ---
-As you can see, we own the last Wednesday of every month slot. Because, consistency. By this time, we should all have had enjoyed some Chinese New Year time off and hopefully had lots of good food. So it's a good time to come join us and exercise those CSS muscles. Still scouting for location, stay tuned for updates!
+As you can see, we own the last Wednesday of every month slot. Because, consistency. By this time, we should all have had enjoyed some Chinese New Year time off and hopefully had lots of good food. So it's a good time to come join us and exercise those CSS muscles. We'll be hosted by [HOOQ](https://www.hooq.tv/) this month, [here's a map](https://www.google.com/maps/place/31+Exeter+Rd,+Singapore+239732/@1.2989324,103.8373163,18z/data=!3m1!4b1!4m5!3m4!1s0x31da1990b6d52033:0xf453e69472050435!8m2!3d1.2989297!4d103.8384106) so you don't get lost.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
