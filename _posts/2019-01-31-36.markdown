@@ -14,7 +14,11 @@ As you can see, we own the last Wednesday of every month slot. Because, consiste
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Pure CSS custom checkboxes and radio buttons** by **Ted Johansson**  
+Tired of the default checkboxes and radio buttons your browser gives you? Time to utilise the ‘S’ in CSS. Style, we mean, style. Ted will share his tips on making your custom checkboxes and radio buttons look pretty AND are still as accessible as the original.
+
+**Creating art with CSS** by **Chen Hui Jing**  
+In preparation for our March Codepen edition, Hui Jing will talk about the various CSS properties and techniques we can use to create art in your browser. This in the hopes that at least some of you will attempt something so we can do show and tell using Codepen for the next Talk.CSS. More details to come.
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
