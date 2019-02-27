@@ -739,6 +739,33 @@ span[role=img][aria-label]:hover::after {
   height: 2em;
   margin-bottom: 1rem; }
 
+.c-newsletter {
+  text-align: center;
+  background-image: url("../img/tile.png");
+  padding: 0.5rem; }
+  .c-newsletter h4 {
+    margin-bottom: 0.25rem; }
+  .c-newsletter p {
+    margin-bottom: 0.5rem;
+    font-size: 1rem; }
+  .c-newsletter input[type=text] {
+    border: 1px solid #33a9dc;
+    border: 1px solid var(--secondary-color, #33a9dc);
+    font-size: inherit;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #fafaff;
+    background-color: var(--bg-color, #fafaff); }
+  .c-newsletter input[type=submit] {
+    background: #1572b6;
+    background: var(--main-color, #1572b6);
+    color: #fafaff;
+    color: var(--bg-color, #fafaff);
+    font-size: 1rem;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    cursor: pointer; }
+
 .c-site-footer {
   background: #1572b6;
   background: var(--main-color, #1572b6);

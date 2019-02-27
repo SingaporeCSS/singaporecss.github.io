@@ -271,6 +271,43 @@
   margin-bottom: 1rem;
 }
 
+// Newsletter section
+.c-newsletter {
+  text-align: center;
+  background-image: url('../img/tile.png');
+  padding: 0.5rem;
+
+  h4 {
+    margin-bottom: 0.25rem;
+  }
+
+  p {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+  }
+
+  input[type=text] {
+    border: 1px solid map-get($colours, secondary);
+    border: 1px solid color(secondary);
+    font-size: inherit;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: map-get($colours, bg);
+    background-color: color(bg);
+  }
+
+  input[type=submit] {
+    background: map-get($colours, main);
+    background: color(main);
+    color: map-get($colours, bg);
+    color: color(bg);
+    font-size: 1rem;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+}
+
 // Site footer styles
 .c-site-footer {
   background: map-get($colours, main);
