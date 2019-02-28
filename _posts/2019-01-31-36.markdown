@@ -7,22 +7,7 @@ event-date: 2019-02-27 19:00:00 +0800
 categories: meetup
 event-id: 258526620
 meetup: 36
-novideos: true
 ---
-As you can see, we own the last Wednesday of every month slot. Because, consistency. By this time, we should all have had enjoyed some Chinese New Year time off and hopefully had lots of good food. So it's a good time to come join us and exercise those CSS muscles. We'll be hosted by [HOOQ](https://www.hooq.tv/) this month, [here's a map](https://www.google.com/maps/place/31+Exeter+Rd,+Singapore+239732/@1.2989324,103.8373163,18z/data=!3m1!4b1!4m5!3m4!1s0x31da1990b6d52033:0xf453e69472050435!8m2!3d1.2989297!4d103.8384106) so you don't get lost.
+We were very honoured to be [HOOQ](https://www.hooq.tv/)'s first tech meetup. They are wonderful hosts and hopefully more tech meetups will take place at their lovely office. But we'll always be the first.
 
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Pure CSS custom checkboxes and radio buttons** by **Ted Johansson**  
-Tired of the default checkboxes and radio buttons your browser gives you? Time to utilise the ‘S’ in CSS. Style, we mean, style. Ted will share his tips on making your custom checkboxes and radio buttons look pretty AND are still as accessible as the original.
-
-**Creating art with CSS** by **Chen Hui Jing**  
-In preparation for our March Codepen edition, Hui Jing will talk about the various CSS properties and techniques we can use to create art in your browser. This in the hopes that at least some of you will attempt something so we can do show and tell using Codepen for the next Talk.CSS. More details to come.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Hui Jing when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
-
-We have a [code of conduct](code-of-conduct) to ensure that all participants at Talk.CSS have safe and harassment-free  experience, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
+Had a lot of good CSS going on this evening. If you missed it, ah well, videos for you then. We also now have a newsletter, so [subscribe](https://tinyletter.com/SingaporeCSS) to get a dose of monthly HTML & CSS news in your inbox.

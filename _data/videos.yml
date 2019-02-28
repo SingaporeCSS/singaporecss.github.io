@@ -525,3 +525,21 @@ s3503:
   link: "https://youtu.be/ochUMHO0Ri0"
   shortcode: "s3503"
   description: "Ayaka explains how CSS 3D transforms work and shows that it isn't all that complicated to try it out yourself."
+
+s3601:
+  title: "Feb 2019 CSS updates"
+  link: "https://youtu.be/_jYMSWz7j8E"
+  shortcode: "s3601"
+  description: "Updates and news in the world of CSS for February 2019. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-36.md'>here</a>."
+
+s3602:
+  title: "Pure CSS checkboxes"
+  link: "https://youtu.be/tvFEeZDGuD0"
+  shortcode: "s3602"
+  description: "If you want to create fancy custom checkboxes while still keeping them keyboard accessible, Ted explains how."
+
+s3603:
+  title: "Creating art with CSS"
+  link: "https://youtu.be/8fThZGnrJTU"
+  shortcode: "s3603"
+  description: "The browser is a perfect canvas for creating vector art, with CSS as your drawing tools. Hui Jing covers the basic properties needed to create your own works of art."
