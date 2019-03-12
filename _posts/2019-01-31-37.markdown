@@ -2,19 +2,22 @@
 layout: post
 title: "Talk.CSS #37"
 date: 2019-02-28 19:00:00 +0800
-location: TBC
+location: Shopee SG
 event-date: 2019-03-27 19:00:00 +0800
 categories: meetup
 event-id: 259235986
 meetup: 37
 novideos: true
 ---
-As you can see, we own the last Wednesday of every month slot. Because, consistency. We're planning to have a Codepen edition, but it's not confirmed-confirmed yet. So stay tuned for updates. Also looking for venue and speakers too! *\*hint hint\**
+Time flies when you're over 30. Our March edition is rolling around again in the blink of an eye. This time, we will be heading west of Singapore to the Shopee office. Here's [a map](https://www.google.com/maps/place/Shopee+SG/@1.291278,103.7846628,15z/data=!4m2!3m1!1s0x0:0x7ddf2e854cf6e4e4?ved=2ahUKEwi5jbz6z_vgAhVBP48KHWSEAmMQ_BIwFXoECAEQCA) so you don't get lost.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! ヾ(＾ᴗ＾)ノ 
+**CSS code splitting** by **Tan Li Hau**  
+The motivation of CSS splitting arises when we try to split our CSS styles and lazily load the styles only when we actually need them. CSS code splitting is one of our many efforts where we constantly improve the performance of the application. Li Hau will present how his team came to realisation of the issue, some of the decisions they made, and a couple of problems they encountered.
+
+More speakers TBC. We hope it's you! ヾ(＾ᴗ＾)ノ 
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
