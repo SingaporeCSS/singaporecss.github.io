@@ -17,6 +17,9 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **CSS code splitting** by **Tan Li Hau**  
 The motivation of CSS splitting arises when we try to split our CSS styles and lazily load the styles only when we actually need them. CSS code splitting is one of our many efforts where we constantly improve the performance of the application. Li Hau will present how his team came to realisation of the issue, some of the decisions they made, and a couple of problems they encountered.
 
+**Responsive tables with CSS** by **Liang Hui Qian** (title WIP)  
+Stay tuned for the talk description…
+
 More speakers TBC. We hope it's you! ヾ(＾ᴗ＾)ノ 
 
 **The CSS doctor is in (our segment that never gets utilised)**  
