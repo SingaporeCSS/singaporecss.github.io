@@ -426,9 +426,16 @@
 37:
   speakers:
     - ref: lihau
-    - ref: mystery
+    - ref: huiqian
 
 38:
   speakers:
+    - ref: gaowei
+    - ref: purnima
+
+39:
+  speakers:
+    - ref: khengmeng
+    - ref: huijing
+    - ref: sheldon
     - ref: hongkheng
-    - ref: mystery
