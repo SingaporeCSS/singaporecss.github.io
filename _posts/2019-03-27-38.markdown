@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Talk.CSS #38 Codepen edition"
+date: 2019-03-27 19:00:00 +0800
+location: Titansoft
+event-date: 2019-04-24 19:00:00 +0800
+categories: meetup
+event-id: 259235989
+meetup: 38
+novideos: true
+---
+Is Talk.CSS growing up? We actually got this venue even before the March edition was confirmed. Also, our long overdue [CodePen edition](https://blog.codepen.io/meetups/) is happening this April. All the excites happening at [Titansoft](https://titansoft.com/en). Here's [a map](https://www.google.com/maps/place/Titansoft+Pte+Ltd/@1.2829596,103.8415343,15z/data=!4m2!3m1!1s0x0:0xeaedf4a971e7e258?sa=X&ved=2ahUKEwi8h6e5y6LhAhXe_XMBHaQWBQ8Q_BIwCnoECA8QCA) so you don't miss out on the fun.
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Something about CSS** by **Gao Wei**  
+She will tell me when she's ready. Patience is a virtue.
+
+More speakers TBC. We hope it's you! ヾ(＾ᴗ＾)ノ 
+
+**The CSS doctor is in (our segment that never gets utilised)**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.

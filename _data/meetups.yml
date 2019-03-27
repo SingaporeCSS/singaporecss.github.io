@@ -424,6 +424,15 @@
     - ref: huijing
 
 37:
+  colour:
+    name: coral
+    hex: "#ff7f50"
+    rgba: rgba(255, 127, 80, 1)
+    text: "#fff"
+  videos:
+    - ref: s3701
+    - ref: s3702
+    - ref: s3703
   speakers:
     - ref: lihau
     - ref: huiqian
@@ -431,7 +440,8 @@
 38:
   speakers:
     - ref: gaowei
-    - ref: purnima
+    - ref: mystery
+    - ref: mystery
 
 39:
   speakers:

@@ -543,3 +543,21 @@ s3603:
   link: "https://youtu.be/8fThZGnrJTU"
   shortcode: "s3603"
   description: "The browser is a perfect canvas for creating vector art, with CSS as your drawing tools. Hui Jing covers the basic properties needed to create your own works of art."
+
+s3701:
+  title: "Mar 2019 CSS updates"
+  link: "https://youtu.be/zT0HZ07yrTY"
+  shortcode: "s3701"
+  description: "Updates and news in the world of CSS for March 2019. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-37.md'>here</a>."
+
+s3702:
+  title: "How to: Responsive tables"
+  link: "https://youtu.be/BIa3fZofI4c"
+  shortcode: "s3702"
+  description: "Hui Qian talks about her experience implementing responsive tables."
+
+s3703:
+  title: "CSS code splitting"
+  link: "https://youtu.be/OIto_15f1L0"
+  shortcode: "s3703"
+  description: "Lihau does a deep-dive on how Shopee handles a constantly growing CSS codebase."
