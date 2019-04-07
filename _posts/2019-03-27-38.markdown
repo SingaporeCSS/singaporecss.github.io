@@ -18,7 +18,7 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 Never heard of this cool thing called `mix-blend-mode` or have but never bothered to try it? Wei will introduce this lovely property and showcase a bunch of designs that implement it.
 
 **CodePen Show & Tell** by **All the peoples**  
-2–5 minutes. Come on up. Show and tell. We hope you're one of the peoples! Swag from Codepen up for grabs <span class="o-kaomoji">٩(^ᴗ^)۶</span>
+2–5 minutes. Come on up. Show and tell. We hope you're one of the peoples! Swag from Codepen up for grabs <span class="o-kaomoji">٩(^ᴗ^)۶</span> Please fill up this form if you're interested in showing and telling: [https://airtable.com/shrahPiYG3oCtOM6e](https://airtable.com/shrahPiYG3oCtOM6e)
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
