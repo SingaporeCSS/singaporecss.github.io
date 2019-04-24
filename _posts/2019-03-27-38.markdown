@@ -7,18 +7,7 @@ event-date: 2019-04-24 19:00:00 +0800
 categories: meetup
 event-id: 259235989
 meetup: 38
-novideos: true
 ---
-Is Talk.CSS growing up? We actually got this venue even before the March edition was confirmed. Also, our long overdue [CodePen edition](https://blog.codepen.io/meetups/) is happening this April. All the excites happening at [Titansoft](https://titansoft.com/en). Here's [a map](https://www.google.com/maps/place/Titansoft+Pte+Ltd/@1.2829596,103.8415343,15z/data=!4m2!3m1!1s0x0:0xeaedf4a971e7e258?sa=X&ved=2ahUKEwi8h6e5y6LhAhXe_XMBHaQWBQ8Q_BIwCnoECA8QCA) so you don't miss out on the fun.
+We finally had a long overdue CodePen edition, but in addition to that, we also had one of the best talks at Talk.CSS  by [Gao Wei](https://wgao19.cc/) on CSS blend-modes. She has also been cheated onto the SingaporeCSS pirate ship as our new co-organiser. <span class="emoji" role="img" tabindex="0" aria-label="women with bunny ears">&#x1F46F;&#x200D;&#x2640;&#xFE0F;</span>
 
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**This world mixed and blended** by **Gao Wei**  
-Never heard of this cool thing called `mix-blend-mode` or have but never bothered to try it? Wei will introduce this lovely property and showcase a bunch of designs that implement it.
-
-**CodePen Show & Tell** by **All the peoples**  
-2–5 minutes. Come on up. Show and tell. We hope you're one of the peoples! Swag from Codepen up for grabs <span class="o-kaomoji">٩(^ᴗ^)۶</span> Please fill up this form if you're interested in showing and telling: [https://airtable.com/shrahPiYG3oCtOM6e](https://airtable.com/shrahPiYG3oCtOM6e)
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+Also, to everyone who volunteered for the CodePen Show & Tell, including those who dialed in from overseas. Words cannot describe how grateful I am for your patience and willingness to go with my hare-brained schemes. In order of appearance, the biggest thank you to Chris and Sarah Lienert (<span class="emoji" role="img" tabindex="0" aria-label="Australia">&#x1F1E6;&#x1F1FA;</span>), Olivia Ng (<span class="emoji" role="img" tabindex="0" aria-label="United States of America">&#x1F1FA;&#x1F1F8;</span>), Ayaka Sasaki (<span class="emoji" role="img" tabindex="0" aria-label="Japan">&#x1F1EF;&#x1F1F5;</span>), Ten Zhi Yang, Purnima Kamath and Jay.

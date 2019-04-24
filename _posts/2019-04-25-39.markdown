@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Talk.CSS #39"
+date: 2019-04-25 19:00:00 +0800
+location: SP Digital
+event-date: 2019-05-22 19:00:00 +0800
+categories: meetup
+event-id: 259235992
+meetup: 39
+novideos: true
+---
+Due to some scheduled overseas obligations, we are, unfortunately, not on the last Wednesday this month. Instead we are happening a week earlier, but no worries, this will be an epic Talk.CSS. Because venue and talks have been confirmed way in advance. Bring your cat.
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Something about CSS variables (maybe)** by **Sheldon Cheng**  
+Sheldon has been penciled in this slot by me. I hope he still wants to be my friend in the future.
+
+**Something about CSS modules** by **Yap Hong Kheng** (real title pending)  
+There may be some compilation involved, maybe? Anyway, stay tuned for updates when Hong Kheng gives me the real talk description.
+
+**Can your site work on IE3?** by **Yeo Kheng Meng** and **Chen Hui Jing**  
+I am super excited to collaborate with my fellow retro-computing enthusiast, co-organiser of Hackware, and total not-web developer, Kheng Meng on this CSS challenge.
+Basically, he will run a working copy of Windows 3.1 with IE3 installed, and I will load a site I built on it to see if it displays properly. Challenge is I will NOT test on the machine beforehand. This will either be spectacular or a spectacular failure, we see how.
+
+**The CSS doctor is in (our segment that never gets utilised)**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.

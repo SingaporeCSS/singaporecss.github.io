@@ -3,6 +3,11 @@ mystery:
   shortcode: "mystery"
   bio: "Well, it's still a mystery, so check back to see if the kittencorn has been replaced."
 
+codepen:
+  name: "CodePen S&Ters"
+  shortcode: "codepen"
+  bio: "Beautiful people who volunteered to showcase their CodePen creations. Details in the description above!"
+
 huijing:
   name: "Chen Hui Jing"
   twitter: "hj_chen"
@@ -288,3 +293,9 @@ gaowei:
   twitter: "wgao19"
   shortcode: "gaowei"
   bio: "React web developer based in Singapore. Badass climber. Reads CSS specs. Most likely can do more pull-ups than you."
+
+khengmeng:
+  name: "Yeo Kheng Meng"
+  twitter: "yeokm1"
+  shortcode: "khengmeng"
+  bio: "Flies planes. Retro-computing aficionado. One of the most sporting people you'll ever meet. Disclaimer: bio NOT written by Kheng Meng himself."

@@ -561,3 +561,15 @@ s3703:
   link: "https://youtu.be/OIto_15f1L0"
   shortcode: "s3703"
   description: "Lihau does a deep-dive on how Shopee handles a constantly growing CSS codebase."
+
+s3801:
+  title: "This world mixed and blended"
+  link: "https://youtu.be/iUoon3GneRA"
+  shortcode: "s3801"
+  description: "CSS blend modes can sometimes seem magical, but it's really powered by math. Gao Wei explains the math with emoji equations and mind-blowing demos."
+
+s3802:
+  title: "CodePen Show & Tell"
+  link: "https://youtu.be/WkGLAhsVYwo"
+  shortcode: "s3802"
+  description: "Chris, Olivia, Ayaka, Zhi Yang, Purnima and Jay gamely presented their wonderful CodePens at our 3rd ever CodePen edition."

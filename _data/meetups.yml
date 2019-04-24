@@ -438,10 +438,17 @@
     - ref: huiqian
 
 38:
+  colour:
+    name: black
+    hex: "#000000"
+    rgba: rgba(0, 0, 0, 1)
+    text: "#fff"
+  videos:
+    - ref: s3801
+    - ref: s3802
   speakers:
     - ref: gaowei
-    - ref: mystery
-    - ref: mystery
+    - ref: codepen
 
 39:
   speakers:
