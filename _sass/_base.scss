@@ -44,8 +44,11 @@ figcaption {
 }
 
 figure {
+  margin-bottom: 1.5rem;
+
   img {
     @include center;
     display: block;
+    margin-bottom: 0.5rem;
   }
 }

@@ -10,4 +10,11 @@ meetup: 38
 ---
 We finally had a long overdue CodePen edition, but in addition to that, we also had one of the best talks at Talk.CSS  by [Gao Wei](https://wgao19.cc/) on CSS blend-modes. She has also been cheated onto the SingaporeCSS pirate ship as our new co-organiser. <span class="emoji" role="img" tabindex="0" aria-label="women with bunny ears">&#x1F46F;&#x200D;&#x2640;&#xFE0F;</span>
 
-Also, to everyone who volunteered for the CodePen Show & Tell, including those who dialed in from overseas. Words cannot describe how grateful I am for your patience and willingness to go with my hare-brained schemes. In order of appearance, the biggest thank you to Chris and Sarah Lienert (<span class="emoji" role="img" tabindex="0" aria-label="Australia">&#x1F1E6;&#x1F1FA;</span>), Olivia Ng (<span class="emoji" role="img" tabindex="0" aria-label="United States of America">&#x1F1FA;&#x1F1F8;</span>), Ayaka Sasaki (<span class="emoji" role="img" tabindex="0" aria-label="Japan">&#x1F1EF;&#x1F1F5;</span>), Ten Zhi Yang, Purnima Kamath and Jay.
+<figure>
+  <img src="{{ site.url }}/assets/img/pirate-ship.jpg" srcset="{{ site.url }}/assets/img/pirate-ship@2x.jpg 2x" alt="The SingaporeCSS pirate ship">
+  <figcaption>Follow @wgao19 on all the things</figcaption>
+</figure>
+
+Also, to everyone who volunteered for the CodePen Show & Tell, including those who dialed in from overseas. Words cannot describe how grateful I am for your patience and willingness to go along with my hare-brained schemes.
+
+In order of appearance, the biggest thank you to Chris and Sarah Lienert (<span class="emoji" role="img" tabindex="0" aria-label="Australia">&#x1F1E6;&#x1F1FA;</span>), Olivia Ng (<span class="emoji" role="img" tabindex="0" aria-label="United States of America">&#x1F1FA;&#x1F1F8;</span>), Ayaka Sasaki (<span class="emoji" role="img" tabindex="0" aria-label="Japan">&#x1F1EF;&#x1F1F5;</span>), Ten “Tenzy” Zhi Yang, Purnima Kamath and Jay.
