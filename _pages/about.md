@@ -8,6 +8,8 @@ Developers love meet-ups. Almost every programming language has its own local me
 
 Talk.CSS came into being on October 26, 2015. It all started from a random conversation in our local digital watering hole, the [KopiJS](http://kopijs.org/) slack channel. The idea of starting a CSS meet-up seemed to take quite well and by 4pm we already had a logo, a GitHub organisation, a Twitter account and the venue for our inaugural meet-up.
 
+The meetup was started and run by [Chen Hui Jing](https://twitter.com/hj_chen) and [Chris Lienert](https://twitter.com/cliener). Chris left Singapore to return to Australia after [Talk.CSS #34]({{ site.url }}/34). But after 3 months of flying solo, we lucked out and found a new co-organiser, [Gao Wei](s://twitter.com/wgao19).
+
 <figure class="c-content__fig">
     <figcaption>It all started here...</figcaption>
     <img src="{{ site.url }}/assets/img/about-origin.jpeg" srcset="{{ site.url }}/assets/img/about-origin@2x.jpg 2x" alt="Original slack chat"/>
