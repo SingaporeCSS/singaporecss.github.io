@@ -58,7 +58,7 @@ function browserSyncReload(done) {
  */
 function jekyllDev(done) {
   browserSync.notify(messages.jekyllDev)
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--drafts', '--future', '--incremental', '--config=_config.yml,_config_dev.yml'], {stdio: 'inherit'})
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--incremental', '--config=_config.yml,_config_dev.yml'], {stdio: 'inherit'})
   .on('close', done)
 }
 
