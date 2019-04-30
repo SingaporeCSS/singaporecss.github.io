@@ -7,5 +7,6 @@ event-date: 2018-08-29 19:00:00 +0800
 categories: meetup
 event-id: 253149238
 meetup: 31
+news: August 2018
 ---
 It's always fun to be hosted by [Hackerspace](https://hackerspace.sg/). I was super excited to finally have Sarah here as a speaker. If you've been with us since the early days, you may have enjoyed some delicious baked goods from time to time out of her oven. Elijah (AKA mini Chris) also made a guest appearance! Talk.CSS alum, William, also came back to share his months of hard work and research on scroll-bouncing. Check out his [Smashing Magazine article](https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/) too.

@@ -7,6 +7,7 @@ event-date: 2019-04-24 19:00:00 +0800
 categories: meetup
 event-id: 259235989
 meetup: 38
+news: April 2019
 ---
 We finally had a long overdue CodePen edition, but in addition to that, we also had one of the best talks at Talk.CSS  by [Gao Wei](https://wgao19.cc/) on CSS blend-modes. She has also been cheated onto the SingaporeCSS pirate ship as our new co-organiser. <span class="emoji" role="img" tabindex="0" aria-label="women with bunny ears">&#x1F46F;&#x200D;&#x2640;&#xFE0F;</span>
 

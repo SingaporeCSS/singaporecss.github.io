@@ -2,8 +2,9 @@
 layout: page
 title: Code of conduct
 permalink: /code-of-conduct/
+navigation: true
 ---
-All participants at our event are required to agree with the following code of conduct. Organisers (Hui Jing) will enforce this code throughout the event. We are expecting cooperation from everybody to help ensuring a safe environment for everybody.
+All participants at our event are required to agree with the following code of conduct. Organisers (Hui Jing and Gao Wei) will enforce this code throughout the event. We are expecting cooperation from everybody to help ensuring a safe environment for everybody.
 
 ## The Quick Version
 
@@ -23,9 +24,9 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Hui Jing immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Hui Jing or Gao Wei immediately.
 
-Event staff (i.e. Hui Jing) will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
+Event staff (i.e. Hui Jing or Gao Wei) will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
 We expect participants to follow these rules at the event venue.
 

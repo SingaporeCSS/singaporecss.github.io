@@ -7,6 +7,7 @@ event-date: 2018-11-28 19:00:00 +0800
 categories: meetup
 event-id: 256024278
 meetup: 34
+news: November 2018
 ---
 We are so glad and grateful to all of you who turned up to celebrate our 3rd birthday with us. It's hard to believe, but it's been 3 years and 34 meet-ups. We had to say farewell to co-founder, Chris Lienert. Without him, there wouldn't be a Talk.CSS to begin with. Given he'll be taking over MelbourneCSS, stay tuned for some potential international collaboration.
 

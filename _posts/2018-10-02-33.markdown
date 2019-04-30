@@ -7,6 +7,7 @@ event-date: 2018-10-31 19:00:00 +0800
 categories: meetup
 event-id: 255190512
 meetup: 33
+news: October 2018
 ---
 The first time Talk.CSS fell on Halloween and we made a marginal effort to add some spookiness to this edition. Marginal. We also announced that Chris would be moving back to Melbourne by the end of the year and were heartened by people volunteering to help out moving forward.
 
