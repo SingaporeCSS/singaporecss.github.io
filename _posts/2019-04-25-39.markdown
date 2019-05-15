@@ -17,7 +17,7 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Something about CSS variables (maybe)** by **Sheldon Cheng**  
 Sheldon has been penciled in this slot by me. I hope he still wants to be my friend in the future.
 
-**Something about CSS modules** by **Yap Hong Kheng** (real title pending)  
+**Quick Dive into CSS Modules** by **Yap Hong Kheng**    
 There may be some compilation involved, maybe? Anyway, stay tuned for updates when Hong Kheng gives me the real talk description.
 
 **Can your site work on IE3?** by **Yeo Kheng Meng** and **Chen Hui Jing**  
