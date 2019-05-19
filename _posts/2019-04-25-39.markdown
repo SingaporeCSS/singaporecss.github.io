@@ -14,11 +14,11 @@ Due to some scheduled overseas obligations, we are, unfortunately, not on the la
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**Something about CSS variables (maybe)** by **Sheldon Cheng**  
-Sheldon has been penciled in this slot by me. I hope he still wants to be my friend in the future.
+**Design Tokens for Everyone!** by **Sheldon Cheng**  
+So you have design tokens set up for a big web project… Great! But you are using CSS custom properties, someone else is using SCSS variables, and the JS framework prefers JS. Agnostic Design Tokens to the rescue!
 
-**Quick Dive into CSS Modules** by **Yap Hong Kheng**    
-There may be some compilation involved, maybe? Anyway, stay tuned for updates when Hong Kheng gives me the real talk description.
+**Quick Dive into CSS Modules** by **Yap Hong Kheng**  
+There may be some compilation involved, maybe? Anyway, stay tuned for updates when Hong Kheng gives me the real talk description. Or just show up and be amazed on the day itself. I mean, the title is pretty self-explanatory, no?
 
 **Can your site work on IE3?** by **Yeo Kheng Meng** and **Chen Hui Jing**  
 I am super excited to collaborate with my fellow retro-computing enthusiast, co-organiser of Hackware, and total not-web developer, Kheng Meng on this CSS challenge.
