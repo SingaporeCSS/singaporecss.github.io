@@ -451,6 +451,14 @@
     - ref: codepen
 
 39:
+  colour:
+    name: cyan
+    hex: "#00ffff"
+    rgba: rgba(0, 255, 255, 1)
+  videos:
+    - ref: s3901
+    - ref: s3902
+    - ref: s3903
   speakers:
     - ref: khengmeng
     - ref: huijing

@@ -573,3 +573,21 @@ s3802:
   link: "https://youtu.be/WkGLAhsVYwo"
   shortcode: "s3802"
   description: "Chris, Olivia, Ayaka, Zhi Yang, Purnima and Jay gamely presented their wonderful CodePens at our 3rd ever CodePen edition."
+
+s3901:
+  title: "Design tokens for everyone!"
+  link: "https://youtu.be/Nk54CjdOulI"
+  shortcode: "s3901"
+  description: "When working on a large application, it's inevitable to have half a thousand design variables. Sheldon shares a neat way to manage all that."
+
+s3902:
+  title: "Quick dive into CSS modules"
+  link: "javascript:void(0)"
+  shortcode: "s3902"
+  description: "Hong Kheng does a quick but super useful run through CSS modules and some things you might not have known were possible with them."
+
+s3903:
+  title: "Can your site run on IE3?"
+  link: "javascript:void(0)"
+  shortcode: "s3903"
+  description: "A rare collaboration with hardware expert, Kheng Meng, who gamely provided his vintage ThinkPad running original Windows 3.1 for this experiment."
