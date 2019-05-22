@@ -582,12 +582,12 @@ s3901:
 
 s3902:
   title: "Quick dive into CSS modules"
-  link: "javascript:void(0)"
+  link: "https://youtu.be/oBjnzK-FvYE"
   shortcode: "s3902"
   description: "Hong Kheng does a quick but super useful run through CSS modules and some things you might not have known were possible with them."
 
 s3903:
   title: "Can your site run on IE3?"
-  link: "javascript:void(0)"
+  link: "https://youtu.be/dVdBD3SQMl4"
   shortcode: "s3903"
   description: "A rare collaboration with hardware expert, Kheng Meng, who gamely provided his vintage ThinkPad running original Windows 3.1 for this experiment."
