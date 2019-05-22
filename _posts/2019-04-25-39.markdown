@@ -7,22 +7,7 @@ event-date: 2019-05-22 19:00:00 +0800
 categories: meetup
 event-id: 259235992
 meetup: 39
-novideos: true
 ---
-Due to some scheduled overseas obligations, we are, unfortunately, not on the last Wednesday this month. Instead we are happening a week earlier, but no worries, this will be an epic Talk.CSS. Because venue and talks have been confirmed way in advance. Bring your cat.
+This was a relatively cozy meetup, probably because all the cool kids went to the ReactJS meetup instead. But nevertheless, the show goes on. It was a great line-up with talks on CSS custom properties, CSS modules and a walk back in time with Internet Explorer 3 on an original Windows 3.1 installation.
 
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Design Tokens for Everyone!** by **Sheldon Cheng**  
-So you have design tokens set up for a big web project… Great! But you are using CSS custom properties, someone else is using SCSS variables, and the JS framework prefers JS. Agnostic Design Tokens to the rescue!
-
-**Quick Dive into CSS Modules** by **Yap Hong Kheng**  
-There may be some compilation involved, maybe? Anyway, stay tuned for updates when Hong Kheng gives me the real talk description. Or just show up and be amazed on the day itself. I mean, the title is pretty self-explanatory, no?
-
-**Can your site work on IE3?** by **Yeo Kheng Meng** and **Chen Hui Jing**  
-I am super excited to collaborate with my fellow retro-computing enthusiast, co-organiser of Hackware, and total not-web developer, Kheng Meng on this CSS challenge.
-Basically, he will run a working copy of Windows 3.1 with IE3 installed, and I will load a site I built on it to see if it displays properly. Challenge is I will NOT test on the machine beforehand. This will either be spectacular or a spectacular failure, we see how.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+Tonight was mostly friends and regulars, and we truly appreciate your continued support. We're not the flashiest or most exciting meetup in town, but we've managed to keep our unbroken streak after more than 3 years because of you. #anyhowlyforever <span class="emoji" role="img" tabindex="0" aria-label="blue heart">&#x1F499;</span>

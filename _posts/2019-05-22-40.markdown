@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Talk.JS + Talk.CSS = JSConf.Asia Special!"
+date: 2019-05-16 19:00:00 +0800
+location: Visa Worldwide (Robinson Road)
+event-date: 2019-06-12 19:00:00 +0800
+categories: meetup
+meetup: 40
+event-id: 259235995
+novideos: true
+---
+It's JSConf.Asia week! And so we're having a long overdue combined meetup with our sister meetup, [Talk.JS](https://github.com/SingaporeJS/talk.js). We have a very solid line-up of speakers and will be happening at Visa Robinson Road. Here's [a map](https://www.google.com/maps/place/Visa+Worldwide+Pte+Limited/@1.2785332,103.8467417,17z/data=!3m1!4b1!4m5!3m4!1s0x31da191241d83ecb:0xe8246a3f34fa0cfc!8m2!3d1.2785278!4d103.8489304) in case you get lost.
+
+**Hands-on Performance Debugging with the browser DevTools** by **Alex Lakatos**  
+A no-slides, hands-on, live debugging session using only the browser Developer Tools on the website I pick from the audience. We'll dive deep into spotting performance bottlenecks into any website and how to fix them.
+
+**State of crypto in Node.js** by **Ujjwal Sharma**  
+In a world that increasingly depends on data, leveraging cryptography is mandatory for any modern application that deals with private user data. Gain a deeper understanding of some of the challenges of cryptography in today’s applications and how to solve them using the Node.js crypto module (and how not to!).
+
+**React Inline Styling with JSS** by **Lin Han**  
+Despite countless debates, inline styling is still loved by many web developers. This talk will focus on a specific library (JSS), and demonstrate how Lin Han ended up using the library by demonstrating the problems he had with other CSS solutions and how he solved them with JSS.
+
+**Understanding CSS Custom Properties** by **Mike Riethmuller**  
+Custom Properties are still a relatively new feature of CSS. Let me introduce you to the basics, some of the tricks and then show you how to use custom properties in CSS for maintainable large scale applications. Let's dive into some of the challenges of responsive design, global and local scope and theming. If there's time, let's write some code together and explore some of what you can do with custom properties.

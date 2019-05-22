@@ -299,3 +299,27 @@ khengmeng:
   twitter: "yeokm1"
   shortcode: "khengmeng"
   bio: "Flies planes. Retro-computing aficionado. One of the most sporting people you'll ever meet. Disclaimer: bio NOT written by Kheng Meng himself."
+
+mike:
+  name: "Mike Riethmuller"
+  twitter: "mikeriethmuller"
+  shortcode: "mike"
+  bio: "Web developer from Australia. Working with CSS since the beginning. Has a deep appreciation for CSS and lots of experience making it work in large-scale applications"
+
+alex:
+  name: "Alex Lakatos"
+  twitter: "lakatos88"
+  shortcode: "alex"
+  bio: "Javascript Developer Advocate for Nexmo. Mozilla TechSpeaker and Mozilla contributor for longer than most people. Pushing the boundaries of the open web every day. Check out his GitHub profile or get in touch on Twitter. You might bump into him in an airport lounge."
+
+ujjwal:
+  name: "Ujjwal Sharma"
+  twitter: "ryzokuken"
+  shortcode: "ujjwal"
+  bio: "Node.js core collaborator, Electron maintainer, Google Summer of Code mentor and ex-student. Works with v8 team and TC39 committee to make Javascript better, one commit at a time."
+
+linhan:
+  name: "Lin Han"
+  github: "hanlindev"
+  shortcode: "linhan"
+  bio: "Lin is a web development professional at day and hobbyist at night. He doesn't have many commitments so he has tried many different types of stacks over the years. Now he is deeply in the camp of the React + GraphQL ecosystem."
