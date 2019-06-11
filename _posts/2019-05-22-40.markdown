@@ -2,14 +2,14 @@
 layout: post
 title: "Talk.JS + Talk.CSS = JSConf.Asia Special!"
 date: 2019-05-16 19:00:00 +0800
-location: Visa Worldwide (Robinson Road)
+location: Carousell
 event-date: 2019-06-12 19:00:00 +0800
 categories: meetup
 meetup: 40
 event-id: 259235995
 novideos: true
 ---
-It's JSConf.Asia week! And so we're having a long overdue combined meetup with our sister meetup, [Talk.JS](https://github.com/SingaporeJS/talk.js). We have a very solid line-up of speakers and will be happening at Visa Robinson Road. Here's [a map](https://www.google.com/maps/place/Visa+Worldwide+Pte+Limited/@1.2785332,103.8467417,17z/data=!3m1!4b1!4m5!3m4!1s0x31da191241d83ecb:0xe8246a3f34fa0cfc!8m2!3d1.2785278!4d103.8489304) in case you get lost.
+It's JSConf.Asia week! And so we're having a long overdue combined meetup with our sister meetup, [Talk.JS](https://github.com/SingaporeJS/talk.js). We have a very solid line-up of speakers and will be happening at one of our favourite places, Carousell. Here's [a map](https://www.google.com/maps/place/Keppel+Towers+2/@1.2743717,103.8406823,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196b6f3cc2fd:0xfbf6cd3e40c77443!8m2!3d1.2743717!4d103.8428764) in case you get lost.
 
 **Hands-on Performance Debugging with the browser DevTools** by **Alex Lakatos**  
 A no-slides, hands-on, live debugging session using only the browser Developer Tools on the website I pick from the audience. We'll dive deep into spotting performance bottlenecks into any website and how to fix them.
