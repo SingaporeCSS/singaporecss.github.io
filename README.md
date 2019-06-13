@@ -2,6 +2,28 @@
 
 The site will be updated after every meet-up, with a short recap and links to videos of the talks.
 
+## v1.8.0
+
+- Clean up posts and fix missing front matter
+- Update content to reflect new co-organiser
+- Sync up implementation with project wikis
+
+## v1.7.0
+
+- Add newsletter description 
+
+## v1.6.0
+
+- Make code of conduct prominent on front page
+- Add peripheral assets to site for ease of access
+- Bug fix for Bixa font bug
+
+## v1.5.0
+
+- Update past meetups page
+- Add speakers page
+- Add convince your boss page (potentially reusable)
+
 ## v1.4.0
 
 - Ported all speaker and video content into data files

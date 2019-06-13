@@ -466,8 +466,22 @@
     - ref: huijing
 
 40:
+  colour:
+    name: lightseagreen
+    hex: "#20b2aa"
+    rgba: rgba(32, 178, 170, 1)
+  videos:
+    - ref: s4001
+    - ref: s4002
+    - ref: s4003
+    - ref: s4004
   speakers:
     - ref: alex
     - ref: ujjwal
     - ref: linhan
     - ref: mike
+
+41:
+  speakers:
+    - ref: mystery
+    - ref: mystery

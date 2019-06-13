@@ -591,3 +591,27 @@ s3903:
   link: "https://youtu.be/dVdBD3SQMl4"
   shortcode: "s3903"
   description: "A rare collaboration with hardware expert, Kheng Meng, who gamely provided his vintage ThinkPad running original Windows 3.1 for this experiment."
+
+s4001:
+  title: "Understanding CSS Custom Properties"
+  link: "https://youtu.be/m5rAF5957LE"
+  shortcode: "s4001"
+  description: "CSS Custom Properties are relatively new but oh-so-useful, and Mike tells us all about their practical applications."
+
+s4002:
+  title: "State of crypto in Node.js"
+  link: "https://youtu.be/Nk54CjdOulI"
+  shortcode: "s4002"
+  description: "Crypto refers to Cryptography in this case as Ujjwal provides an useful primer on strategies, the current landscape and what's to come for the web platform."
+
+s4003:
+  title: "React Inline Styling with JSS"
+  link: "https://youtu.be/sp7Cx4NSfcU"
+  shortcode: "s4003"
+  description: "Lin shares why JSS is his favourite library for styling and how it solves the different use cases he's encountered."
+
+s4004:
+  title: "Hands-on performance debugging with the browser DevTools"
+  link: "https://youtu.be/e5-GQzmsejE"
+  shortcode: "s4004"
+  description: "Alex does a live debugging of the Carousell website. Spoiler, the site is amazingly performant."

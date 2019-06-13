@@ -7,18 +7,7 @@ event-date: 2019-06-12 19:00:00 +0800
 categories: meetup
 meetup: 40
 event-id: 259235995
-novideos: true
 ---
-It's JSConf.Asia week! And so we're having a long overdue combined meetup with our sister meetup, [Talk.JS](https://github.com/SingaporeJS/talk.js). We have a very solid line-up of speakers and will be happening at one of our favourite places, Carousell. Here's [a map](https://www.google.com/maps/place/Keppel+Towers+2/@1.2743717,103.8406823,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196b6f3cc2fd:0xfbf6cd3e40c77443!8m2!3d1.2743717!4d103.8428764) in case you get lost.
+It's [JSConf.Asia](https://2019.jsconf.asia/) week! And so we're having a long overdue combined meetup with our sister meetup, [Talk.JS](https://github.com/SingaporeJS/talk.js). The turn-out was fantastic and so were the talks. We are especially thankful to [Carousell](https://sg.carousell.com/) for stepping in at the very last minute to rescue us from logistical issues with the previous venue. And [SP Digital](https://blog.spdigital.io/) who lent us extra chairs.
 
-**Hands-on Performance Debugging with the browser DevTools** by **Alex Lakatos**  
-A no-slides, hands-on, live debugging session using only the browser Developer Tools on the website I pick from the audience. We'll dive deep into spotting performance bottlenecks into any website and how to fix them.
-
-**State of crypto in Node.js** by **Ujjwal Sharma**  
-In a world that increasingly depends on data, leveraging cryptography is mandatory for any modern application that deals with private user data. Gain a deeper understanding of some of the challenges of cryptography in today’s applications and how to solve them using the Node.js crypto module (and how not to!).
-
-**React Inline Styling with JSS** by **Lin Han**  
-Despite countless debates, inline styling is still loved by many web developers. This talk will focus on a specific library (JSS), and demonstrate how Lin Han ended up using the library by demonstrating the problems he had with other CSS solutions and how he solved them with JSS.
-
-**Understanding CSS Custom Properties** by **Mike Riethmuller**  
-Custom Properties are still a relatively new feature of CSS. Let me introduce you to the basics, some of the tricks and then show you how to use custom properties in CSS for maintainable large scale applications. Let's dive into some of the challenges of responsive design, global and local scope and theming. If there's time, let's write some code together and explore some of what you can do with custom properties.
+We truly love this community, and the community loved us back two-fold. This event wouldn't have been possible without the support from all of you, and for that we are very grateful <span class="emoji" role="img" tabindex="0" aria-label="folded hands">&#x1F64F;</span>.
