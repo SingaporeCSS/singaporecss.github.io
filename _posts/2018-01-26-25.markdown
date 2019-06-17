@@ -2,7 +2,7 @@
 layout: post
 title: "Talk.CSS #25"
 date: 2018-01-26 19:00:00 +0800
-location: WeWork Singapore
+location: WeWork 71 Robinson
 event-date: 2018-02-28 19:00:00 +0800
 categories: meetup
 event-id: 247181798

@@ -2,19 +2,26 @@
 layout: post
 title: "Talk.CSS #41"
 date: 2019-06-12 19:00:00 +0800
-location: TBC
+location: Viki Singapore
 event-date: 2019-07-03 19:00:00 +0800
 categories: meetup
 meetup: 41
 event-id: 259235999
 novideos: true
 ---
-After 2 years of owning the last Wednesday of every month slot, we have decided to move to the first Wednesday of every month slot. Because we believe in keeping things fresh. Venue and speakers TBC. Stay tuned.
+After 2 years of owning the last Wednesday of every month slot, we have decided to move to the first Wednesday of every month slot. This month we will be at the offices of [Viki](https://www.viki.com/countries/singapore). Here's [a map](https://www.google.com/maps/place/Viki,+Inc./@1.281808,103.8479361,17z/data=!3m1!4b1!4m5!3m4!1s0x31da190dd3c68b25:0x1ef5468f72977dea!8m2!3d1.2818026!4d103.8501248) so you don't get lost.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Pure CSS mob** by **Nguyen Tuong Van**  
+CSS is more than just for styling web pages. It is also a tool to create art, as Van explains how she uses just CSS to create [this awesome illustration](https://codepen.io/tvan/full/ZZZwgV).
+
+**Something about `::before` and `::after`** by **Dylan Ho**  
+How well do you know pseudo-elements? Dylan will be talking about something with `::before` and `::after`. (Clearly he has not given me his official version, words are hard, my friends…)
+
+**Something related to CSS** by **Aysha Anggraini**  
+I'm super happy I managed to drag Aysha out for Talk.CSS again. If you're new to SingaporeCSS, Aysha is one of our top local frontend devs and she'll update me on the talk topic soon. Stay tuned…
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.

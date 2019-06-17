@@ -323,3 +323,15 @@ linhan:
   github: "hanlindev"
   shortcode: "linhan"
   bio: "Lin is a web development professional at day and hobbyist at night. He doesn't have many commitments so he has tried many different types of stacks over the years. Now he is deeply in the camp of the React + GraphQL ecosystem."
+
+van:
+  name: "Nguyen Tuong Van"
+  twitter: "bokukage"
+  shortcode: "van"
+  bio: "Socially inept programmer based in Singapore. Staple foods: music and coffee. Religion: black colour."
+
+dylan:
+  name: "Dylan Ho"
+  github: "Dlearn"
+  shortcode: "dylan"
+  bio: "Dylan sometimes fills in Google Forms incorrectly. It's not his fault, happens to the best of us."

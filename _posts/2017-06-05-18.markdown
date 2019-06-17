@@ -2,7 +2,7 @@
 layout: post
 title: "Talk.CSS #18"
 date: 2017-06-05 19:00:00 +0800
-location: Singapore Power
+location: SP Digital
 event-date: 2017-06-28 19:00:00 +0800
 categories: meetup
 event-id: 240519499

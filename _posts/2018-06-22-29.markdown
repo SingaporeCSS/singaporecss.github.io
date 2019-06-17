@@ -2,7 +2,7 @@
 layout: post
 title: "Talk.CSS #29"
 date: 2018-06-22 19:00:00 +0800
-location: Carousell
+location: Carousell HQ
 event-date: 2018-06-28 19:00:00 +0800
 categories: meetup
 event-id: 249447875

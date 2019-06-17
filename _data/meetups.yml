@@ -483,5 +483,6 @@
 
 41:
   speakers:
-    - ref: mystery
-    - ref: mystery
+    - ref: van
+    - ref: dylan
+    - ref: aysha
