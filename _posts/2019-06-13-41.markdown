@@ -15,7 +15,7 @@ After 2 years of owning the last Wednesday of every month slot, we have decided 
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
 **Pure CSS mob** by **Nguyen Tuong Van**  
-CSS is more than just for styling web pages. It is also a tool to create art, as Van explains how she uses just CSS to create [this awesome illustration](https://codepen.io/tvan/full/ZZZwgV).
+CSS has been used in creative ways to beautify articles on the web. How about taking a seat back and imagine CSS being used for purposes that we don't encounter often in our everyday dev lives? In this sharing, the speaker will exchange her thoughts with the audience on CSS being used to make artworks and why she finds it an exhilarating journey. 
 
 **Something about `::before` and `::after`** by **Dylan Ho**  
 How well do you know pseudo-elements? Dylan will be talking about something with `::before` and `::after`. (Clearly he has not given me his official version, words are hard, my friends…)
