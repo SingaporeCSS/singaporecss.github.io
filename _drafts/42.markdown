@@ -14,7 +14,10 @@ Write about 1 single paragraph of nonsensical introductory text to that month's 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Something related to CSS** by **Aysha Anggraini**  
+I'm super happy I managed to drag Aysha out for Talk.CSS again. If you're new to SingaporeCSS, Aysha is one of our top local frontend devs and she'll update me on the talk topic soon. Stay tuned…
+
+More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
