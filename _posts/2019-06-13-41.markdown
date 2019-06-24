@@ -20,8 +20,8 @@ CSS has been used in creative ways to beautify articles on the web. How about ta
 **Making better inputs with pseudo-elements** by **Dylan Ho**  
 Dylan will be sharing how Carousell uses `::before` and `::after` to override the browser's default inputs like checkboxes and radio buttons.
 
-**Trigonometry in CSS/SASS** by **Liu Weiyuan**  
-The title itself should be fascinating to you already, but truth be told, I'm pending the official description. It's definitely gonna be good though, so stay tuned…
+**Implementing Trigonometry in SCSS and lessons learnt** by **Liu Weiyuan**  
+CSS is good. But there are limitations to what a stylesheet language can do. Weiyuan will take us through how SCSS can elevate our approach to CSS and adopt core engineering principles like code reuse and unit testing, all while recreating trigonometric functions in SCSS.
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
