@@ -486,3 +486,9 @@
     - ref: van
     - ref: dylan
     - ref: weiyuan
+
+42:
+  speakers:
+    - ref: aysha
+    - ref: murray
+    - ref: mystery

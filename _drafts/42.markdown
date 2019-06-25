@@ -17,6 +17,9 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Something related to CSS** by **Aysha Anggraini**  
 I'm super happy I managed to drag Aysha out for Talk.CSS again. If you're new to SingaporeCSS, Aysha is one of our top local frontend devs and she'll update me on the talk topic soon. Stay tuned…
 
+**CSS Matrix** by **Murray Bourne**  
+Makes perfect sense that a math enthusiast would speak about CSS Matrix. Actual talk description pending. Stay tuned…
+
 More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  
