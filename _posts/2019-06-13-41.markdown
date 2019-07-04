@@ -7,21 +7,5 @@ event-date: 2019-07-03 19:00:00 +0800
 categories: meetup
 meetup: 41
 event-id: 259235999
-novideos: true
 ---
-After 2 years of owning the last Wednesday of every month slot, we have decided to move to the first Wednesday of every month slot. This month we will be at the offices of [Viki](https://www.viki.com/countries/singapore). Here's [a map](https://www.google.com/maps/place/Viki,+Inc./@1.281808,103.8479361,17z/data=!3m1!4b1!4m5!3m4!1s0x31da190dd3c68b25:0x1ef5468f72977dea!8m2!3d1.2818026!4d103.8501248) so you don't get lost.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Pure CSS mob** by **Nguyen Tuong Van**  
-CSS has been used in creative ways to beautify articles on the web. How about taking a seat back and imagine CSS being used for purposes that we don't encounter often in our everyday dev lives? In this sharing, Van will exchange her thoughts with the audience on CSS being used to make artworks and why she finds it an exhilarating journey. 
-
-**Making better inputs with pseudo-elements** by **Dylan Ho**  
-Dylan will be sharing how Carousell uses `::before` and `::after` to override the browser's default inputs like checkboxes and radio buttons.
-
-**Implementing Trigonometry in SCSS and lessons learnt** by **Liu Weiyuan**  
-CSS is good. But there are limitations to what a stylesheet language can do. Weiyuan will take us through how SCSS can elevate our approach to CSS and adopt core engineering principles like code reuse and unit testing, all while recreating trigonometric functions in SCSS.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+We returned to the offices of Rakuten Viki after almost 2 years (we were last here on 26 July 2017), and it was great. This was the unofficial Talk.CSS Math edition and it was a hoot. If you missed it, well, videos for you then. 

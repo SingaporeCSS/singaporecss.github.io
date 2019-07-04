@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Talk.CSS #42"
+date: 2019-07-03 19:00:00 +0800
+location: HackerspaceSG
+event-date: 2019-08-07 19:00:00 +0800
+categories: meetup
+meetup: 42
+event-id: 261692426
+novideos: true
+---
+August 2019 is a miracle month in Singapore because for the first time in donkey years, there is a 4-day weekend. Celebrate with some CSS. We will be happening at [Hackerspace](https://hackerspace.sg/). Here's [a map](https://www.google.com/maps/place/HackerspaceSG/@1.3103984,103.8602843,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19c97c42f525:0x26d1643c9443eec1!8m2!3d1.310393!4d103.862473) so you don't get lost. You know the drill, but if you don't, come anyway.
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Something related to Houdini** by **Aysha Anggraini**  
+I'm super happy I managed to drag Aysha out for Talk.CSS again. If you're new to SingaporeCSS, Aysha is one of our top local frontend devs and she'll update me her actual talk title and description soon. Stay tuned…
+
+**CSS Matrix** by **Murray Bourne**  
+Whenever we transform anything (translate, rotate, skew, etc) in the DOM or in SVG, the browser calculates and performs it using matrix operations (multiply and add). This talk will give an overview of how they work.
+
+More speakers TBC. Maybe.  
+We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+
+**The CSS doctor is in (our segment that never gets utilised)**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.

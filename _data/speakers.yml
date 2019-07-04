@@ -332,7 +332,7 @@ van:
 
 dylan:
   name: "Dylan Ho"
-  github: "Dlearn"
+  twitter: "dlaern"
   shortcode: "dylan"
   bio: "Extroverted engineer who specialises in frontend web development. Other interests include rock climbing, board gaming and improv comedy."
 
@@ -341,3 +341,9 @@ weiyuan:
   github: "weiyuan-lane"
   shortcode: "weiyuan"
   bio: "Full-stack engineer, though uses more queues nowadays. Doesn't drink, but has a story on how he wrote an awesome piece of code while tipsy for the first time."
+
+ollie:
+  name: "Ollie Monk"
+  twitter: "ollie_monk"
+  shortcode: "ollie"
+  bio: "A modern Renaissance man with a wide range of interests. Looking for his headphones. Clearly did not write this bio himself."

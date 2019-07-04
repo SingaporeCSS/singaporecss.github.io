@@ -615,3 +615,27 @@ s4004:
   link: "https://youtu.be/e5-GQzmsejE"
   shortcode: "s4004"
   description: "Alex does a live debugging of the Carousell website. Spoiler, the site is amazingly performant."
+
+s4101:
+  title: "Pure CSS mob"
+  link: "https://youtu.be/j7bx3CTkq-E"
+  shortcode: "s4101"
+  description: "Van gives a most inspiring talk about drawing with CSS and the joy of doing things without the need for justification."
+
+s4102:
+  title: "Making better inputs with pseudo-elements"
+  link: "https://youtu.be/zLfLPj9GBww"
+  shortcode: "s4102"
+  description: "Live-coding by Dylan as he explains how pseudo-elements can used for making radios and checkboxes look better."
+
+s4103:
+  title: "Implementing trigonometry in SCSS and lessons learnt"
+  link: "https://youtu.be/Jhgc1X8qvAc"
+  shortcode: "s4103"
+  description: "A beautiful talk on how trigonometric functions can be used with SCSS to create performant animations by Weiyuan."
+
+s4104:
+  title: "Preventing image reflow"
+  link: "https://youtu.be/N0ru-UoCPns"
+  shortcode: "s4104"
+  description: "A short but immensely useful lightning talk by Ollie on preventing image reflow on your web pages."

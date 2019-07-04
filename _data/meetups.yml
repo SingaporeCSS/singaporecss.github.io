@@ -482,10 +482,21 @@
     - ref: mike
 
 41:
+  colour:
+    name: steelblue
+    hex: "#4682b4"
+    rgba: rgba(70, 130, 180, 1)
+    text: "#fff"
+  videos:
+    - ref: s4101
+    - ref: s4102
+    - ref: s4103
+    - ref: s4104
   speakers:
     - ref: van
     - ref: dylan
     - ref: weiyuan
+    - ref: ollie
 
 42:
   speakers:
