@@ -20,8 +20,8 @@ I'm super happy I managed to drag Aysha out for Talk.CSS again. If you're new to
 **CSS Matrix** by **Murray Bourne**  
 Whenever we transform anything (translate, rotate, skew, etc) in the DOM or in SVG, the browser calculates and performs it using matrix operations (multiply and add). This talk will give an overview of how they work.
 
-**Lightning talk on some CSS-related topic** by **Sheldon Cheng**  
-Details to follow. Soon-ish. I hope. But talk is confirm. If this part is not updated, show up and be surprised.
+**Sometimes you gotta abuse Grid** by **Sheldon Cheng**  
+Sheldon ran into tricky layout problem at work and after exhausting other options, turned to an unlikely hero to save the day.
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
