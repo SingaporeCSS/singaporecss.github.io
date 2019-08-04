@@ -14,8 +14,8 @@ August 2019 is a miracle month in Singapore because for the first time in donkey
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**Something related to Houdini** by **Aysha Anggraini**  
-I'm super happy I managed to drag Aysha out for Talk.CSS again. If you're new to SingaporeCSS, Aysha is one of our top local frontend devs and she'll update me her actual talk title and description soon. Stay tuned…
+**CSS Houdini: The Magic of Properties, Values, and the Paint API** by **Aysha Anggraini**  
+The word 'polyfill' comes up often when we speak about Houdini. But polyfilling CSS is not the only potential of Houdini since it unlocks many interesting possibilities. Let's explore them by looking at Houdini's properties, values, and Paint API.
 
 **CSS Matrix** by **Murray Bourne**  
 Whenever we transform anything (translate, rotate, skew, etc) in the DOM or in SVG, the browser calculates and performs it using matrix operations (multiply and add). This talk will give an overview of how they work.
