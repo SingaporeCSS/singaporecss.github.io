@@ -7,21 +7,5 @@ event-date: 2019-08-07 19:00:00 +0800
 categories: meetup
 meetup: 42
 event-id: 261692426
-novideos: true
 ---
-August 2019 is a miracle month in Singapore because for the first time in donkey years, there is a 4-day weekend. Celebrate with some CSS. We will be happening at [Hackerspace](https://hackerspace.sg/). Here's [a map](https://www.google.com/maps/place/HackerspaceSG/@1.3103984,103.8602843,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19c97c42f525:0x26d1643c9443eec1!8m2!3d1.310393!4d103.862473) so you don't get lost. You know the drill, but if you don't, come anyway.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**CSS Houdini: The Magic of Properties, Values, and the Paint API** by **Aysha Anggraini**  
-The word 'polyfill' comes up often when we speak about Houdini. But polyfilling CSS is not the only potential of Houdini since it unlocks many interesting possibilities. Let's explore them by looking at Houdini's properties, values, and Paint API.
-
-**CSS Matrix** by **Murray Bourne**  
-Whenever we transform anything (translate, rotate, skew, etc) in the DOM or in SVG, the browser calculates and performs it using matrix operations (multiply and add). This talk will give an overview of how they work.
-
-**Sometimes you gotta abuse Grid** by **Sheldon Cheng**  
-Sheldon ran into tricky layout problem at work and after exhausting other options, turned to an unlikely hero to save the day.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+We returned to where it all began, [Hackerspace.SG](https://hackerspace.sg/), and even had [Nexmo](https://developer.nexmo.com/) as a food sponsor this time! It was a Singlish-heavy affair in commemoration of the upcoming national day celebration and once-in-a-blue-moon 4-day weekend. Plus, we had not 1 but 2 full-length heavy-weight talks. ICYMI, have some videos.

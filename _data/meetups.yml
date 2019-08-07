@@ -499,7 +499,19 @@
     - ref: ollie
 
 42:
+  colour:
+    name: snow
+    hex: "#fffafa"
+    rgba: rgba(255, 250, 250, 1)
+  videos:
+    - ref: s4201
+    - ref: s4202
   speakers:
     - ref: aysha
     - ref: murray
+
+43:
+  speakers:
     - ref: sheldon
+    - ref: mystery
+    - ref: mystery

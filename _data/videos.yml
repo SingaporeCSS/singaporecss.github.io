@@ -639,3 +639,15 @@ s4104:
   link: "https://youtu.be/N0ru-UoCPns"
   shortcode: "s4104"
   description: "A short but immensely useful lightning talk by Ollie on preventing image reflow on your web pages."
+
+s4201:
+  title: "CSS Matrix"
+  link: "javascript:void(0)"
+  shortcode: "s4201"
+  description: "Murray demystifies how the browser does matrix calculations for CSS transforms."
+
+s4202:
+  title: "CSS Houdini: The Magic of Properties, Values, and the Paint API"
+  link: "https://youtu.be/duXP9J_jaNo"
+  shortcode: "s4202"
+  description: "Aysha artfully demonstrates the magic of Houdini and its possibilities. Live-coding included."
