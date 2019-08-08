@@ -8,4 +8,6 @@ categories: meetup
 meetup: 42
 event-id: 261692426
 ---
-We returned to where it all began, [Hackerspace.SG](https://hackerspace.sg/), and even had [Nexmo](https://developer.nexmo.com/) as a food sponsor this time! It was a Singlish-heavy affair in commemoration of the upcoming national day celebration and once-in-a-blue-moon 4-day weekend. Plus, we had not 1 but 2 full-length heavy-weight talks. ICYMI, have some videos.
+We returned to where it all began, [Hackerspace.SG](https://hackerspace.sg/), and even had [Nexmo](https://developer.nexmo.com/) as a food sponsor this time! It was a Singlish-heavy affair in commemoration of the upcoming national day celebration and once-in-a-blue-moon 4-day weekend. Plus, we had not 1 but 2 full-length heavy-weight talks.
+
+Unfortunately the recording for Murray's talk didn't go so well, so if you missed it, you'll have to make do with slides. <span class="o-kaomoji">¯\_(ツ)_/¯</span>
