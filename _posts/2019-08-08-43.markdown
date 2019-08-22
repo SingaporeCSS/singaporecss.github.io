@@ -17,6 +17,9 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Sometimes you gotta abuse Grid** by **Sheldon Cheng**  
 Sheldon ran into tricky layout problem at work and after exhausting other options, turned to an unlikely hero to save the day.
 
+**An exploration of CJSS - A CSS based web framework** by **See Yishu**  
+What started out as an extended joke, Scott Kellum created a framework where everything can be written in CSS. We will explore the codebase that he has open sourced, and a retrospective look into web frameworks.
+
 More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  
