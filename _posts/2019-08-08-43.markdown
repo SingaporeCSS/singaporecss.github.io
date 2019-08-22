@@ -2,14 +2,16 @@
 layout: post
 title: "Talk.CSS #43"
 date: 2019-08-07 19:00:00 +0800
-location: TBC
+location: HOOQ
 event-date: 2019-09-04 19:00:00 +0800
 categories: meetup
 meetup: 43
 event-id: 261692436
 novideos: true
 ---
-If this was a temperate country, September would be like the start of Autumn, when leaves change colour and the weather turns cool. Unfortunately, we are in a tropical region, where trees are either green or dead. But regardless of the weather, we must have our monthly dose of CSS. Venue TBC, stay tuned!
+If this was a temperate country, September would be like the start of Autumn, when leaves change colour and the weather turns cool. Unfortunately, we are in a tropical region, where trees are either green or dead. But regardless of the weather, we must have our monthly dose of CSS.
+
+We're going back to HOOQ! Here's [a map](https://www.google.com/maps/place/1%C2%B017'56.3%22N+103%C2%B050'20.3%22E/@1.298959,103.83897,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d1.298959!4d103.83897) so you don't get lost. If you check our meetup.com page from the last time we were there, there are [guiding photos]((https://www.meetup.com/SingaporeCSS/photos/29690784/)) as well.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
