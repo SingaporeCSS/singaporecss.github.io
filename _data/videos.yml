@@ -651,3 +651,21 @@ s4202:
   link: "https://youtu.be/duXP9J_jaNo"
   shortcode: "s4202"
   description: "Aysha artfully demonstrates the magic of Houdini and its possibilities. Live-coding included."
+
+s4301:
+  title: "Lean animations"
+  link: "https://youtu.be/_QN_ahQN0Ic"
+  shortcode: "s4301"
+  description: "Jinjiang shares some very practical tips on how to quickly add animations to your design or product."
+
+s4302:
+  title: "An exploration of CJSS - A CSS based web framework"
+  link: "https://youtu.be/x1U9tPwRiiw"
+  shortcode: "s4302"
+  description: "CSS-in-JS? How about JS-in-CSS instead? Yishu ponders some deep questions about web development, plus LIVE-CODING!"
+
+s4303:
+  title: "Sometimes you gotta abuse Grid"
+  link: "https://youtu.be/9DwzDzCNDwI"
+  shortcode: "s4303"
+  description: "Sheldon encountered a problem and solved it the best way he could, with Grid. Context is everything, my friends."

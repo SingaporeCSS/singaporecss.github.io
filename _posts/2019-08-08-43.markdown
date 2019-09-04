@@ -7,25 +7,5 @@ event-date: 2019-09-04 19:00:00 +0800
 categories: meetup
 meetup: 43
 event-id: 261692436
-novideos: true
 ---
-If this was a temperate country, September would be like the start of Autumn, when leaves change colour and the weather turns cool. Unfortunately, we are in a tropical region, where trees are either green or dead. But regardless of the weather, we must have our monthly dose of CSS.
-
-We're going back to HOOQ! Here's [a map](https://www.google.com/maps/place/1%C2%B017'56.3%22N+103%C2%B050'20.3%22E/@1.298959,103.83897,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d1.298959!4d103.83897) so you don't get lost. If you check our meetup.com page from the last time we were there, there are [guiding photos]((https://www.meetup.com/SingaporeCSS/photos/29690784/)) as well.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Sometimes you gotta abuse Grid** by **Sheldon Cheng**  
-Sheldon ran into tricky layout problem at work and after exhausting other options, turned to an unlikely hero to save the day.
-
-**An exploration of CJSS - A CSS based web framework** by **See Yishu**  
-What started out as an extended joke, Scott Kellum created a framework where everything can be written in CSS. We will explore the codebase that he has open sourced, and a retrospective look into web frameworks.
-
-**Lean animations** by **Zhao Jinjiang**  
-Animations, when done well, can add character and personality to your product or design system. We're super honoured to have Jinjiang share his knowledge and experience with us at Talk.CSS. (As you can see, this description was clearly not written by him)
-
-More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+Back at HOOQ and this time we had 3 great lightning talks by 3 great speakers. If you didn't show up, well, you know that we almost always have video. Almost always. Anyway, try to come next time, okay?

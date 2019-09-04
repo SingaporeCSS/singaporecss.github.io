@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Talk.CSS #44"
-date: 20YY-MM-DD 19:00:00 +0800
-location: TBC
+date: 2019-09-04 19:00:00 +0800
+location: GovTech Hive
 event-date: 2019-10-02 19:00:00 +0800
 categories: meetup
 meetup: 44
 event-id: 261692440
 novideos: true
 ---
-Write about 1 single paragraph of nonsensical introductory text to that month's meetup. Write whatever you want depending on your mood. Do remember to update this bit with the map of the venue location once that is confirmed. Or not, up to you la.
+Wah, chio sia...October venue was confirmed in August. We have come a long way from changing venue 1 day beforehand. So hopefully more than 6 of you show up this time. This time we get to visit [GovTech Hive](https://www.tech.gov.sg/)! Here's [a map](https://www.google.com/maps/place/GovTech+Hive/@1.2998708,103.7893391,15z/data=!4m2!3m1!1s0x0:0x2202a995a6abc728?sa=X&ved=2ahUKEwif4-alwbfkAhUDAGMBHY2QBwwQ_BIwE3oECA0QCA) so you don't get lost.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
