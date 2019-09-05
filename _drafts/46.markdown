@@ -1,21 +1,18 @@
 ---
 layout: post
-title: "Talk.CSS #45 We're Still Here edition"
-date: 2019-10-04 19:00:00 +0800
+title: "Talk.CSS #46"
+date: 20YY-MM-DD 19:00:00 +0800
 location: TBC
-event-date: 2019-11-06 19:00:00 +0800
+event-date: 2020-01-08 19:00:00 +0800
 categories: meetup
-meetup: 45
-event-id: 261692488
+meetup: 46
+event-id: 263998426
 novideos: true
 ---
-SingaporeCSS turns 4. Will there be cake now Sarah's back in Melbourne? We shall see. Venue and speakers TBC. Stay tuned.
+What are the odds that the first Wednesday of January falls on New Year's Day? So that's why we are on 8 January, because even without special days or clashing with ReactJS, you all already don't come liao. It's time to come out of CSS hibernation for a new year of CSS!
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**User states in CSS (real title pending)** by **Zell Liew**  
-Our inaugural speaker from Talk.CSS #1 (and many more that followed) is back for our 4th anniversary to share about hover, focus and active states in CSS.
 
 Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 

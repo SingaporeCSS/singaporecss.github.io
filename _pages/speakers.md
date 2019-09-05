@@ -13,7 +13,6 @@ Even if you just have an inkling of an idea, do get in touch with Hui Jing or We
 
 <ul class="l-speakers c-speakers">
   {% for speaker in site.data.speakers %}
-  {% assign count = forloop.length %}
   <div class="l-speaker c-speaker">
     <figure>
       <img class="c-speaker__img" src="{{ site.url }}/assets/img/speakers/{{ speaker[1].shortcode }}.jpg" srcset="{{ site.url }}/assets/img/speakers/{{ speaker[1].shortcode }}@2x.jpg 2x" alt="{{ speaker[0].name }}"/>
@@ -29,3 +28,4 @@ Even if you just have an inkling of an idea, do get in touch with Hui Jing or We
   </div>
   {% endfor %}
 </ul>
+
