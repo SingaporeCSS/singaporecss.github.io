@@ -353,3 +353,15 @@ jinjiang:
   twitter: "zhaojinjiang"
   shortcode: "jinjiang"
   bio: "0.1x engineer. Loves football. Does frontend."
+
+caleb:
+  name: "Caleb Yang"
+  github: "Calebyang93"
+  shortcode: "caleb"
+  bio: "Caleb is a self taught developer who is exploring his potential to guide people as a financial advisor."
+
+ian:
+  name: "Ian Chen"
+  github: "pregnantboy"
+  shortcode: "ian"
+  bio: "Ian kena arrow by Alwyn to speak at Talk.CSS, if he forgives us, maybe he'll write a bio."

@@ -526,5 +526,6 @@
 
 44:
   speakers:
-    - ref: mystery
+    - ref: caleb
+    - ref: ian
     - ref: mystery
