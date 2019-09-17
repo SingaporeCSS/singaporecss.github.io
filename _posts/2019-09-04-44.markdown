@@ -14,7 +14,7 @@ Wah, chio sia...October venue was confirmed in August. We have come a long way f
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**Applying Sass in responsive web development using JS frameworks** by **Caleb Yang**  
+**Sass techniques** by **Caleb Yang**  
 Caleb has never used Sass before and will be sharing his learning journey and perspective on Sass as he tries to integrate it into his web development workflow.
 
 **Something about variable fonts** by **Ian Chen**  
