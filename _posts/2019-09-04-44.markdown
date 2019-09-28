@@ -17,8 +17,8 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Sass techniques** by **Caleb Yang**  
 Caleb has never used Sass before and will be sharing his learning journey and perspective on Sass as he tries to integrate it into his web development workflow.
 
-**Something about variable fonts** by **Ian Chen**  
-Ian is still getting around to submitting his information, because he actually kena arrow by Alwyn to do this. Regardless of how you got here, we love you muchly for speaking regardless. Stay tuned for updates.
+**Introduction to Variable Fonts** by **Ian Chen**  
+Ian will share about the advantages of using variable fonts and how it can simplify web development.
 
 **You mean you don't resize your browser 1000 times a day?** by **Chen Hui Jing**  
 This title is only tangentially related to the talk. Basically it's about the new sizing options we have for doing layout that offer a lot more flexibility than percentages alone. Dial-in talk, burn some joss sticks to ward off technical complications, thanks.
