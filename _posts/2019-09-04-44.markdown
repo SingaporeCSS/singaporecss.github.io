@@ -7,23 +7,5 @@ event-date: 2019-10-02 19:00:00 +0800
 categories: meetup
 meetup: 44
 event-id: 261692440
-novideos: true
 ---
-Wah, chio sia...October venue was confirmed in August. We have come a long way from changing venue 1 day beforehand. So hopefully more than 6 of you show up this time. This time we get to visit [GovTech Hive](https://www.tech.gov.sg/)! Here's [a map](https://www.google.com/maps/place/GovTech+Hive/@1.2998708,103.7893391,15z/data=!4m2!3m1!1s0x0:0x2202a995a6abc728?sa=X&ved=2ahUKEwif4-alwbfkAhUDAGMBHY2QBwwQ_BIwE3oECA0QCA) so you don't get lost.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Sass techniques** by **Caleb Yang**  
-Caleb has never used Sass before and will be sharing his learning journey and perspective on Sass as he tries to integrate it into his web development workflow.
-
-**Introduction to Variable Fonts** by **Ian Chen**  
-Ian will share about the advantages of using variable fonts and how it can simplify web development.
-
-**You mean you don't resize your browser 1000 times a day?** by **Chen Hui Jing**  
-This title is only tangentially related to the talk. Basically it's about the new sizing options we have for doing layout that offer a lot more flexibility than percentages alone. Dial-in talk, burn some joss sticks to ward off technical complications, thanks.
-
-More speakers TBC maybe. Feel free to volunteer yourself <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+We were graciously hosted by GovTech for the first time and turn-out was nice. Dial-in talk wasn't a complete bomb so thank you for all the positive vibes to ensure the internet connection was good. Video recording also didn't fail. When good things happen, don't ask questions.

@@ -525,7 +525,15 @@
     - ref: jinjiang
 
 44:
+  colour:
+    name: lightgoldenrodyellow
+    hex: "#fafad2"
+    rgba: rgba(250, 250, 210, 1)
+  videos:
+    - ref: s4401
+    - ref: s4402
+    - ref: s4403
   speakers:
-    - ref: caleb
-    - ref: ian
     - ref: huijing
+    - ref: ian
+    - ref: caleb

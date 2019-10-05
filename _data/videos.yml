@@ -669,3 +669,21 @@ s4303:
   link: "https://youtu.be/9DwzDzCNDwI"
   shortcode: "s4303"
   description: "Sheldon encountered a problem and solved it the best way he could, with Grid. Context is everything, my friends."
+
+s4401:
+  title: "You mean you don't resize your browser 1000 times a day?"
+  link: "https://youtu.be/yV3_09UUsSM"
+  shortcode: "s4401"
+  description: "Hui Jing anyhowly dialed in and anyhowly resized the browser for 15 minutes."
+
+s4402:
+  title: "Introduction to variable fonts"
+  link: "https://youtu.be/w6W02wc35OU"
+  shortcode: "s4402"
+  description: "Ian talked about the advantages of using variable fonts and how it can simplify web development."
+
+s4403:
+  title: "Sass techniques"
+  link: "https://youtu.be/3NhU5_nZiN8"
+  shortcode: "s4403"
+  description: "A primer for beginners, a refresher for more experienced folks on Sass techniques by Caleb."
