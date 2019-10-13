@@ -537,3 +537,9 @@
     - ref: huijing
     - ref: ian
     - ref: caleb
+
+45:
+  speakers:
+    - ref: zell
+    - ref: honwen
+    - ref: huijing
