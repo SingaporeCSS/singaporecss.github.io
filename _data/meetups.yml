@@ -542,4 +542,6 @@
   speakers:
     - ref: zell
     - ref: honwen
+    - ref: sathish
+    - ref: erik
     - ref: huijing

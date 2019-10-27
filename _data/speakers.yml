@@ -371,3 +371,15 @@ honwen:
   twitter: "th__chia"
   shortcode: "honwen"
   bio: "Front End Developer. Lover not a hater."
+
+erik:
+  name: "Erik Nguyen"
+  twitter: "_eriknguyen"
+  shortcode: "erik"
+  bio: "Front End Engineer at Rakuten Viki."
+
+sathish:
+  name: "Sathish Kumar Thiyagarajan"
+  github: "sathishk"
+  shortcode: "sathish"
+  bio: "Software engineer."
