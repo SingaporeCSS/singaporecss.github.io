@@ -8,4 +8,6 @@ categories: meetup
 meetup: 45
 event-id: 261692488
 ---
-4 years. 45 meetups. So many memories. None of this would have been possible without your support. CSS isn't the most cool or most sexy part of web development, but it is and will always be my favourite. And even though it may not be yours, we are so grateful that you've indulged in our passion for CSS by turning out month after month. Thank you all for being part of this journey with us.
+4 years. 45 meetups. So many memories. None of this would have been possible without your support. CSS isn't the most cool or most sexy part of web development, but it is and will always be my favourite. And even though it may not be yours, we are so grateful that you've indulged in our passion for CSS by turning out month after month. 
+
+Thank you all for being part of this journey with us. ❤️🧡💛💚💙💜
