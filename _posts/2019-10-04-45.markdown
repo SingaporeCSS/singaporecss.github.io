@@ -7,27 +7,5 @@ event-date: 2019-11-06 19:00:00 +0800
 categories: meetup
 meetup: 45
 event-id: 261692488
-novideos: true
 ---
-SingaporeCSS turns 4. Will there be cake now Sarah's back in Melbourne? We shall see. But we managed to snag Viki to host us. They've been good to us over the years, so say all the nice things when you see our hosts, okay? Here's [a map](https://www.google.com/maps/search/?api=1&query=Viki%2C%20Inc.%2C%20%2332-01%20Market%20St%2C%20Singapore%2C%20048946%2C%20sg&query_place_id=ChIJJYvG0w0Z2jER6n2Xco9G9R4) so you don't get lost.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**User states in CSS (real title pending)** by **Zell Liew**  
-Our inaugural speaker from Talk.CSS #1 (and many more that followed) is back for our 4th anniversary to share about hover, focus and active states in CSS.
-
-**Learning to Count with CSS** by **Thomas Chia**  
-People say CSS is not a real programming language. People say that if you need to count stuff use JavaScript. In this talk I dispel such myths and will blow at least my own mind as I show how to count with CSS (tldr it’s a quick overview of the counter property. It’s gonna be really short <span class="emoji" role="img" tabindex="0" aria-label="high voltage">&#x26A1;</span>).
-
-**Tools for Rapid CSS development** by **Sathish Kumar Thiyagarajan**
-Sathish will talk about the tools that can help us to use CSS effectively to build web applications.
-
-**Why would I use Javascript for my styling** by **Erik Nguyen**
-From traditional CSS to CSS-in-JS, we will discuss why we would explore the new way of writing styles and how to take advantages of it.
-
-**4 years of Talk.CSS** by **Chen Hui Jing**  
-It's been 45 editions over 4 years, and honestly I'm surprised we still exist. And there are recaps back till the first one because I OCD, so let's reminisce, just a little bit…
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+4 years. 45 meetups. So many memories. None of this would have been possible without your support. CSS isn't the most cool or most sexy part of web development, but it is and will always be my favourite. And even though it may not be yours, we are so grateful that you've indulged in our passion for CSS by turning out month after month. Thank you all for being part of this journey with us.

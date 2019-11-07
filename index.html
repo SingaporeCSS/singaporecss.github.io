@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit:1 %}
+<h2 style="text-align:center">Talk.CSS appreciates your support</h2>
+
+<img src="{{ site.url }}/assets/img/thanks.jpg" srcset="{{ site.url }}/assets/img/thanks@2x.jpg 2x" alt="Talk.CSS thanks you for your support"/>
+
+{% for post in site.posts limit:0 %}
 <article class="c-upcoming-event {{ post.css }}">
   {% unless post.special %}
   <header class="c-event__header">
@@ -17,6 +21,7 @@ layout: default
   <div class="c-event__content">
     {{ post.content | markdownify }}
   </div>
+
   {% endunless %}
 
   {% if post.special %}
@@ -30,7 +35,7 @@ layout: default
 
 <h2>Past meetups</h2>
 <ul class="l-past-events c-past-events">
-  {% for post in site.posts offset:1 limit:3 %}
+  {% for post in site.posts offset:0 limit:3 %}
     <li class="l-past-event c-past-event">
       <a class="c-past-event__link" href="{{ post.url | prepend: site.baseurl }}">
         <span class="c-past-event__meta">{{ post.event-date | date: "%b %-d, %Y" }}</span>

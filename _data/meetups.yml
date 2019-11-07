@@ -539,6 +539,16 @@
     - ref: caleb
 
 45:
+  colour:
+    name: mediumseagreen
+    hex: "#3cb371"
+    rgba: rgba(60, 179, 113, 1)
+  videos:
+    - ref: s4501
+    - ref: s4502
+    - ref: s4503
+    - ref: s4504
+    - ref: s4505
   speakers:
     - ref: zell
     - ref: honwen

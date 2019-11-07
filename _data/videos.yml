@@ -687,3 +687,33 @@ s4403:
   link: "https://youtu.be/3NhU5_nZiN8"
   shortcode: "s4403"
   description: "A primer for beginners, a refresher for more experienced folks on Sass techniques by Caleb."
+
+s4501:
+  title: "Tools for Rapid CSS development"
+  link: "https://youtu.be/pcaovUHr7gM"
+  shortcode: "s4501"
+  description: "A knowledge-packed 20 minutes of tips and techniques by Sathish on streamlining the CSS development workflow."
+
+s4502:
+  title: "Learning to Count with CSS"
+  link: "https://youtu.be/Mvo633q_w4I"
+  shortcode: "s4502"
+  description: "Thomas muses about life, humanity, shared knowledge and CSS counters."
+
+s4503:
+  title: "Why would I use Javascript for my styling"
+  link: "https://youtu.be/pvxzS_pCQBE"
+  shortcode: "s4503"
+  description: "Erik presents a case for using Javascript as a means to an end for writing styles in React."
+
+s4504:
+  title: "User states in CSS"
+  link: "https://youtu.be/vXAL29UION4"
+  shortcode: "s4504"
+  description: "A pure CSS talk by Zell on hover, active and focus states."
+
+s4505:
+  title: "4 years of Talk.CSS"
+  link: "https://youtu.be/UaTfCUjDN00"
+  shortcode: "s4505"
+  description: "Hui Jing goes through 45 meetups worth of Talk.CSS highlights which happened over the last 4 years."
