@@ -17,7 +17,7 @@ The meetup was started and run by [Chen Hui Jing](https://twitter.com/hj_chen) a
 
 Our sort-of-secret-unofficial mascot, named “200” (go ask Wei about that), first made an appearance at [Talk.CSS #19](https://twitter.com/hj_chen/status/1154659935810199552), but had since flown under the radar. But they have started to make more regular appearances so keep a look out. You can also send them your birthday wishes on 8 June.
 
-We can't talk about tech meet-ups in Singapore without mentioning [webuild.sg](https://webuild.sg/), *THE* hub for all things tech on this little red dot. If you're interested to attend any other tech meet-ups, definitely check it out. For data buffs, there is [https://webuildsg.github.io/data/](https://webuildsg.github.io/data/), which has information on tech meet-ups in Singapore dating back to December 2014.
+~~We can't talk about tech meet-ups in Singapore without mentioning [webuild.sg](https://webuild.sg/), *THE* hub for all things tech on this little red dot. If you're interested to attend any other tech meet-ups, definitely check it out. For data buffs, there is [https://webuildsg.github.io/data/](https://webuildsg.github.io/data/), which has information on tech meet-ups in Singapore dating back to December 2014.~~
 
 *Update:*  
 As of August 2018, webuild.sg has merged into [Engineers.SG](https://engineers.sg/), so please refer to [https://engineers.sg/events](https://engineers.sg/events) for the list of upcoming open developer, design and maker events in Singapore.
