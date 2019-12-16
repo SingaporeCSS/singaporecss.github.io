@@ -383,3 +383,9 @@ sathish:
   github: "sathishk"
   shortcode: "sathish"
   bio: "Software engineer."
+
+ryan:
+  name: "Ryan Chong"
+  github: "https://github.com/ryancsf"
+  shortcode: "ryan"
+  bio: "Ryan operates in binary mode. He’s always hard at work or hardly working. He likes psychology, ui/ux and making things beautiful."
