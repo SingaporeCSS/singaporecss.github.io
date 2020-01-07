@@ -11,6 +11,8 @@ novideos: true
 ---
 What are the odds that the first Wednesday of January falls on New Year's Day? So that's why we are on 8 January, because even without special days or clashing with ReactJS, you all already don't come liao. It's time to come out of CSS hibernation for a new year of CSS!
 
+We'll be at Microsoft's new office location. Here's [a map](https://www.google.com/maps/place/Microsoft+Singapore/@1.2786632,103.8474008,15z/data=!4m2!3m1!1s0x0:0x1108ee8915a8eacc?sa=X&ved=2ahUKEwituvWt1PDmAhXDAnIKHerADxoQ_BIwCnoECA8QCA) so you don't get lost.
+
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
