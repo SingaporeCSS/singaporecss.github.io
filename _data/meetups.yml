@@ -557,6 +557,22 @@
     - ref: huijing
 
 46:
+  colour:
+    name: aliceblue
+    hex: "#f0f8ff"
+    rgba: rgba(240, 248, 255, 1)
+  videos:
+    - ref: s4601
+    - ref: s4602
+    - ref: s4603
+    - ref: s4604
   speakers:
     - ref: ryan
+    - ref: sathish
+    - ref: murray
+
+47:
+  speakers:
+    - ref: sheldon
+    - ref: dave
     - ref: mystery

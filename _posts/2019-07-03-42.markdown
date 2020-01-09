@@ -7,6 +7,7 @@ event-date: 2019-08-07 19:00:00 +0800
 categories: meetup
 meetup: 42
 event-id: 261692426
+news: August 2019
 ---
 We returned to where it all began, [Hackerspace.SG](https://hackerspace.sg/), and even had [Nexmo](https://developer.nexmo.com/) as a food sponsor this time! It was a Singlish-heavy affair in commemoration of the upcoming national day celebration and once-in-a-blue-moon 4-day weekend. Plus, we had not 1 but 2 full-length heavy-weight talks.
 

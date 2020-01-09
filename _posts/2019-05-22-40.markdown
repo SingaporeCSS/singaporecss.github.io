@@ -7,6 +7,7 @@ event-date: 2019-06-12 19:00:00 +0800
 categories: meetup
 meetup: 40
 event-id: 259235995
+news: June 2019
 ---
 It's [JSConf.Asia](https://2019.jsconf.asia/) week! And so we're having a long overdue combined meetup with our sister meetup, [Talk.JS](https://github.com/SingaporeJS/talk.js). The turn-out was fantastic and so were the talks. We are especially thankful to [Carousell](https://sg.carousell.com/) for stepping in at the very last minute to rescue us from logistical issues with the previous venue. And [SP Digital](https://blog.spdigital.io/) who lent us extra chairs.
 

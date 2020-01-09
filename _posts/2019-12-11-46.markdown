@@ -7,23 +7,5 @@ event-date: 2020-01-08 19:00:00 +0800
 categories: meetup
 meetup: 46
 event-id: 263998426
-novideos: true
 ---
-What are the odds that the first Wednesday of January falls on New Year's Day? So that's why we are on 8 January, because even without special days or clashing with ReactJS, you all already don't come liao. It's time to come out of CSS hibernation for a new year of CSS!
-
-We'll be at Microsoft's new office location. Here's [a map](https://www.google.com/maps/place/Microsoft+Singapore/@1.2786632,103.8474008,15z/data=!4m2!3m1!1s0x0:0x1108ee8915a8eacc?sa=X&ved=2ahUKEwituvWt1PDmAhXDAnIKHerADxoQ_BIwCnoECA8QCA) so you don't get lost.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Why and for whom UX (really) matters** by **Sathish Kumar Thiyagarajan**  
-When it comes to UX, at one side, we see companies that think UX matters a lot. On the other side,there are also companies that think, does it matter at all? Sathish will share his views on this polarising issue.
-
-**Text on Images - a Saga** by **Murray Bourne**  
-Murray is going to tell us how to convince developers (and their bosses) to choose better alternatives to poster-style advertising mails.
-
-**Web design across different cultures** by **Ryan Chong**  
-Websites are designed differently across different cultures. In this talk, Ryan shares about the things that make them different as well as the reasons behind the differences.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+First Talk.CSS of the decade went fairly well, in spite of being on the same day as the crowd-drawing Figma meetup. It was a good turnout and we love each and every one of you for supporting us. If you went to the Figma meetup instead, it's okay, we still love you too.

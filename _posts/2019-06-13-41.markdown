@@ -7,5 +7,6 @@ event-date: 2019-07-03 19:00:00 +0800
 categories: meetup
 meetup: 41
 event-id: 259235999
+news: July 2019
 ---
 We returned to the offices of Rakuten Viki after almost 2 years (we were last here on 26 July 2017), and it was great. This was the unofficial Talk.CSS Math edition and it was a hoot. If you missed it, well, videos for you then. 

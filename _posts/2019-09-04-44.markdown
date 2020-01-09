@@ -7,5 +7,6 @@ event-date: 2019-10-02 19:00:00 +0800
 categories: meetup
 meetup: 44
 event-id: 261692440
+news: October 2019
 ---
 We were graciously hosted by GovTech for the first time and turn-out was nice. Dial-in talk wasn't a complete bomb so thank you for all the positive vibes to ensure the internet connection was good. Video recording also didn't fail. When good things happen, don't ask questions.

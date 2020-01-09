@@ -7,5 +7,6 @@ event-date: 2019-09-04 19:00:00 +0800
 categories: meetup
 meetup: 43
 event-id: 261692436
+news: September 2019
 ---
 Back at HOOQ and this time we had 3 great lightning talks by 3 great speakers. If you didn't show up, well, you know that we almost always have video. Almost always. Anyway, try to come next time, okay?
