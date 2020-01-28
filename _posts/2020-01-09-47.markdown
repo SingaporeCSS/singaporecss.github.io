@@ -18,9 +18,6 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Atomic Styling with Styled System** by **Sheldon Cheng**  
 With Styled System, you combine the best parts of Styled Components and atomic/utility styles! Sheldon will talk about building layouts quickly using Styled System, then step back and touch on how it helps at a design system level.
 
-**Title pending** by **Dave Quah**  
-Stay tuned, this will be great :)
-
 More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  

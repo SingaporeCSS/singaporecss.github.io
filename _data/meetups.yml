@@ -574,5 +574,11 @@
 47:
   speakers:
     - ref: sheldon
-    - ref: dave
+    - ref: mystery
+    - ref: mystery
+
+48:
+  speakers:
+    - ref: caleb
+    - ref: tenzy
     - ref: mystery

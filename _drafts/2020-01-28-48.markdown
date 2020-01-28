@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Talk.CSS #48"
+date: 2020-01-28 19:00:00 +0800
+location: HOOQ
+event-date: 2020-03-04 19:00:00 +0800
+categories: meetup
+meetup: 48
+event-id: 267764592
+novideos: true
+---
+Venue for March confirmed in January? What is this magical trickery? Big thanks to HOOQ for hosting us! Also, we've got a couple of speakers who tossed their hats into the ring already as well. Y'all are the best ❤️. Here's [a map](https://www.google.com/maps/place/HOOQ+Singapore/@1.2989587,103.8389675,15z/data=!4m2!3m1!1s0x0:0xf1cf4b6685165d4e?sa=X&ved=2ahUKEwicvYjs9aXnAhVBJHIKHUoeBsAQ_BIwEnoECA8QCA) so you don't get lost.
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Title pending** by **Dave Quah**  
+Stay tuned, this will be great :)
+
+**CSS Animation Tips** by **Caleb Yang**  
+Caleb will demonstrate how to do animations using CSS.
+
+**`butt` is a valid CSS value** by **Ten Zhi Yang** AKA **Tenzy**  
+Tenzy has made it clear that this is a very important topic. In addition, he will also share some information and a demo regarding styling SVGs using CSS.
+
+More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+
+**The CSS doctor is in (our segment that never gets utilised)**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.

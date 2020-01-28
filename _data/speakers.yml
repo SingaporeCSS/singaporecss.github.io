@@ -389,3 +389,15 @@ ryan:
   github: "ryancsf"
   shortcode: "ryan"
   bio: "Ryan operates in binary mode. He’s always hard at work or hardly working. He likes psychology, ui/ux and making things beautiful."
+
+dave:
+  name: "Dave Quah"
+  twitter: "Milleus"
+  shortcode: "dave"
+  bio: "Dave tells computers what to do. Sometimes they listen."
+
+tenzy:
+  name: "Ten Zhi-Yang"
+  twitter: "Tzyinc"
+  shortcode: "tenzy"
+  bio: "A senior software engineer at Shopee who wants to say \"butt is a valid css value\" in public."
