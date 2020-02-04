@@ -10,7 +10,8 @@ event-id: 267764533
 novideos: true
 ---
 Surprise! We actually have some semblance of preparedness for February. It's happening just after Chinese New Year, so come share your huat-ness with us and all your CSS friends!  
-We'll be hosted at GovTech Hive. Here's [a map](https://www.google.com/maps/place/GovTech+Hive/@1.2998708,103.7893391,15z/data=!4m2!3m1!1s0x0:0x2202a995a6abc728?sa=X&ved=2ahUKEwjrtJC4t_XmAhUy83MBHWs2CBAQ_BIwE3oECA4QCA) so you don't get lost. Bring your mouse 🐁.
+We are doing our first online live-stream meetup ever. Link is: [https://hangouts.google.com/call/nrR9OwLDjs53RYBfS9MPAEEM](https://hangouts.google.com/call/nrR9OwLDjs53RYBfS9MPAEEM)
+Dial-in if you feel like it, if not, will have video also.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
@@ -18,7 +19,8 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Atomic Styling with Styled System** by **Sheldon Cheng**  
 With Styled System, you combine the best parts of Styled Components and atomic/utility styles! Sheldon will talk about building layouts quickly using Styled System, then step back and touch on how it helps at a design system level.
 
-More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Jialat, no speaker then how?** by **Chen Hui Jing**  
+See la, you all dun wan volunteer, so end up with me again. If you dial-in then you will see what stupid idea I come up with live. If not, watch video lor. Do I look like I'm going to tell you my idea here?
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
