@@ -9,7 +9,9 @@ meetup: 48
 event-id: 267764592
 novideos: true
 ---
-Venue for March confirmed in January? What is this magical trickery? Big thanks to HOOQ for hosting us! Also, we've got a couple of speakers who tossed their hats into the ring already as well. Y'all are the best ❤️. Here's [a map](https://www.google.com/maps/place/HOOQ+Singapore/@1.2989587,103.8389675,15z/data=!4m2!3m1!1s0x0:0xf1cf4b6685165d4e?sa=X&ved=2ahUKEwicvYjs9aXnAhVBJHIKHUoeBsAQ_BIwEnoECA8QCA) so you don't get lost.
+Venue for March confirmed in January? What is this magical trickery? Big thanks to HOOQ for hosting us! Also, we've got a couple of speakers who tossed their hats into the ring already as well. Y'all are the best <span class="emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span>. Here's [a map](https://www.google.com/maps/place/HOOQ+Singapore/@1.2989587,103.8389675,15z/data=!4m2!3m1!1s0x0:0xf1cf4b6685165d4e?sa=X&ved=2ahUKEwicvYjs9aXnAhVBJHIKHUoeBsAQ_BIwEnoECA8QCA) so you don't get lost.
+
+But we are also closely monitoring the nCoV-2019 situation, and will update on venue as soon as anything changes. DORSCON is currently still yellow <span class="emoji" role="img" tabindex="0" aria-label="yellow circle">&#x1F7E1;</span>.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.

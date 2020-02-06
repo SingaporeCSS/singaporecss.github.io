@@ -572,10 +572,17 @@
     - ref: murray
 
 47:
+  colour:
+    name: paleturquoise
+    hex: "#afeeee"
+    rgba: rgba(175, 238, 238, 1)
+  videos:
+    - ref: s4701
+    - ref: s4702
+    - ref: s4703
   speakers:
     - ref: sheldon
-    - ref: mystery
-    - ref: mystery
+    - ref: huijing
 
 48:
   speakers:

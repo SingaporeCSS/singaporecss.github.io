@@ -742,10 +742,20 @@ s4604:
   shortcode: "s4604"
   description: "Murray got gahmen taichi-ed while highlighting how bad text on images are."
 
-  
+s4701:
+  title: "Feb 2020 CSS updates"
+  link: "https://youtu.be/SNWG7BZXFcc"
+  shortcode: "s4701"
+  description: "Updates and news in the world of CSS for February 2020. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-47.md'>here</a>."
 
-  
+s4702:
+  title: "Atomic Styling with Styled System"
+  link: "https://youtu.be/xwZbjsTo2Bo"
+  shortcode: "s4702"
+  description: "Sheldon makes the case for Styled System."
 
-  
-
-  
+s4703:
+  title: "Jialat, no speaker then how?"
+  link: "https://youtu.be/tDOaMyWE9I4"
+  shortcode: "s4703"
+  description: "Hui Jing tries to build a typographic poster in CSS."

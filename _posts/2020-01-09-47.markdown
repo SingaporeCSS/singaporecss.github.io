@@ -2,25 +2,12 @@
 layout: post
 title: "Talk.CSS #47"
 date: 2020-01-09 19:00:00 +0800
-location: GovTech Hive
+location: The Interwebs
 event-date: 2020-02-05 19:00:00 +0800
 categories: meetup
 meetup: 47
 event-id: 267764533
-novideos: true
 ---
-Surprise! We actually have some semblance of preparedness for February. It's happening just after Chinese New Year, so come share your huat-ness with us and all your CSS friends!  
-We are doing our first online live-stream meetup ever. Link is: [https://hangouts.google.com/call/nrR9OwLDjs53RYBfS9MPAEEM](https://hangouts.google.com/call/nrR9OwLDjs53RYBfS9MPAEEM)
-Dial-in if you feel like it, if not, will have video also.
+Due to concerns over the nCoV-2019 virus, we have decided to invoke Plan V and do Talk.CSS #47 completely online. Thank you to the 4 people who dialed-in. Your presence will be forever preserved on video. ICYMI, our theme this month was clearly “Testing in Production” as Sheldon and I just live-coded stuff.
 
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Atomic Styling with Styled System** by **Sheldon Cheng**  
-With Styled System, you combine the best parts of Styled Components and atomic/utility styles! Sheldon will talk about building layouts quickly using Styled System, then step back and touch on how it helps at a design system level.
-
-**Jialat, no speaker then how?** by **Chen Hui Jing**  
-See la, you all dun wan volunteer, so end up with me again. If you dial-in then you will see what stupid idea I come up with live. If not, watch video lor. Do I look like I'm going to tell you my idea here?
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+Big thanks to Michael for handling the technical setup and uploading the videos before I even ate dinner. We are now 47-in-a-row. I swear I'm not OCD.
