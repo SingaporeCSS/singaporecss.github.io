@@ -14,12 +14,6 @@ As of 7 Feb, 2020, DORSCON has been raised to orange <span class="emoji" role="i
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-**Title pending** by **Dave Quah**  
-Stay tuned, this will be great :)
-
-**CSS Animation Tips** by **Caleb Yang**  
-Caleb will demonstrate how to do animations using CSS.
-
 **`butt` is a valid CSS value** by **Ten Zhi Yang** AKA **Tenzy**  
 Tenzy has made it clear that this is a very important topic. In addition, he will also share some information and a demo regarding styling SVGs using CSS.
 

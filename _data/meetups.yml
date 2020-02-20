@@ -586,6 +586,5 @@
 
 48:
   speakers:
-    - ref: caleb
     - ref: tenzy
     - ref: mystery
