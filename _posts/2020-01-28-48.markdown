@@ -17,6 +17,12 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **`butt` is a valid CSS value** by **Ten Zhi Yang** AKA **Tenzy**  
 Tenzy has made it clear that this is a very important topic. In addition, he will also share some information and a demo regarding styling SVGs using CSS.
 
+**Mask Go Where, Flu Go Where, Gahmen Go Where?** by **Dave Quah**  
+Dave will be sharing how he and his team developed Mask Go Where and Flu Go Where in several hours, the issues they faced and future projects. You don't want to miss this.
+
+**Sensors and Browser APIs (real title TBC)** by **Mandy Michael**  
+Our forever friend and VVIP of SingaporeCSS, Mandy has agreed to give her amazing sensors and browsers API talk all the way from Perth. So far but same timezone, omg so blessed.
+
 More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  

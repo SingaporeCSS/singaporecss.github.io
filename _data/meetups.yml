@@ -587,4 +587,5 @@
 48:
   speakers:
     - ref: tenzy
-    - ref: mystery
+    - ref: dave
+    - ref: mandy
