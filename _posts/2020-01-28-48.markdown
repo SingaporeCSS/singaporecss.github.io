@@ -23,10 +23,9 @@ Tenzy has made it clear that this is a very important topic. In addition, he wil
 **Mask Go Where, Flu Go Where, Gahmen Go Where?** by **Dave Quah**  
 Dave will be sharing how he and his team developed Mask Go Where and Flu Go Where in several hours, the issues they faced and future projects. You don't want to miss this.
 
-**Sensors and Browser APIs (real title TBC)** by **Mandy Michael**  
-Our forever friend and VVIP of SingaporeCSS, Mandy has agreed to give her amazing sensors and browsers API talk all the way from Perth. So far but same timezone, omg so blessed.
-
-More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Fun with Sensors and Browser APIs** by **Mandy Michael**  
+As of right now there are many great Sensor & Browser APIs that you can take advantage of including Light Sensors, Orientation and Speech Recognition. Our forever friend and VVIP of SingaporeCSS, Mandy has agreed to give her amazing sensors and browsers API talk all the way from Perth. So far but same timezone, omg so blessed.  
+Whether it’s a practical implementation of the Light Sensor API or abducting a cat with a combination of sensors - we’ll look at some simple code demos, explore the possibilities, tools and resources needed to get started creating engaging and creative effects, visualisations and experiences.
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
