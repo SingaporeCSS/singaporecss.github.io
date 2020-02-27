@@ -11,7 +11,9 @@ novideos: true
 ---
 As of 7 Feb, 2020, DORSCON has been raised to orange <span class="emoji" role="img" tabindex="0" aria-label="orange circle">&#x1F7E0;</span>. We are currently taking suggestions of more creative ways to hold online version of Talk.CSS. Our friend, Shi Ling, mentioned VR meetup. We may consider this cos I bo liao. Suggestions welcome.
 
-In the meantime, we will be using Zoom this month. Join us at this link: <a href="https://zoom.us/j/609357344">https://zoom.us/j/609357344</a>  
+In the meantime, we will be using Zoom this month. If you would like to partcipate (lightning talk, anyone?), join us at this link: <a href="https://zoom.us/j/609357344">https://zoom.us/j/609357344</a>  
+If you'd like to chill out, sit back and make snarky comments (nothing offensive hor, behave yourselves) in the live chat, then watch the live stream on Youtube: <a href="https://youtu.be/hArvnDus-gY">https://youtu.be/hArvnDus-gY</a>
+
 Tell your friends, get your cat in front of the camera. Join us from the comfort of your bedroom or some hipster cafe, the possibilities are endless.
 
 **Latest CSS news** by **Talk.CSS**  
