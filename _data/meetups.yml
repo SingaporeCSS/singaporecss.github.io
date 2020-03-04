@@ -588,7 +588,7 @@
   colour:
     name: sienna
     hex: "#a0522d"
-    rgba: rgba(160, 82, 45, 1)\
+    rgba: rgba(160, 82, 45, 1)
     text: "#fff"
   videos:
     - ref: s4801
