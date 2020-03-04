@@ -759,3 +759,27 @@ s4703:
   link: "https://youtu.be/tDOaMyWE9I4"
   shortcode: "s4703"
   description: "Hui Jing tries to build a typographic poster in CSS."
+
+s4801:
+  title: "Mar 2020 CSS updates"
+  link: "https://youtu.be/W8Ssn4pxWNs"
+  shortcode: "s4801"
+  description: "Updates and news in the world of CSS for March 2020. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-48.md'>here</a>."
+
+s4802:
+  title: "Fun with Sensors and Browser APIs"
+  link: "https://youtu.be/xwZbjsTo2Bo"
+  shortcode: "s4802"
+  description: "The best demonstration of the potential of Browser APIs for a more interactive web by Mandy."
+
+s4803:
+  title: "Mask Go Where, Flu Go Where, Gahmen Go Where?"
+  link: "https://youtu.be/6l9fc9_UABs"
+  shortcode: "s4803"
+  description: "Dave puts the Singapore in SingaporeCSS as he shared how the Go Where series of apps were built."
+
+s4804:
+  title: "`butt` is a valid CSS value"
+  link: "https://youtu.be/FJfCL3TCCHQ"
+  shortcode: "s4804"
+  description: "Tenzy sheds some light on the `butt` value."

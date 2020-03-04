@@ -585,6 +585,16 @@
     - ref: huijing
 
 48:
+  colour:
+    name: sienna
+    hex: "#a0522d"
+    rgba: rgba(160, 82, 45, 1)\
+    text: "#fff"
+  videos:
+    - ref: s4801
+    - ref: s4802
+    - ref: s4803
+    - ref: s4804
   speakers:
     - ref: tenzy
     - ref: dave

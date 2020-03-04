@@ -7,27 +7,7 @@ event-date: 2020-03-04 19:00:00 +0800
 categories: meetup
 meetup: 48
 event-id: 267764592
-novideos: true
 ---
-As of 7 Feb, 2020, DORSCON has been raised to orange <span class="emoji" role="img" tabindex="0" aria-label="orange circle">&#x1F7E0;</span>. We are currently taking suggestions of more creative ways to hold online version of Talk.CSS. Our friend, Shi Ling, mentioned VR meetup. We may consider this cos I bo liao. Suggestions welcome.
+I think we're getting the hang of this online meetup thing. This particular edition definitely ranks up there as one of the best we had. More of you showed up this time as well. So big thanks to the lovely speakers and everyone who dialed in this evening.
 
-In the meantime, we will be using Zoom this month. If you would like to partcipate (lightning talk, anyone?), join us at this link: <a href="https://zoom.us/j/609357344">https://zoom.us/j/609357344</a>  
-If you'd like to chill out, sit back and make snarky comments (nothing offensive hor, behave yourselves) in the live chat, then watch the live stream on Youtube: <a href="https://youtu.be/hArvnDus-gY">https://youtu.be/hArvnDus-gY</a>
-
-Tell your friends, get your cat in front of the camera. Join us from the comfort of your bedroom or some hipster cafe, the possibilities are endless.
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**`butt` is a valid CSS value** by **Ten Zhi Yang** AKA **Tenzy**  
-Tenzy has made it clear that this is a very important topic. In addition, he will also share some information and a demo regarding styling SVGs using CSS.
-
-**Mask Go Where, Flu Go Where, Gahmen Go Where?** by **Dave Quah**  
-Dave will be sharing how he and his team developed Mask Go Where and Flu Go Where in several hours, the issues they faced and future projects. You don't want to miss this.
-
-**Fun with Sensors and Browser APIs** by **Mandy Michael**  
-As of right now there are many great Sensor & Browser APIs that you can take advantage of including Light Sensors, Orientation and Speech Recognition. Our forever friend and VVIP of SingaporeCSS, Mandy has agreed to give her amazing sensors and browsers API talk all the way from Perth. So far but same timezone, omg so blessed.  
-Whether it’s a practical implementation of the Light Sensor API or abducting a cat with a combination of sensors - we’ll look at some simple code demos, explore the possibilities, tools and resources needed to get started creating engaging and creative effects, visualisations and experiences.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
+Remember, wash your hands and don't touch your face!
