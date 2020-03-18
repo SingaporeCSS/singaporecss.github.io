@@ -599,3 +599,8 @@
     - ref: tenzy
     - ref: dave
     - ref: mandy
+
+49:
+  speakers:
+    - ref: mystery
+    - ref: mystery

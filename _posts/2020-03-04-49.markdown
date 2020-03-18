@@ -9,7 +9,7 @@ meetup: 49
 event-id: 267764597
 novideos: true
 ---
-No speakers yet. Send help! You don't even have to be in Singapore for this.
+No speakers yet. This is not a joke. Send help! You don't even have to be in Singapore for this.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
