@@ -401,3 +401,15 @@ tenzy:
   twitter: "Tzyinc"
   shortcode: "tenzy"
   bio: "A senior software engineer at Shopee who wants to say \"butt is a valid css value\" in public."
+
+eric:
+  name: "Eric Bailey"
+  twitter: "ericwbailey"
+  shortcode: "eric"
+  bio: "Eric is a designer at thoughtbot, accessibility and inclusive design advocate, and maintainer of The A11Y Project."
+
+johnalbin:
+  name: "John Albin Wilkins"
+  twitter: "JohnAlbin"
+  shortcode: "johnalbin"
+  bio: "John has been a web developer since 1993, so he's seen (and forgotten) a lot. He's also shared his experiences with open-source code and over 80 talks across 4 continents."

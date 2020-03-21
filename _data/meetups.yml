@@ -602,5 +602,6 @@
 
 49:
   speakers:
-    - ref: mystery
-    - ref: mystery
+    - ref: eric
+    - ref: yishu
+    - ref: johnalbin

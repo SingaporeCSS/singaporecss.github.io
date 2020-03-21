@@ -9,12 +9,24 @@ meetup: 49
 event-id: 267764597
 novideos: true
 ---
-No speakers yet. This is not a joke. Send help! You don't even have to be in Singapore for this.
+The Gregorian calendar runs on a 400-year cycle, and the odds of the 1 April being a Wednesday is 14.5%. The last time 1 April was a Wednesday was 2015 and the next one will be 2026. I did the math. In a spreadsheet. So THIS IS NOT A JOKE. We are happening on 1 April.
+
+Anywayz, the world is melting down around us, my NTUC ran out of bananas the last time I went, so we're still online this month. If you would like to participate (lightning talk, anyone?), join us at this link: https://zoom.us/j/426725523  
+If you'd like to chill out, sit back and make snarky comments (nothing offensive hor, behave yourselves) in the live chat, then watch the live stream on Youtube: https://youtu.be/xARysgFtXAo
+
+Let's CSS while we still can, okay? 
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Using the CSS Nesting spec today** by **John Albin Wilkins**  
+If you've used Sass, you know the advantages of nested rulesets. You may not know that there is an effort to bring nesting to the CSS spec. In fact, the CSS Nesting spec was upgraded from "Level 0" to a "Level 1" W3C Editor's Draft last year. John will share with us about this cool new specification and also how to get involved and contribute.
+
+**Something related to CSS** by **See Yishu**  
+Our forever friend and pride of Singapore, Yishu, is backkkkkk. Stay tuned for more details when they become available some time in the future.
+
+**Designing for Inclusion with Media Queries** by **Eric Bailey**  
+Did you know that media queries aren’t just limited to screen size? This talk will dive into some lesser-known media queries that can help developers and designers create experiences for people browsing the web using assistive technologies.
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
