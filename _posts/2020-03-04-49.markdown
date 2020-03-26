@@ -22,8 +22,8 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Using the CSS Nesting spec today** by **John Albin Wilkins**  
 If you've used Sass, you know the advantages of nested rulesets. You may not know that there is an effort to bring nesting to the CSS spec. In fact, the CSS Nesting spec was upgraded from "Level 0" to a "Level 1" W3C Editor's Draft last year. John will share with us about this cool new specification and also how to get involved and contribute.
 
-**Something related to CSS** by **See Yishu**  
-Our forever friend and pride of Singapore, Yishu, is backkkkkk. Stay tuned for more details when they become available some time in the future.
+**The zen of CSS debugging** by **See Yishu**  
+Our forever friend and pride of Singapore, Yishu, is backkkkkk. She claims this is not a fun title, but don't be fooled. We CREATE the fun.
 
 **Designing for Inclusion with Media Queries** by **Eric Bailey**  
 Did you know that media queries aren’t just limited to screen size? This talk will dive into some lesser-known media queries that can help developers and designers create experiences for people browsing the web using assistive technologies.
