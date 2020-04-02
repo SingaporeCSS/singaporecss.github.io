@@ -6,6 +6,8 @@ navigation: true
 ---
 All participants at our event are required to agree with the following code of conduct. Organisers (Hui Jing and Gao Wei) will enforce this code throughout the event. We are expecting cooperation from everybody to help ensuring a safe environment for everybody.
 
+<img src="{{ site.url }}/assets/img/duncb.jpg" srcset="{{ site.url }}/assets/img/duncb@2x.jpg 2x" alt="Ah Gong says behave yourself" style="margin:auto;display:block" />
+
 ## The Quick Version
 
 Our event is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
