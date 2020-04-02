@@ -783,3 +783,21 @@ s4804:
   link: "https://youtu.be/FJfCL3TCCHQ"
   shortcode: "s4804"
   description: "Tenzy sheds some light on the `butt` value."
+
+s4901:
+  title: "Using the CSS Nesting spec today"
+  link: "https://youtu.be/Bnw3-5NyoB8"
+  shortcode: "s4901"
+  description: "John shares with us the amazing new development that is nesting in native CSS."
+
+s4902:
+  title: "The Zen of CSS debugging"
+  link: "https://youtu.be/_oBZLv4oNOY"
+  shortcode: "s4902"
+  description: "CSS stressing you out? Embrace the Zen of CSS debugging with Yishu."
+
+s4903:
+  title: "Designing for Inclusion with Media Queries"
+  link: "https://youtu.be/UXq70EeaTvc"
+  shortcode: "s4903"
+  description: "An incredibly informative talk about media queries from Eric, dialing in all the way from Boston."

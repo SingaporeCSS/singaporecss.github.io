@@ -601,7 +601,22 @@
     - ref: mandy
 
 49:
+  colour:
+    name: mediumslateblue
+    hex: "#7b68ee"
+    rgba: rgba(123, 104, 238, 1)
+    text: "#fff"
+  videos:
+    - ref: s4901
+    - ref: s4902
+    - ref: s4903
   speakers:
     - ref: eric
     - ref: yishu
     - ref: johnalbin
+
+50:
+  speakers:
+    - ref: neha
+    - ref: chris
+    - ref: zell
