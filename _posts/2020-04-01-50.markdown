@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Talk.CSS #50"
+date: 2020-04-01 19:00:00 +0800
+location: The Interwebs (most likely)
+event-date: 2020-05-06 19:00:00 +0800
+categories: meetup
+meetup: 50
+event-id: 267764600
+novideos: true
+---
+Seems like we'll still be on the interwebs in the foreseeable future. Well, at least I've managed to find speakers already. Also, we've hit the big five-O. What a miraculous feat. Anywayz, links will be shared when they're ready.
+
+**Latest CSS news** by **Talk.CSS**  
+Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
+
+**Writing responsible CSS** by **Neha Sharma**  
+When it comes to performance and accessibility, developers tend to ignore CSS but they don't know that CSS is also one of the pillars of the web application. Neha shares her expertise on writing responsible CSS wrt to performance and accessibility.
+
+**What's New in HTML** by **Chris Lienert**  
+One of the strengths of the web is there are multiple ways to achieve the same thing. The challenge then for us developers is to find the best way. HTML didn't stop at version 5 and it continues to evolve. Chris will review a number of HTML elements and attributes that are new and (somewhat!) ready to be used.
+
+<p style="margin:0"><strong>How to build this Spinning Pacman shit</strong> by <strong>Zell Liew</strong></p>
+<p style="margin:0.25em">Zell built this.</p>
+<video autoplay loop style="height:10em">
+  <source src="https://i.imgur.com/3CBzWlx.mp4" type="video/mp4">
+  <p>Sorry, your browser doesn't support embedded videos.</p>
+</video>
+ He'll show you how.
+
+**The CSS doctor is in (our segment that never gets utilised)**  
+Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
