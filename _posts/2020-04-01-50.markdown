@@ -9,7 +9,7 @@ meetup: 50
 event-id: 267764600
 novideos: true
 ---
-Seems like we'll still be on the interwebs in the foreseeable future. Well, at least I've managed to find speakers already. Also, we've hit the big five-O. What a miraculous feat.
+Seems like we'll still be on the interwebs in the foreseeable future. Well, at least I've managed to find speakers already. Also, we've hit the big five-O. What a miraculous feat.  
 Join our live-stream at <a href="https://youtu.be/A3s-DFW6wNM">https://youtu.be/A3s-DFW6wNM</a> on 6 May, nonsense starts at 7pm. Gather your cats and dogs and otters and kiwis, what else are they gonna do?
 
 **Latest CSS news** by **Talk.CSS**  
