@@ -2,7 +2,7 @@
 layout: post
 title: "Talk.CSS #50"
 date: 2020-04-01 19:00:00 +0800
-location: The Interwebs (most likely)
+location: The Interwebs
 event-date: 2020-05-06 19:00:00 +0800
 categories: meetup
 meetup: 50
@@ -10,7 +10,8 @@ event-id: 267764600
 novideos: true
 ---
 Seems like we'll still be on the interwebs in the foreseeable future. Well, at least I've managed to find speakers already. Also, we've hit the big five-O. What a miraculous feat.  
-Join our live-stream at <a href="https://youtu.be/A3s-DFW6wNM">https://youtu.be/A3s-DFW6wNM</a> on 6 May, nonsense starts at 7pm. Gather your cats and dogs and otters and kiwis, what else are they gonna do?
+Join in on Zoom at [https://seagroup.zoom.us/j/96256559971?pwd=bkZlVElBUHJxWHFMOVVRaGliWGZ3dz09](https://seagroup.zoom.us/j/96256559971?pwd=bkZlVElBUHJxWHFMOVVRaGliWGZ3dz09), use password TalkCSS to get in, or watch our live-stream at [https://youtu.be/A3s-DFW6wNM](https://youtu.be/A3s-DFW6wNM) on 6 May, nonsense starts at 7pm.  
+Gather your cats and dogs and otters and kiwis, what else are they gonna do?
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
