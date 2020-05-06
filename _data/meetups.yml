@@ -616,7 +616,14 @@
     - ref: johnalbin
 
 50:
+  colour:
+    name: cornflowerblue
+    hex: "#6495edD"
+    rgba: rgba(100, 149, 237, 1)
+  videos:
+    - ref: s5001
+    - ref: s5002
+    - ref: s5003
   speakers:
-    - ref: neha
     - ref: chris
     - ref: zell
