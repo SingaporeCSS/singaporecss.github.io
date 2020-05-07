@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Talk.CSS #XX"
-date: 20YY-MM-DD 19:00:00 +0800
-location: TBC
-event-date: 20XX-MM-DD 19:00:00 +0800
+title: "Talk.CSS #51"
+date: 2020-05-07 19:00:00 +0800
+location: The Interwebs
+event-date: 2020-06-03 19:00:00 +0800
 categories: meetup
-meetup: XX
-event-id: XXXXXXXXX
+meetup: 51
+event-id: 267764608
 novideos: true
 ---
-Write about 1 single paragraph of nonsensical introductory text to that month's meetup. Write whatever you want depending on your mood. Do remember to update this bit with the map of the venue location once that is confirmed. Or not, up to you la.
+No venue yet. No speakers either. Send help!
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.

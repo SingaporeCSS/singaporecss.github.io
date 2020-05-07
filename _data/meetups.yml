@@ -618,7 +618,7 @@
 50:
   colour:
     name: cornflowerblue
-    hex: "#6495edD"
+    hex: "#6495ed"
     rgba: rgba(100, 149, 237, 1)
   videos:
     - ref: s5001
