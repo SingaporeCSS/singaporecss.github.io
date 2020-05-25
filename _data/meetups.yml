@@ -627,3 +627,8 @@
   speakers:
     - ref: chris
     - ref: zell
+
+51:
+  speakers:
+    - ref: vishaag
+    - ref: olivia

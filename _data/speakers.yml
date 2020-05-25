@@ -221,7 +221,7 @@ olivia:
   name: "Olivia Ng"
   twitter: "meowlivia_"
   shortcode: "olivia"
-  bio: "Turns out meowlivia is a pretty popular handle online. Make sure you contact the right one."
+  bio: "A “designer who codes”, but somehow ended up coding more than designing. Afraid of JavaScript."
 
 zaydek:
   name: "Zaydek Michels-Gualtieri"
@@ -419,3 +419,9 @@ neha:
   twitter: "hellonehha"
   shortcode: "neha"
   bio: "UI Manager and Calligraphy lover from India."
+
+vishaag:
+  name: "Vishaag Suriyanarayanan"
+  twitter: "vishaag"
+  shortcode: "vishaag"
+  bio: "Vishaag is a CS Engineer who moved to Singapore for his Master's degree, but found Web Development more interesting than his courses."

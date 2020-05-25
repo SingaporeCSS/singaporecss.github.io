@@ -9,12 +9,18 @@ meetup: 51
 event-id: 267764608
 novideos: true
 ---
-No venue yet. No speakers either. Send help!
+Even though CB is theoretically “over”, it's really not. Let's be realistic, we're probably gonna be online for the rest of the year. Sorry to everyone with Zoom fatigue. Maybe if you brought your pets… 
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**The curious case of Flexbox 🧐** by **Vishaag Suriyanarayanan**  
+What exactly is the Flexbox and what was it made to solve 🧐? When should you use it and when should you not use it? Come learn the different properties and use-cases of Flexbox with a relatable example!
+
+**Layouts with CSS Grid** by **Olivia Ng**  
+Our CSS queen, Olivia is gracing us with her presence and wisdom. She'll be coding a layout with Grid (not live coding, just something like it) and show us more info/examples on how people are using CSS Grid.
+
+More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
