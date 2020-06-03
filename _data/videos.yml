@@ -819,3 +819,21 @@ s5003:
   link: "https://youtu.be/AsvX2bILl_E"
   shortcode: "s5003"
   description: "Entertaining lesson on CSS transforms by our resident expert, Zell."
+
+s5101:
+  title: "June 2020 CSS updates"
+  link: "https://youtu.be/1_5cpUiV6Q8"
+  shortcode: "s5101"
+  description: "Updates and news in the world of CSS for June 2020. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-51.md'>here</a>."
+
+s5102:
+  title: "The curious case of Flexbox 🧐"
+  link: "https://youtu.be/d_DR0Qk1nJw"
+  shortcode: "s5102"
+  description: "Vishaag shows us the different properties and use-cases of Flexbox with a relatable examples"
+
+s5103:
+  title: "Layouts with CSS Grid"
+  link: "https://youtu.be/jZa54r9--xQ"
+  shortcode: "s5103"
+  description: "Olivia walks us through how she coded a layout with Grid, and shows us more info/examples on how people are using CSS Grid."

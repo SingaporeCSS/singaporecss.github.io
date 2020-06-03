@@ -7,24 +7,5 @@ event-date: 2020-06-03 19:00:00 +0800
 categories: meetup
 meetup: 51
 event-id: 267764608
-novideos: true
 ---
-Even though CB is theoretically “over”, it's really not. Let's be realistic, we're probably gonna be online for the rest of the year. Sorry to everyone with Zoom fatigue. Maybe if you brought your pets…  
-Watch the livestream: [https://youtu.be/3HjFGh3Ifc8](https://youtu.be/3HjFGh3Ifc8)  
-Zoom link when you [RSVP](https://www.meetup.com/SingaporeCSS/events/267764608/)
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**The curious case of Flexbox 🧐** by **Vishaag Suriyanarayanan**  
-What exactly is the Flexbox and what was it made to solve 🧐? When should you use it and when should you not use it? Come learn the different properties and use-cases of Flexbox with a relatable example!
-
-**Layouts with CSS Grid** by **Olivia Ng**  
-Our CSS queen, Olivia is gracing us with her presence and wisdom. She'll be coding a layout with Grid (not live coding, just something like it) and show us more info/examples on how people are using CSS Grid.
-
-More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Hui Jing or Wei when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+We are sort of like half-way through Season 4 at this point (if you consider a year a season). Typically TV shows tend to go downhill at this point. But not tonight. It was layout night, and what a spectacular layout night it was.
