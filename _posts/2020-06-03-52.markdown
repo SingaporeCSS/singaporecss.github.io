@@ -9,7 +9,8 @@ meetup: 52
 event-id: 271056583
 novideos: true
 ---
-We lub maths here at SingaporeCSS. And we're not just saying that, just look through our videographic evidence of CSS math talks past. Anyway, this time we want you all to channel your inner Pierre Bézier <span class="o-kaomoji">(๑•̀ㅂ•́)و✧</span>
+We lub maths here at SingaporeCSS. And we're not just saying that, just look through our videographic evidence of CSS math talks past. Anyway, this time we want you all to channel your inner Pierre Bézier to understand the math behind his curves. <span class="o-kaomoji">(๑•̀ㅂ•́)و✧</span>  
+Watch the live stream at: [https://youtu.be/HjRl7JxzNb4](https://youtu.be/HjRl7JxzNb4)
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
