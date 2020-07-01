@@ -837,3 +837,22 @@ s5103:
   link: "https://youtu.be/jZa54r9--xQ"
   shortcode: "s5103"
   description: "Olivia walks us through how she coded a layout with Grid, and shows us more info/examples on how people are using CSS Grid."
+
+s5201:
+  title: "July 2020 CSS updates"
+  link: "https://youtu.be/RdS9a6uY8Hk?t=334"
+  shortcode: "s5201"
+  description: "Updates and news in the world of CSS for July 2020. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-52.md'>here</a>."
+
+s5202:
+  title: "History of CSS Animations"
+  link: "https://youtu.be/RdS9a6uY8Hk?t=1511"
+  shortcode: "s5202"
+  description: "Hui Jing shares some history about CSS animations as preamble to the main talk"
+
+s5203:
+  title: "The Obscurities of Bézier Curves Explained to My Computer Engineer Friends"
+  link: "https://youtu.be/RdS9a6uY8Hk?t=2342"
+  shortcode: "s5203"
+  description: "Wei breaks down Bézier curves for us mere mortals to understand"
+

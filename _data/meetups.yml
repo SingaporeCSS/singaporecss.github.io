@@ -642,6 +642,14 @@
     - ref: olivia
 
 52:
+  colour:
+    name: mediumblue
+    hex: "#0000cd"
+    rgba: rgba(0, 0, 205, 1)
+  videos:
+    - ref: s5201
+    - ref: s5202
+    - ref: s5203
   speakers:
     - ref: gaowei
-    - ref: mystery
+    - ref: huijing
