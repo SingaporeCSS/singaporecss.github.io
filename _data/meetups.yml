@@ -633,6 +633,7 @@
     name: lightcoral
     hex: "#f08080"
     rgba: rgba(240, 128, 128, 1)
+    text: "#fff"
   videos:
     - ref: s5101
     - ref: s5102
