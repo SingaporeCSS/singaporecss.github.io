@@ -9,12 +9,17 @@ meetup: 53
 event-id: 271658427
 novideos: true
 ---
-No speakers yet. Send help.
+CSS Grid has been around for a while but not everyone has had a chance to try it out so we'll have Vishaag introduce why its so awesome for building layouts. Plus some random colour stuff.  
+Live stream: [https://youtu.be/3tFN3Jmkyt8](https://www.youtube.com/watch?v=3tFN3Jmkyt8)
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Responsive Layouts with CSS Grid** by **Vishaag Suriyanarayanan**  
+CSS Grid is pretty cool for a lot of things. Let's see some examples (+live coding) where you can use it to make responsive designs!
+
+**Colours in CSS** by **Chen Hui Jing**  
+We lub colours. So we will talk about colours, and then talk about CSS. What a great combination. Like kaya and butter.
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
