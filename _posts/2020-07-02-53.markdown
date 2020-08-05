@@ -19,7 +19,7 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 CSS Grid is pretty cool for a lot of things. Let's see some examples (+live coding) where you can use it to make responsive designs!
 
 **CSS for i18n** by **Chen Hui Jing**  
-Was going to talk about colours, but then, decided to change my mind and talk about CSS for i18n instead. <span class="o-kaomoji">¯\_(ツ)_/¯</span> This is the nonsense that happens when you all don't want to speak...
+Was going to talk about colours, but then, decided to change my mind and talk about CSS for i18n instead. <span class="o-kaomoji">¯\\\_(ツ)\_/¯</span> This is the nonsense that happens when you all don't want to speak...
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
