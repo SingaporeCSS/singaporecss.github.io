@@ -656,6 +656,14 @@
     - ref: huijing
 
 53:
+  colour:
+    name: goldenrod
+    hex: "#daa520"
+    rgba: rgba(218, 165, 32, 1)
+    text: "#fff"
+  videos:
+    - ref: s5301
+    - ref: s5302
   speakers:
-    - ref: mystery
-    - ref: mystery
+    - ref: vishaag
+    - ref: huijing

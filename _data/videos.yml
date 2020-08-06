@@ -856,3 +856,14 @@ s5203:
   shortcode: "s5203"
   description: "Wei breaks down Bézier curves for us mere mortals to understand"
 
+s5301:
+  title: "Responsive Layouts with CSS Grid"
+  link: "https://youtu.be/9YE1nRmg4MY"
+  shortcode: "s5301"
+  description: "Vishaag demonstrates how amazing CSS grid is for building layouts"
+
+s5302:
+  title: "CSS for i18n"
+  link: "https://youtu.be/kfZw3egGBF4"
+  shortcode: "s5302"
+  description: "A passive-aggressive 40 minute response to the statement “CSS has nothing to do with i18n”"
