@@ -6,15 +6,18 @@ location: The Interwebs
 event-date: 2020-09-02 19:00:00 +0800
 categories: meetup
 meetup: 54
-event-id: 271658427
+event-id: 272753769
 novideos: true
 ---
-No speakers. Jialat. Send halp.
+As we are heading into the last month of Q3, seems like folks are getting tired of meetups. Or maybe you all are just tired of CSS. We are very tired too <span class="o-emoji" role="img" tabindex="0" aria-label="weary face">&#x1F629;</span>, but there's still have some tiny gas left in our tank, so join us if you feel like it on the first Wednesday of September.
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
 
-Speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
+**Third party CSS is not safe** by **Tan Lihau**  
+Have you read [Jake Archibald](https://twitter.com/jaffathecake)'s article on how [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)? Maybe words aren't your thing. Lihau will try to show you live examples of what's in the article.
+
+Hoping for more speakers. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  
 Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
