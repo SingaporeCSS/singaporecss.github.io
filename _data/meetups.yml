@@ -669,6 +669,18 @@
     - ref: huijing
 
 54:
+  colour:
+    name: powderblue
+    hex: "#b0e0e6"
+    rgba: rgba(176, 224, 230, 1)
+  videos:
+    - ref: s5401
+    - ref: s5402
   speakers:
     - ref: lihau
     - ref: nils
+
+55:
+  speakers:
+    - ref: mystery
+    - ref: mystery

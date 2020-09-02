@@ -867,3 +867,15 @@ s5302:
   link: "https://youtu.be/kfZw3egGBF4"
   shortcode: "s5302"
   description: "A passive-aggressive 40 minute response to the statement “CSS has nothing to do with i18n”"
+
+s5401:
+  title: "How Studying History Of Arts Helped Me Become A Better Frontend Designer"
+  link: "https://youtu.be/e0cDRV67NaE"
+  shortcode: "s5401"
+  description: "Nils shows us that looking beyond tech is a great source of inspiration."
+
+s5402:
+  title: "Third party CSS is not safe"
+  link: "https://youtu.be/jIYwS730BVc"
+  shortcode: "s5402"
+  description: "If you thought third-party CSS was safe, you are so mistaken. Lihau shows us much evilness."
