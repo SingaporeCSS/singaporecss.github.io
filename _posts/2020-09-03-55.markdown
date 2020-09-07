@@ -9,7 +9,8 @@ meetup: 55
 event-id: 272984518
 novideos: true
 ---
-We're down to our last 2 Talk.CSS sessions for 2020. It's been an iNteReStiNG year to say the least, but hang in there. And if you feel like getting your CSS fix, we're still here for you.
+We're down to our last 2 Talk.CSS sessions for 2020. It's been an iNteReStiNG year to say the least, but hang in there. And if you feel like getting your CSS fix, we're still here for you.  
+Live stream: https://youtu.be/dkEgPqMnWRY
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
