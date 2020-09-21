@@ -427,7 +427,14 @@ vishaag:
   bio: "Vishaag is a CS Engineer who moved to Singapore for his Master's degree, but found Web Development more interesting than his courses."
 
 nils:
-  name: "nils"
+  name: "Nils Binder
+"
   twitter: "supremebeing09"
   shortcode: "nils"
   bio: "Nils loves frontend development, design, origami and chocolate. The order may vary."
+
+hidde:
+  name: "Hidde de Vries"
+  twitter: "hdv"
+  shortcode: "hidde"
+  bio: "Hidde is working on his bio right now."
