@@ -879,3 +879,16 @@ s5402:
   link: "https://youtu.be/jIYwS730BVc"
   shortcode: "s5402"
   description: "If you thought third-party CSS was safe, you are so mistaken. Lihau shows us much evilness."
+
+s5501:
+  title: "On auto sizes in Grid Layout"
+  link: "https://youtu.be/yhmHXGj2bt4"
+  shortcode: "s5501"
+  description: "Confused by auto sizing in Grid? Hidde demystifies it all for us."
+
+s5502:
+  title: "Responsive JSXGraph graphs (replacing Javascript with CSS)"
+  link: "https://youtu.be/DOfgXlRSJMY"
+  shortcode: "s5502"
+  description: "Murray replaces Javascript-based styling directives with responsive CSS for a mathematics grapher."
+

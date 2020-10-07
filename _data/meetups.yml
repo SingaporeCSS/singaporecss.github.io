@@ -681,6 +681,18 @@
     - ref: nils
 
 55:
+  colour:
+    name: yellowgreen
+    hex: "#9acd32"
+    rgba: rgba(154, 205, 50, 1)
+  videos:
+    - ref: s5501
+    - ref: s5502
   speakers:
     - ref: hidde
     - ref: murray
+
+56:
+  speakers:
+    - ref: mystery
+    - ref: mystery
