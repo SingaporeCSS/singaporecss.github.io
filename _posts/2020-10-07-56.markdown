@@ -10,7 +10,7 @@ event-id: 273773819
 novideos: true
 ---
 This is it. Our 5th birthday and the last Talk.CSS. It hasn't been an easy year for many folks, and we truly appreciate all of you who have turned out for us over the years. Hopefully along the way, you've found some of the things we've covered useful, perhaps picked up some Singlish along the way as well. Please join us for this final hurrah.  
-Live stream: https://youtu.be/YRXq0DSMR98
+Live stream: [https://youtu.be/YRXq0DSMR98](https://youtu.be/YRXq0DSMR98)
 
 **Latest CSS news** by **Talk.CSS**  
 Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
