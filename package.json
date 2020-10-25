@@ -10,14 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/SingaporeCSS/singaporecss.github.io.git"
   },
-  "author": "huijng <kakyou_tensai@yahoo.com>",
+  "author": "SingaporeCSS",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SingaporeCSS/singaporecss.github.io/issues"
   },
   "homepage": "https://github.com/SingaporeCSS/singaporecss.github.io#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-cssnano": "^2.1.3",

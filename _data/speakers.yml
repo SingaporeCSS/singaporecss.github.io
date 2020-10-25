@@ -438,3 +438,9 @@ hidde:
   twitter: "hdv"
   shortcode: "hidde"
   bio: "Freelance front-end/accessibility nerd from Rotterdam, Netherlands"
+
+meyer:
+  name: "Eric Meyer"
+  twitter: "meyerweb"
+  shortcode: "meyer"
+  bio: "<a href="https://twitter.com/meyerweb">Eric A. Meyer</a> is an <a href="http://meyerweb.com/eric/writing.html">author</a>, speaker, blogger, teacher, consultant, and co-founder of <a href="https://aneventapart.com">An Event Apart</a>.  He’s been working on the Web since 1993 and still finds it deeply compelling."
