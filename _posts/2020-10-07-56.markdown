@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk.CSS #56"
+title: "Talk.CSS #56 Wind-up Edition"
 date: 2020-10-07 19:00:00 +0800
 location: The Interwebs
 event-date: 2020-11-04 19:00:00 +0800
