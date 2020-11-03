@@ -18,6 +18,9 @@ Our no-longer-new regular segment which will cover latest updates in the realm o
 **Design in the background** by **Eric Meyer**  
 Our designs are filled with elements, and every element has its own background area, where a potentially infinite number of layers can be created. Eric will explore a number of ways to use that design space in ways both eye-catching and subtle.
 
+**Coping with burnout as a developer on the fast-moving web** by **Daniel Tan**  
+With an ever-advancing web and now a pandemic to contend with, the sheer expanse of options can overwhelm both beginners and seasoned experts. As part of their healing process, Daniel shares some tips that have helped them stay somewhat on track and hopefully encourage others as well.
+
 More speakers TBC. We hope it's you! <span class="o-kaomoji">ヾ(＾ᴗ＾)ノ</span>
 
 **The CSS doctor is in (our segment that never gets utilised)**  
