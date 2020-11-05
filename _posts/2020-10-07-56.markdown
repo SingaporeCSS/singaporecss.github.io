@@ -7,24 +7,7 @@ event-date: 2020-11-04 19:00:00 +0800
 categories: meetup
 meetup: 56
 event-id: 273773819
-novideos: true
 ---
-This is it. Our 5th birthday and the last Talk.CSS. It hasn't been an easy year for many folks, and we truly appreciate all of you who have turned out for us over the years.
+5 years. 56 meetups. We've come a long way. It was nice to see many of you turn out for this last one. When Chris and I started this, we had zero expectations it would last this long. We don't know what the future will hold, but we hope that you will remember Talk.CSS fondly.
 
-Hopefully along the way, you've found some of the things we've covered useful, perhaps picked up some Singlish along the way as well. Please join us for this final hurrah.
-
-Live stream: [https://youtu.be/YRXq0DSMR98](https://youtu.be/YRXq0DSMR98)
-
-**Latest CSS news** by **Talk.CSS**  
-Our no-longer-new regular segment which will cover latest updates in the realm of CSS and HTML.
-
-**Design in the background** by **Eric Meyer**  
-Our designs are filled with elements, and every element has its own background area, where a potentially infinite number of layers can be created. Eric will explore a number of ways to use that design space in ways both eye-catching and subtle.
-
-**Introducing :is() and :where()** by **Daniel Tan**  
-After many years, we're finally close to using :is() and :where() to simplify our selectors everywhere. Daniel shares what these pseudo-classes are all about.
-
-**The CSS doctor is in (our segment that never gets utilised)**  
-Layouts looking a bit broken? CSS issues getting you down? We're here to help. Tell us your CSS problem and get a crowd-sourced solution from all the CSS enthusiasts in Singapore right here.
-
-Lightning talks welcome, just poke Hui Jing or Wei when you get there. We welcome any CSS-related topics at ANY level because we’re all here to learn and share :)
+Thank you all for being part of this journey with us. ❤️🧡💛💚💙💜

@@ -892,3 +892,20 @@ s5502:
   shortcode: "s5502"
   description: "Murray replaces Javascript-based styling directives with responsive CSS for a mathematics grapher."
 
+s5601:
+  title: "November 2020 CSS updates"
+  link: "https://youtu.be/q8_Lo_crmB0"
+  shortcode: "s5601"
+  description: "Updates and news in the world of CSS for November 2020. Our regular segment. Topics covered available <a href='https://github.com/SingaporeCSS/slides/blob/gh-pages/notes/talk-56.md'>here</a>."
+
+s5602:
+  title: "Design in the background"
+  link: "https://youtu.be/2q15vuBrhXY"
+  shortcode: "s5602"
+  description: "Eric shows us the techniques he used for the artistic touches on his website using background images."
+
+s5603:
+  title: "Introducing :is() and :where()"
+  link: "https://youtu.be/qGC683FOIpg"
+  shortcode: "s5603"
+  description: "Daniel explains how the :is() and :where() selectors work."

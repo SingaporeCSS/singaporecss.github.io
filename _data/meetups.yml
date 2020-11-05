@@ -693,6 +693,15 @@
     - ref: murray
 
 56:
+  colour:
+    name: rebeccapurple
+    hex: "#663399"
+    rgba: rgba(102, 51, 153, 1)
+    text: "#fff"
+  videos:
+    - ref: s5601
+    - ref: s5602
+    - ref: s5603
   speakers:
     - ref: meyer
     - ref: daniel

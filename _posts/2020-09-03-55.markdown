@@ -7,5 +7,6 @@ event-date: 2020-10-07 19:00:00 +0800
 categories: meetup
 meetup: 55
 event-id: 272984518
+news: October 2020
 ---
 Another fun Talk.CSS with a lot of absorb and learn. Thank you to everyone who tuned in live, as well as our lovely speakers for sharing their knowledge with us. If you missed it, well, we do have videos, because good things must share.
