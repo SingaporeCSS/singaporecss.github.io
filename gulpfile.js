@@ -1,9 +1,11 @@
 var gulp        = require('gulp');
 var browserSync = require('browser-sync');
-var sass        = require('gulp-sass');
+var sass        = require('@selfisekai/gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cssnano     = require('gulp-cssnano');
 var cp          = require('child_process');
+
+sass.compiler = require('sass');
 
 var messages = {
   jekyllDev: '<span style="color: grey">Running:</span> $ jekyll build for dev',
