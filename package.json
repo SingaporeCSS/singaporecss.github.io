@@ -19,11 +19,11 @@
   "devDependencies": {
     "@selfisekai/gulp-sass": "^4.2.0",
     "autoprefixer": "^10.3.1",
-    "browser-sync": "^2.27.4",
-    "cssnano": "^5.0.6",
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.7",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.0",
-    "postcss": "^8.3.5",
-    "sass": "^1.35.2"
+    "postcss": "^8.3.6",
+    "sass": "^1.36.0"
   }
 }
