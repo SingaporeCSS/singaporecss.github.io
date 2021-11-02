@@ -18,12 +18,12 @@
   "homepage": "https://github.com/SingaporeCSS/singaporecss.github.io#readme",
   "devDependencies": {
     "@selfisekai/gulp-sass": "^4.2.0",
-    "autoprefixer": "^10.3.1",
-    "browser-sync": "^2.27.5",
-    "cssnano": "^5.0.7",
+    "autoprefixer": "^10.4.0",
+    "browser-sync": "^2.27.7",
+    "cssnano": "^5.0.9",
     "gulp": "^4.0.2",
-    "gulp-postcss": "^9.0.0",
-    "postcss": "^8.3.6",
-    "sass": "^1.36.0"
+    "gulp-postcss": "^9.0.1",
+    "postcss": "^8.3.11",
+    "sass": "^1.43.4"
   }
 }
