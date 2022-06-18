@@ -108,7 +108,6 @@ body {
   background-color: color(bg);
   color: map-get($colours, text);
   color: color(text);
-  font: 16px/1 sans-serif;
   font-family: $base-font;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
